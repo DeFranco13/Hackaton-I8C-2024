@@ -73,14 +73,27 @@
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/jwt-simple@0.5.6/lib/jwt.min.js"></script>
     <script>
+        const secret = 'f2JCKafiERrM5mPCZhNcd77iPMtcrM1k';
+
+        function generateJWT(username) {
+            const payload = {
+                username: username,
+                exp: Math.floor(Date.now() / 1000) + (60 * 60) // Token expires in 1 hour
+            };
+            return jwt.encode(payload, secret);
+        }
+
         function login() {
             var loginName = document.getElementById("loginName").value;
             if (loginName) {
+                var token = generateJWT(loginName);
+                localStorage.setItem('jwtToken', token);
                 var loginButton = document.querySelector(".btn-outline-primary");
                 loginButton.textContent = loginName;
                 loginButton.classList.remove("btn-outline-primary");
-                loginButton.classList.add("btn-primary");
+                loginButton.classList.add("btn-success");
                 $('#loginModal').modal('hide');
             }
         }
