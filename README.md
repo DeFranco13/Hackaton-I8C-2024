@@ -1,6 +1,6 @@
 # Hackaton-I8C-2024
 
-## Teamnleden:
+## Teamleden:
 - Dries Zutterman
 - Yari Miers
 - Yorick Cleerbout
