@@ -21,6 +21,7 @@ def index():
 
 @app.route('/upload', methods=['POST'])
 def upload():
+    print(request)
     file = request.files['file']
     if  file and allowed_file(file.filename):
         content = file.read()
