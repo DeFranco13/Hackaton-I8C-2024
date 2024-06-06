@@ -33,8 +33,12 @@
             <div class="col-md-6 offset-md-3">
                 <form>
                     <div class="form-group">
-                        <label for="personName">Name of Person</label>
-                        <input type="text" class="form-control" id="personName" placeholder="Enter name">
+                        <label for="personName">JSON drop</label>
+                        <div id="file-drop-zone" class="file-drop-zone">
+                          Drag & Drop your JSON file here or click to select
+                        </div>
+                        <input type="file" id="file-input" accept=".json">
+                        <pre id="file-content" class="mt-3"></pre>
                     </div>
                     <button type="submit" class="btn btn-primary btn-block">Submit</button>
                 </form>
@@ -74,6 +78,7 @@
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
     <script>
+
         function login() {
             var loginName = document.getElementById("loginName").value;
             if (loginName) {
@@ -84,6 +89,75 @@
                 $('#loginModal').modal('hide');
             }
         }
+
+        document.addEventListener('DOMContentLoaded', function () {
+          const fileDropZone = document.getElementById('file-drop-zone');
+          const fileInput = document.getElementById('file-input');
+          const fileContent = document.getElementById('file-content');
+
+          fileDropZone.addEventListener('click', () => fileInput.click());
+
+          fileDropZone.addEventListener('dragover', (event) => {
+              event.preventDefault();
+              event.stopPropagation();
+              fileDropZone.classList.add('dragover');
+          });
+
+          fileDropZone.addEventListener('dragleave', (event) => {
+              event.preventDefault();
+              event.stopPropagation();
+              fileDropZone.classList.remove('dragover');
+          });
+
+          fileDropZone.addEventListener('drop', (event) => {
+              event.preventDefault();
+              event.stopPropagation();
+              fileDropZone.classList.remove('dragover');
+              handleFiles(event.dataTransfer.files);
+          });
+
+          fileInput.addEventListener('change', (event) => {
+              handleFiles(event.target.files);
+          });
+
+          function handleFiles(files) {
+              if (files.length > 0) {
+                  const file = files[0];
+                  if (file.type === 'application/json') {
+                      const reader = new FileReader();
+                      reader.onload = function (e) {
+                          const jsonContent = e.target.result;
+                          fileContent.textContent = '';
+                          fileContent.textContent = JSON.stringify(JSON.parse(jsonContent), null, 2);
+                      };
+                      reader.readAsText(file);
+                  } else {
+                      alert('Please drop a valid JSON file.');
+                  }
+              }
+          }
+
+          function submitJson(jsonContent) {
+                fetch('YOUR_ENDPOINT_URL', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: jsonContent
+                })
+                .then(response => response.json())
+                .then(data => {
+                    console.log('Success:', data);
+                    alert('File submitted successfully.');
+                })
+                .catch((error) => {
+                    console.error('Error:', error);
+                    alert('Error submitting file.');
+                });
+            }
+      });
+
     </script>
+    
 </body>
 </html>
