@@ -1,0 +1,2602 @@
+[
+    {
+        "rijksregisternummer": "63198260639",
+        "rijksregister_entered": "eID-read",
+        "timestamp": "2024-02-10 14:36:46",
+        "nurse": "36701192988",
+        "location": {
+            "latitude": 49.691819,
+            "longitude": 5.169186
+        },
+        "service": "DIET_MONITORING",
+        "period": 63,
+        "health_insurance_fund_id": "570"
+    },
+    {
+        "rijksregisternummer": "17199431099",
+        "rijksregister_entered": "barcode_scan",
+        "timestamp": "2024-04-23 12:32:55",
+        "nurse": "36701192988",
+        "location": {
+            "latitude": 51.042075,
+            "longitude": 5.112893
+        },
+        "service": "MEAL_PREPARATION",
+        "period": 90,
+        "health_insurance_fund_id": "590"
+    },
+    {
+        "rijksregisternummer": "55926432011",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-02-08 18:04:40",
+        "nurse": "36701192988",
+        "location": {
+            "latitude": 51.024611,
+            "longitude": 3.520814
+        },
+        "service": "BLOOD_PRESSURE_CHECK",
+        "period": 61,
+        "health_insurance_fund_id": "526"
+    },
+    {
+        "rijksregisternummer": "69964813237",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-01-26 12:43:40",
+        "nurse": "36701192988",
+        "location": {
+            "latitude": 50.878581,
+            "longitude": 6.188392
+        },
+        "service": "BLOOD_SUGAR_MONITORING",
+        "period": 52,
+        "health_insurance_fund_id": "578"
+    },
+    {
+        "rijksregisternummer": "45152216649",
+        "rijksregister_entered": "eID-read",
+        "timestamp": "2024-05-09 18:10:48",
+        "nurse": "36701192988",
+        "location": {
+            "latitude": 49.985223,
+            "longitude": 5.200581
+        },
+        "service": "BLOOD_SUGAR_MONITORING",
+        "period": 88,
+        "health_insurance_fund_id": "273"
+    },
+    {
+        "rijksregisternummer": "99882797759",
+        "rijksregister_entered": "barcode_scan",
+        "timestamp": "2024-04-04 17:21:09",
+        "nurse": "36701192988",
+        "location": {
+            "latitude": 50.706167,
+            "longitude": 3.879969
+        },
+        "service": "FEEDING_ASSISTANCE",
+        "period": 60,
+        "health_insurance_fund_id": "519"
+    },
+    {
+        "rijksregisternummer": "96482877310",
+        "rijksregister_entered": "eID-read",
+        "timestamp": "2024-03-05 16:05:11",
+        "nurse": "36701192988",
+        "location": {
+            "latitude": 49.710898,
+            "longitude": 4.064309
+        },
+        "service": "WALKING_ASSISTANCE",
+        "period": 68,
+        "health_insurance_fund_id": "578"
+    },
+    {
+        "rijksregisternummer": "61984048937",
+        "rijksregister_entered": "barcode_scan",
+        "timestamp": "2024-02-20 13:57:36",
+        "nurse": "36701192988",
+        "location": {
+            "latitude": 49.667317,
+            "longitude": 6.101469
+        },
+        "service": "INJECTION_ADMINISTRATION",
+        "period": 63,
+        "health_insurance_fund_id": "548"
+    },
+    {
+        "rijksregisternummer": "20426021968",
+        "rijksregister_entered": "eID-read",
+        "timestamp": "2024-01-16 13:10:57",
+        "nurse": "36701192988",
+        "location": {
+            "latitude": 51.250544,
+            "longitude": 2.762544
+        },
+        "service": "BLOOD_PRESSURE_CHECK",
+        "period": 35,
+        "health_insurance_fund_id": "562"
+    },
+    {
+        "rijksregisternummer": "82228962413",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-02-24 17:45:35",
+        "nurse": "36701192988",
+        "location": {
+            "latitude": 50.269722,
+            "longitude": 2.843736
+        },
+        "service": "HAIR_CARE",
+        "period": 35,
+        "health_insurance_fund_id": "404"
+    },
+    {
+        "rijksregisternummer": "63172054453",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-02-17 22:35:15",
+        "nurse": "36701192988",
+        "location": {
+            "latitude": 50.266271,
+            "longitude": 5.730383
+        },
+        "service": "TEMPERATURE_MONITORING",
+        "period": 43,
+        "health_insurance_fund_id": "523"
+    },
+    {
+        "rijksregisternummer": "54344271453",
+        "rijksregister_entered": "eID-read",
+        "timestamp": "2024-04-16 13:26:56",
+        "nurse": "36701192988",
+        "location": {
+            "latitude": 49.868076,
+            "longitude": 4.845757
+        },
+        "service": "WALKING_ASSISTANCE",
+        "period": 87,
+        "health_insurance_fund_id": "523"
+    },
+    {
+        "rijksregisternummer": "55382366134",
+        "rijksregister_entered": "barcode_scan",
+        "timestamp": "2024-06-07 20:20:43",
+        "nurse": "36701192988",
+        "location": {
+            "latitude": 50.255082,
+            "longitude": 2.702134
+        },
+        "service": "BLOOD_PRESSURE_CHECK",
+        "period": 48,
+        "health_insurance_fund_id": "508"
+    },
+    {
+        "rijksregisternummer": "30525159991",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-01-21 03:13:21",
+        "nurse": "36701192988",
+        "location": {
+            "latitude": 50.836464,
+            "longitude": 3.809632
+        },
+        "service": "TRANSFER_ASSISTANCE",
+        "period": 61,
+        "health_insurance_fund_id": "986"
+    },
+    {
+        "rijksregisternummer": "56488697943",
+        "rijksregister_entered": "eID-read",
+        "timestamp": "2024-01-04 10:33:42",
+        "nurse": "36701192988",
+        "location": {
+            "latitude": 51.181579,
+            "longitude": 5.874394
+        },
+        "service": "TEMPERATURE_MONITORING",
+        "period": 78,
+        "health_insurance_fund_id": "582"
+    },
+    {
+        "rijksregisternummer": "77414720961",
+        "rijksregister_entered": "eID-read",
+        "timestamp": "2024-05-31 15:17:58",
+        "nurse": "36701192988",
+        "location": {
+            "latitude": 50.747825,
+            "longitude": 2.71489
+        },
+        "service": "INJECTION_ADMINISTRATION",
+        "period": 41,
+        "health_insurance_fund_id": "276"
+    },
+    {
+        "rijksregisternummer": "57689265713",
+        "rijksregister_entered": "eID-read",
+        "timestamp": "2024-01-28 16:25:39",
+        "nurse": "36701192988",
+        "location": {
+            "latitude": 50.532255,
+            "longitude": 2.656649
+        },
+        "service": "TEMPERATURE_MONITORING",
+        "period": 68,
+        "health_insurance_fund_id": "543"
+    },
+    {
+        "rijksregisternummer": "17269656868",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-06-04 13:52:06",
+        "nurse": "36701192988",
+        "location": {
+            "latitude": 50.461174,
+            "longitude": 2.785893
+        },
+        "service": "BATHING",
+        "period": 84,
+        "health_insurance_fund_id": "853"
+    },
+    {
+        "rijksregisternummer": "51656537859",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-04-22 12:46:36",
+        "nurse": "36701192988",
+        "location": {
+            "latitude": 51.020065,
+            "longitude": 3.143086
+        },
+        "service": "WALKING_ASSISTANCE",
+        "period": 68,
+        "health_insurance_fund_id": "525"
+    },
+    {
+        "rijksregisternummer": "89324770412",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-02-03 13:42:21",
+        "nurse": "36701192988",
+        "location": {
+            "latitude": 50.894202,
+            "longitude": 3.993597
+        },
+        "service": "BATHING",
+        "period": 46,
+        "health_insurance_fund_id": "551"
+    },
+    {
+        "rijksregisternummer": "45974757995",
+        "rijksregister_entered": "eID-read",
+        "timestamp": "2024-03-19 03:59:13",
+        "nurse": "53892580465",
+        "location": {
+            "latitude": 50.993207,
+            "longitude": 3.277598
+        },
+        "service": "DIET_MONITORING",
+        "period": 70,
+        "health_insurance_fund_id": "525"
+    },
+    {
+        "rijksregisternummer": "58871318745",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-04-09 04:07:23",
+        "nurse": "53892580465",
+        "location": {
+            "latitude": 51.103429,
+            "longitude": 4.569751
+        },
+        "service": "MEAL_PREPARATION",
+        "period": 64,
+        "health_insurance_fund_id": "583"
+    },
+    {
+        "rijksregisternummer": "19158794746",
+        "rijksregister_entered": "eID-read",
+        "timestamp": "2024-03-22 19:54:18",
+        "nurse": "53892580465",
+        "location": {
+            "latitude": 50.182798,
+            "longitude": 5.993395
+        },
+        "service": "MEAL_PREPARATION",
+        "period": 78,
+        "health_insurance_fund_id": "537"
+    },
+    {
+        "rijksregisternummer": "64435836824",
+        "rijksregister_entered": "eID-read",
+        "timestamp": "2024-01-10 18:46:09",
+        "nurse": "53892580465",
+        "location": {
+            "latitude": 50.236785,
+            "longitude": 5.985843
+        },
+        "service": "BATHING",
+        "period": 32,
+        "health_insurance_fund_id": "539"
+    },
+    {
+        "rijksregisternummer": "84484953922",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-04-20 16:20:34",
+        "nurse": "53892580465",
+        "location": {
+            "latitude": 50.251444,
+            "longitude": 2.981658
+        },
+        "service": "PILL_DISPENSING",
+        "period": 63,
+        "health_insurance_fund_id": "337"
+    },
+    {
+        "rijksregisternummer": "95178261212",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-02-03 16:07:59",
+        "nurse": "53892580465",
+        "location": {
+            "latitude": 50.148432,
+            "longitude": 3.036791
+        },
+        "service": "HAIR_CARE",
+        "period": 66,
+        "health_insurance_fund_id": "546"
+    },
+    {
+        "rijksregisternummer": "33882482989",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-05-19 21:31:47",
+        "nurse": "53892580465",
+        "location": {
+            "latitude": 50.02706,
+            "longitude": 4.17829
+        },
+        "service": "BATHING",
+        "period": 47,
+        "health_insurance_fund_id": "581"
+    },
+    {
+        "rijksregisternummer": "17971466279",
+        "rijksregister_entered": "barcode_scan",
+        "timestamp": "2024-04-15 16:56:02",
+        "nurse": "53892580465",
+        "location": {
+            "latitude": 49.617894,
+            "longitude": 4.811357
+        },
+        "service": "DENTAL_CARE",
+        "period": 59,
+        "health_insurance_fund_id": "710"
+    },
+    {
+        "rijksregisternummer": "75888260247",
+        "rijksregister_entered": "barcode_scan",
+        "timestamp": "2024-05-07 17:03:10",
+        "nurse": "53892580465",
+        "location": {
+            "latitude": 49.571902,
+            "longitude": 5.358865
+        },
+        "service": "BATHING",
+        "period": 79,
+        "health_insurance_fund_id": "577"
+    },
+    {
+        "rijksregisternummer": "44185386885",
+        "rijksregister_entered": "barcode_scan",
+        "timestamp": "2024-05-13 21:12:28",
+        "nurse": "53892580465",
+        "location": {
+            "latitude": 51.354185,
+            "longitude": 3.466746
+        },
+        "service": "WALKING_ASSISTANCE",
+        "period": 43,
+        "health_insurance_fund_id": "596"
+    },
+    {
+        "rijksregisternummer": "81746390295",
+        "rijksregister_entered": "barcode_scan",
+        "timestamp": "2024-02-02 19:46:56",
+        "nurse": "53892580465",
+        "location": {
+            "latitude": 49.685586,
+            "longitude": 4.361306
+        },
+        "service": "HAIR_CARE",
+        "period": 81,
+        "health_insurance_fund_id": "678"
+    },
+    {
+        "rijksregisternummer": "67883812087",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-02-11 15:48:31",
+        "nurse": "53892580465",
+        "location": {
+            "latitude": 50.466083,
+            "longitude": 3.457124
+        },
+        "service": "MEAL_PREPARATION",
+        "period": 39,
+        "health_insurance_fund_id": "374"
+    },
+    {
+        "rijksregisternummer": "82249226923",
+        "rijksregister_entered": "eID-read",
+        "timestamp": "2024-01-04 13:35:29",
+        "nurse": "53892580465",
+        "location": {
+            "latitude": 49.681893,
+            "longitude": 5.531603
+        },
+        "service": "INFUSION_THERAPY",
+        "period": 69,
+        "health_insurance_fund_id": "511"
+    },
+    {
+        "rijksregisternummer": "69736435365",
+        "rijksregister_entered": "barcode_scan",
+        "timestamp": "2024-05-22 19:46:43",
+        "nurse": "53892580465",
+        "location": {
+            "latitude": 50.029019,
+            "longitude": 5.253257
+        },
+        "service": "BATHING",
+        "period": 63,
+        "health_insurance_fund_id": "507"
+    },
+    {
+        "rijksregisternummer": "12195387566",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-02-08 17:09:57",
+        "nurse": "53892580465",
+        "location": {
+            "latitude": 51.3853,
+            "longitude": 6.164129
+        },
+        "service": "TRANSFER_ASSISTANCE",
+        "period": 38,
+        "health_insurance_fund_id": "551"
+    },
+    {
+        "rijksregisternummer": "65104367310",
+        "rijksregister_entered": "barcode_scan",
+        "timestamp": "2024-03-08 11:58:30",
+        "nurse": "53892580465",
+        "location": {
+            "latitude": 51.04568,
+            "longitude": 2.915095
+        },
+        "service": "FEEDING_ASSISTANCE",
+        "period": 69,
+        "health_insurance_fund_id": "533"
+    },
+    {
+        "rijksregisternummer": "23935446792",
+        "rijksregister_entered": "barcode_scan",
+        "timestamp": "2024-02-25 18:04:43",
+        "nurse": "53892580465",
+        "location": {
+            "latitude": 50.994456,
+            "longitude": 5.196847
+        },
+        "service": "BATHING",
+        "period": 90,
+        "health_insurance_fund_id": "508"
+    },
+    {
+        "rijksregisternummer": "63472661875",
+        "rijksregister_entered": "barcode_scan",
+        "timestamp": "2024-03-24 09:28:27",
+        "nurse": "53892580465",
+        "location": {
+            "latitude": 50.057156,
+            "longitude": 5.390317
+        },
+        "service": "BLOOD_SUGAR_MONITORING",
+        "period": 72,
+        "health_insurance_fund_id": "586"
+    },
+    {
+        "rijksregisternummer": "68463454730",
+        "rijksregister_entered": "eID-read",
+        "timestamp": "2024-02-17 09:42:26",
+        "nurse": "53892580465",
+        "location": {
+            "latitude": 50.952299,
+            "longitude": 3.336009
+        },
+        "service": "TRANSFER_ASSISTANCE",
+        "period": 84,
+        "health_insurance_fund_id": "103"
+    },
+    {
+        "rijksregisternummer": "42553965551",
+        "rijksregister_entered": "eID-read",
+        "timestamp": "2024-05-22 18:00:31",
+        "nurse": "53892580465",
+        "location": {
+            "latitude": 50.0007,
+            "longitude": 4.602964
+        },
+        "service": "WALKING_ASSISTANCE",
+        "period": 86,
+        "health_insurance_fund_id": "583"
+    },
+    {
+        "rijksregisternummer": "91642560618",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-01-17 18:03:36",
+        "nurse": "20173384979",
+        "location": {
+            "latitude": 50.920738,
+            "longitude": 5.623783
+        },
+        "service": "PILL_DISPENSING",
+        "period": 89,
+        "health_insurance_fund_id": "514"
+    },
+    {
+        "rijksregisternummer": "81572191343",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-03-28 14:17:58",
+        "nurse": "20173384979",
+        "location": {
+            "latitude": 50.001166,
+            "longitude": 4.422088
+        },
+        "service": "INJECTION_ADMINISTRATION",
+        "period": 43,
+        "health_insurance_fund_id": "519"
+    },
+    {
+        "rijksregisternummer": "11582434610",
+        "rijksregister_entered": "eID-read",
+        "timestamp": "2024-02-25 15:02:04",
+        "nurse": "20173384979",
+        "location": {
+            "latitude": 50.580928,
+            "longitude": 2.634012
+        },
+        "service": "INJECTION_ADMINISTRATION",
+        "period": 43,
+        "health_insurance_fund_id": "566"
+    },
+    {
+        "rijksregisternummer": "65656032834",
+        "rijksregister_entered": "barcode_scan",
+        "timestamp": "2024-03-22 10:04:20",
+        "nurse": "20173384979",
+        "location": {
+            "latitude": 50.638656,
+            "longitude": 5.654604
+        },
+        "service": "DIET_MONITORING",
+        "period": 83,
+        "health_insurance_fund_id": "545"
+    },
+    {
+        "rijksregisternummer": "86592882819",
+        "rijksregister_entered": "eID-read",
+        "timestamp": "2024-02-20 21:01:21",
+        "nurse": "20173384979",
+        "location": {
+            "latitude": 50.332072,
+            "longitude": 5.995336
+        },
+        "service": "FEEDING_ASSISTANCE",
+        "period": 35,
+        "health_insurance_fund_id": "234"
+    },
+    {
+        "rijksregisternummer": "71567954780",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-06-02 09:14:41",
+        "nurse": "20173384979",
+        "location": {
+            "latitude": 49.549067,
+            "longitude": 3.158348
+        },
+        "service": "DENTAL_CARE",
+        "period": 53,
+        "health_insurance_fund_id": "524"
+    },
+    {
+        "rijksregisternummer": "57381250955",
+        "rijksregister_entered": "barcode_scan",
+        "timestamp": "2024-06-04 22:11:23",
+        "nurse": "20173384979",
+        "location": {
+            "latitude": 50.79869,
+            "longitude": 4.932455
+        },
+        "service": "TEMPERATURE_MONITORING",
+        "period": 57,
+        "health_insurance_fund_id": "523"
+    },
+    {
+        "rijksregisternummer": "19717884930",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-03-06 18:02:42",
+        "nurse": "20173384979",
+        "location": {
+            "latitude": 50.164158,
+            "longitude": 6.018532
+        },
+        "service": "DIET_MONITORING",
+        "period": 90,
+        "health_insurance_fund_id": "332"
+    },
+    {
+        "rijksregisternummer": "92845536278",
+        "rijksregister_entered": "eID-read",
+        "timestamp": "2024-03-29 02:12:58",
+        "nurse": "20173384979",
+        "location": {
+            "latitude": 51.158714,
+            "longitude": 2.813903
+        },
+        "service": "DIET_MONITORING",
+        "period": 41,
+        "health_insurance_fund_id": "244"
+    },
+    {
+        "rijksregisternummer": "91447117237",
+        "rijksregister_entered": "eID-read",
+        "timestamp": "2024-05-13 01:13:53",
+        "nurse": "20173384979",
+        "location": {
+            "latitude": 49.699727,
+            "longitude": 4.177909
+        },
+        "service": "BLOOD_PRESSURE_CHECK",
+        "period": 68,
+        "health_insurance_fund_id": "567"
+    },
+    {
+        "rijksregisternummer": "63227568310",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-03-15 16:06:09",
+        "nurse": "20173384979",
+        "location": {
+            "latitude": 50.04616,
+            "longitude": 5.659197
+        },
+        "service": "MEAL_PREPARATION",
+        "period": 66,
+        "health_insurance_fund_id": "540"
+    },
+    {
+        "rijksregisternummer": "98511437911",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-01-04 16:02:25",
+        "nurse": "20173384979",
+        "location": {
+            "latitude": 50.980923,
+            "longitude": 4.591743
+        },
+        "service": "DIET_MONITORING",
+        "period": 83,
+        "health_insurance_fund_id": "518"
+    },
+    {
+        "rijksregisternummer": "40662364744",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-03-06 20:01:37",
+        "nurse": "20173384979",
+        "location": {
+            "latitude": 50.418023,
+            "longitude": 3.169531
+        },
+        "service": "HAIR_CARE",
+        "period": 32,
+        "health_insurance_fund_id": "610"
+    },
+    {
+        "rijksregisternummer": "69691387699",
+        "rijksregister_entered": "barcode_scan",
+        "timestamp": "2024-01-28 10:01:02",
+        "nurse": "20173384979",
+        "location": {
+            "latitude": 50.861636,
+            "longitude": 3.831431
+        },
+        "service": "DENTAL_CARE",
+        "period": 36,
+        "health_insurance_fund_id": "999"
+    },
+    {
+        "rijksregisternummer": "66671127038",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-04-27 20:43:56",
+        "nurse": "20173384979",
+        "location": {
+            "latitude": 49.650342,
+            "longitude": 5.00949
+        },
+        "service": "BLOOD_PRESSURE_CHECK",
+        "period": 73,
+        "health_insurance_fund_id": "520"
+    },
+    {
+        "rijksregisternummer": "30911611771",
+        "rijksregister_entered": "barcode_scan",
+        "timestamp": "2024-01-09 17:03:46",
+        "nurse": "20173384979",
+        "location": {
+            "latitude": 51.187935,
+            "longitude": 3.388373
+        },
+        "service": "MEAL_PREPARATION",
+        "period": 67,
+        "health_insurance_fund_id": "598"
+    },
+    {
+        "rijksregisternummer": "90414891075",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-01-19 23:16:12",
+        "nurse": "20173384979",
+        "location": {
+            "latitude": 50.903026,
+            "longitude": 5.28004
+        },
+        "service": "TEMPERATURE_MONITORING",
+        "period": 46,
+        "health_insurance_fund_id": "509"
+    },
+    {
+        "rijksregisternummer": "35434721168",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-05-03 14:50:05",
+        "nurse": "20173384979",
+        "location": {
+            "latitude": 50.631131,
+            "longitude": 4.052728
+        },
+        "service": "BLOOD_PRESSURE_CHECK",
+        "period": 53,
+        "health_insurance_fund_id": "571"
+    },
+    {
+        "rijksregisternummer": "22984033880",
+        "rijksregister_entered": "barcode_scan",
+        "timestamp": "2024-02-05 19:24:55",
+        "nurse": "20173384979",
+        "location": {
+            "latitude": 49.614583,
+            "longitude": 3.816484
+        },
+        "service": "BLOOD_PRESSURE_CHECK",
+        "period": 58,
+        "health_insurance_fund_id": "789"
+    },
+    {
+        "rijksregisternummer": "64123148595",
+        "rijksregister_entered": "eID-read",
+        "timestamp": "2024-03-15 04:20:40",
+        "nurse": "20173384979",
+        "location": {
+            "latitude": 51.304017,
+            "longitude": 4.02046
+        },
+        "service": "BATHING",
+        "period": 35,
+        "health_insurance_fund_id": "529"
+    },
+    {
+        "rijksregisternummer": "99805121782",
+        "rijksregister_entered": "barcode_scan",
+        "timestamp": "2024-03-20 21:57:53",
+        "nurse": "23167976266",
+        "location": {
+            "latitude": 51.224026,
+            "longitude": 3.665889
+        },
+        "service": "DIET_MONITORING",
+        "period": 66,
+        "health_insurance_fund_id": "501"
+    },
+    {
+        "rijksregisternummer": "53123051158",
+        "rijksregister_entered": "eID-read",
+        "timestamp": "2024-04-24 15:31:57",
+        "nurse": "23167976266",
+        "location": {
+            "latitude": 51.084327,
+            "longitude": 6.391614
+        },
+        "service": "INFUSION_THERAPY",
+        "period": 62,
+        "health_insurance_fund_id": "662"
+    },
+    {
+        "rijksregisternummer": "13972575363",
+        "rijksregister_entered": "barcode_scan",
+        "timestamp": "2024-03-28 09:06:58",
+        "nurse": "23167976266",
+        "location": {
+            "latitude": 49.92897,
+            "longitude": 6.314939
+        },
+        "service": "INJECTION_ADMINISTRATION",
+        "period": 60,
+        "health_insurance_fund_id": "588"
+    },
+    {
+        "rijksregisternummer": "44414730348",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-05-07 18:17:23",
+        "nurse": "23167976266",
+        "location": {
+            "latitude": 50.762194,
+            "longitude": 5.479478
+        },
+        "service": "DENTAL_CARE",
+        "period": 43,
+        "health_insurance_fund_id": "531"
+    },
+    {
+        "rijksregisternummer": "35697888047",
+        "rijksregister_entered": "barcode_scan",
+        "timestamp": "2024-03-20 20:19:46",
+        "nurse": "23167976266",
+        "location": {
+            "latitude": 51.250937,
+            "longitude": 4.318649
+        },
+        "service": "TRANSFER_ASSISTANCE",
+        "period": 42,
+        "health_insurance_fund_id": "538"
+    },
+    {
+        "rijksregisternummer": "58649838335",
+        "rijksregister_entered": "eID-read",
+        "timestamp": "2024-01-13 23:14:54",
+        "nurse": "23167976266",
+        "location": {
+            "latitude": 51.022359,
+            "longitude": 6.375558
+        },
+        "service": "HAIR_CARE",
+        "period": 33,
+        "health_insurance_fund_id": "577"
+    },
+    {
+        "rijksregisternummer": "32838025165",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-01-20 18:58:38",
+        "nurse": "23167976266",
+        "location": {
+            "latitude": 49.74114,
+            "longitude": 2.574236
+        },
+        "service": "BLOOD_PRESSURE_CHECK",
+        "period": 54,
+        "health_insurance_fund_id": "521"
+    },
+    {
+        "rijksregisternummer": "99995124624",
+        "rijksregister_entered": "eID-read",
+        "timestamp": "2024-05-20 16:17:21",
+        "nurse": "23167976266",
+        "location": {
+            "latitude": 50.041758,
+            "longitude": 3.135858
+        },
+        "service": "PILL_DISPENSING",
+        "period": 52,
+        "health_insurance_fund_id": "549"
+    },
+    {
+        "rijksregisternummer": "60676788462",
+        "rijksregister_entered": "eID-read",
+        "timestamp": "2024-05-30 19:33:28",
+        "nurse": "23167976266",
+        "location": {
+            "latitude": 51.121064,
+            "longitude": 5.186001
+        },
+        "service": "DENTAL_CARE",
+        "period": 62,
+        "health_insurance_fund_id": "501"
+    },
+    {
+        "rijksregisternummer": "43845240788",
+        "rijksregister_entered": "barcode_scan",
+        "timestamp": "2024-02-24 22:44:20",
+        "nurse": "23167976266",
+        "location": {
+            "latitude": 50.404584,
+            "longitude": 5.326147
+        },
+        "service": "MEAL_PREPARATION",
+        "period": 45,
+        "health_insurance_fund_id": "580"
+    },
+    {
+        "rijksregisternummer": "24104499593",
+        "rijksregister_entered": "barcode_scan",
+        "timestamp": "2024-04-23 05:02:15",
+        "nurse": "23167976266",
+        "location": {
+            "latitude": 50.359326,
+            "longitude": 6.395868
+        },
+        "service": "INFUSION_THERAPY",
+        "period": 46,
+        "health_insurance_fund_id": "033"
+    },
+    {
+        "rijksregisternummer": "24995712953",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-03-09 23:56:27",
+        "nurse": "23167976266",
+        "location": {
+            "latitude": 50.284612,
+            "longitude": 5.399952
+        },
+        "service": "WALKING_ASSISTANCE",
+        "period": 89,
+        "health_insurance_fund_id": "535"
+    },
+    {
+        "rijksregisternummer": "61312731061",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-03-23 02:31:01",
+        "nurse": "23167976266",
+        "location": {
+            "latitude": 50.553228,
+            "longitude": 3.790485
+        },
+        "service": "PHYSICAL_THERAPY",
+        "period": 59,
+        "health_insurance_fund_id": "547"
+    },
+    {
+        "rijksregisternummer": "91697254996",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-03-13 05:44:21",
+        "nurse": "23167976266",
+        "location": {
+            "latitude": 50.095399,
+            "longitude": 5.02699
+        },
+        "service": "TRANSFER_ASSISTANCE",
+        "period": 60,
+        "health_insurance_fund_id": "603"
+    },
+    {
+        "rijksregisternummer": "75159697784",
+        "rijksregister_entered": "barcode_scan",
+        "timestamp": "2024-04-17 20:33:19",
+        "nurse": "23167976266",
+        "location": {
+            "latitude": 49.550954,
+            "longitude": 4.172982
+        },
+        "service": "DENTAL_CARE",
+        "period": 87,
+        "health_insurance_fund_id": "544"
+    },
+    {
+        "rijksregisternummer": "80996476829",
+        "rijksregister_entered": "barcode_scan",
+        "timestamp": "2024-01-24 21:45:51",
+        "nurse": "23167976266",
+        "location": {
+            "latitude": 50.27816,
+            "longitude": 6.182601
+        },
+        "service": "WALKING_ASSISTANCE",
+        "period": 51,
+        "health_insurance_fund_id": "767"
+    },
+    {
+        "rijksregisternummer": "45184436745",
+        "rijksregister_entered": "eID-read",
+        "timestamp": "2024-03-05 01:47:34",
+        "nurse": "23167976266",
+        "location": {
+            "latitude": 50.391845,
+            "longitude": 6.069802
+        },
+        "service": "BLOOD_SUGAR_MONITORING",
+        "period": 33,
+        "health_insurance_fund_id": "597"
+    },
+    {
+        "rijksregisternummer": "41436543390",
+        "rijksregister_entered": "eID-read",
+        "timestamp": "2024-04-13 14:05:53",
+        "nurse": "23167976266",
+        "location": {
+            "latitude": 49.845738,
+            "longitude": 4.753127
+        },
+        "service": "WALKING_ASSISTANCE",
+        "period": 46,
+        "health_insurance_fund_id": "502"
+    },
+    {
+        "rijksregisternummer": "95376257626",
+        "rijksregister_entered": "barcode_scan",
+        "timestamp": "2024-04-12 03:09:37",
+        "nurse": "23167976266",
+        "location": {
+            "latitude": 50.470628,
+            "longitude": 4.275454
+        },
+        "service": "DENTAL_CARE",
+        "period": 47,
+        "health_insurance_fund_id": "542"
+    },
+    {
+        "rijksregisternummer": "85346276175",
+        "rijksregister_entered": "barcode_scan",
+        "timestamp": "2024-02-27 00:36:26",
+        "nurse": "23167976266",
+        "location": {
+            "latitude": 50.082781,
+            "longitude": 2.77492
+        },
+        "service": "MEAL_PREPARATION",
+        "period": 79,
+        "health_insurance_fund_id": "065"
+    },
+    {
+        "rijksregisternummer": "62548149344",
+        "rijksregister_entered": "eID-read",
+        "timestamp": "2024-03-05 19:50:32",
+        "nurse": "23535710577",
+        "location": {
+            "latitude": 49.766272,
+            "longitude": 2.987137
+        },
+        "service": "DIET_MONITORING",
+        "period": 89,
+        "health_insurance_fund_id": "533"
+    },
+    {
+        "rijksregisternummer": "36295362462",
+        "rijksregister_entered": "barcode_scan",
+        "timestamp": "2024-01-16 23:37:05",
+        "nurse": "23535710577",
+        "location": {
+            "latitude": 51.382338,
+            "longitude": 4.668034
+        },
+        "service": "FEEDING_ASSISTANCE",
+        "period": 56,
+        "health_insurance_fund_id": "326"
+    },
+    {
+        "rijksregisternummer": "26197941637",
+        "rijksregister_entered": "barcode_scan",
+        "timestamp": "2024-03-13 18:51:36",
+        "nurse": "23535710577",
+        "location": {
+            "latitude": 51.085911,
+            "longitude": 5.754987
+        },
+        "service": "PHYSICAL_THERAPY",
+        "period": 63,
+        "health_insurance_fund_id": "500"
+    },
+    {
+        "rijksregisternummer": "34878939944",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-03-13 02:20:52",
+        "nurse": "23535710577",
+        "location": {
+            "latitude": 50.586559,
+            "longitude": 3.079831
+        },
+        "service": "DENTAL_CARE",
+        "period": 75,
+        "health_insurance_fund_id": "524"
+    },
+    {
+        "rijksregisternummer": "53911225632",
+        "rijksregister_entered": "barcode_scan",
+        "timestamp": "2024-02-09 23:16:47",
+        "nurse": "23535710577",
+        "location": {
+            "latitude": 50.567245,
+            "longitude": 6.358316
+        },
+        "service": "BATHING",
+        "period": 74,
+        "health_insurance_fund_id": "861"
+    },
+    {
+        "rijksregisternummer": "47772270542",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-05-15 20:19:28",
+        "nurse": "23535710577",
+        "location": {
+            "latitude": 51.318559,
+            "longitude": 4.957174
+        },
+        "service": "TRANSFER_ASSISTANCE",
+        "period": 55,
+        "health_insurance_fund_id": "650"
+    },
+    {
+        "rijksregisternummer": "37915054369",
+        "rijksregister_entered": "barcode_scan",
+        "timestamp": "2024-02-15 22:15:57",
+        "nurse": "23535710577",
+        "location": {
+            "latitude": 49.970208,
+            "longitude": 5.38976
+        },
+        "service": "DENTAL_CARE",
+        "period": 70,
+        "health_insurance_fund_id": "571"
+    },
+    {
+        "rijksregisternummer": "99162778734",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-02-28 21:05:46",
+        "nurse": "23535710577",
+        "location": {
+            "latitude": 51.496114,
+            "longitude": 4.151227
+        },
+        "service": "WALKING_ASSISTANCE",
+        "period": 54,
+        "health_insurance_fund_id": "567"
+    },
+    {
+        "rijksregisternummer": "19512928969",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-03-25 12:57:12",
+        "nurse": "23535710577",
+        "location": {
+            "latitude": 51.189306,
+            "longitude": 4.220613
+        },
+        "service": "PHYSICAL_THERAPY",
+        "period": 80,
+        "health_insurance_fund_id": "549"
+    },
+    {
+        "rijksregisternummer": "36788073957",
+        "rijksregister_entered": "barcode_scan",
+        "timestamp": "2024-01-09 19:43:35",
+        "nurse": "23535710577",
+        "location": {
+            "latitude": 50.282501,
+            "longitude": 4.353577
+        },
+        "service": "MEAL_PREPARATION",
+        "period": 50,
+        "health_insurance_fund_id": "571"
+    },
+    {
+        "rijksregisternummer": "36591386528",
+        "rijksregister_entered": "eID-read",
+        "timestamp": "2024-03-16 20:58:45",
+        "nurse": "23535710577",
+        "location": {
+            "latitude": 49.679235,
+            "longitude": 3.23969
+        },
+        "service": "INFUSION_THERAPY",
+        "period": 44,
+        "health_insurance_fund_id": "546"
+    },
+    {
+        "rijksregisternummer": "56451839240",
+        "rijksregister_entered": "eID-read",
+        "timestamp": "2024-01-26 22:04:13",
+        "nurse": "23535710577",
+        "location": {
+            "latitude": 50.058774,
+            "longitude": 4.771535
+        },
+        "service": "MEAL_PREPARATION",
+        "period": 89,
+        "health_insurance_fund_id": "534"
+    },
+    {
+        "rijksregisternummer": "69793329360",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-03-23 08:04:42",
+        "nurse": "23535710577",
+        "location": {
+            "latitude": 50.223136,
+            "longitude": 4.85819
+        },
+        "service": "MEAL_PREPARATION",
+        "period": 36,
+        "health_insurance_fund_id": "598"
+    },
+    {
+        "rijksregisternummer": "47274187275",
+        "rijksregister_entered": "eID-read",
+        "timestamp": "2024-02-22 18:28:02",
+        "nurse": "23535710577",
+        "location": {
+            "latitude": 49.786951,
+            "longitude": 5.634403
+        },
+        "service": "TEMPERATURE_MONITORING",
+        "period": 36,
+        "health_insurance_fund_id": "594"
+    },
+    {
+        "rijksregisternummer": "36667647796",
+        "rijksregister_entered": "barcode_scan",
+        "timestamp": "2024-05-01 22:13:37",
+        "nurse": "23535710577",
+        "location": {
+            "latitude": 50.523441,
+            "longitude": 2.552811
+        },
+        "service": "FEEDING_ASSISTANCE",
+        "period": 77,
+        "health_insurance_fund_id": "510"
+    },
+    {
+        "rijksregisternummer": "20445197943",
+        "rijksregister_entered": "barcode_scan",
+        "timestamp": "2024-01-22 21:18:43",
+        "nurse": "23535710577",
+        "location": {
+            "latitude": 49.834355,
+            "longitude": 5.623666
+        },
+        "service": "PHYSICAL_THERAPY",
+        "period": 88,
+        "health_insurance_fund_id": "598"
+    },
+    {
+        "rijksregisternummer": "72389226673",
+        "rijksregister_entered": "barcode_scan",
+        "timestamp": "2024-04-07 23:07:41",
+        "nurse": "23535710577",
+        "location": {
+            "latitude": 49.506934,
+            "longitude": 4.638601
+        },
+        "service": "INJECTION_ADMINISTRATION",
+        "period": 57,
+        "health_insurance_fund_id": "519"
+    },
+    {
+        "rijksregisternummer": "81267097873",
+        "rijksregister_entered": "eID-read",
+        "timestamp": "2024-05-17 22:44:02",
+        "nurse": "23535710577",
+        "location": {
+            "latitude": 50.458847,
+            "longitude": 2.720461
+        },
+        "service": "HAIR_CARE",
+        "period": 81,
+        "health_insurance_fund_id": "958"
+    },
+    {
+        "rijksregisternummer": "48154686968",
+        "rijksregister_entered": "eID-read",
+        "timestamp": "2024-03-08 16:28:45",
+        "nurse": "23535710577",
+        "location": {
+            "latitude": 50.621304,
+            "longitude": 2.707792
+        },
+        "service": "BATHING",
+        "period": 46,
+        "health_insurance_fund_id": "566"
+    },
+    {
+        "rijksregisternummer": "78602552410",
+        "rijksregister_entered": "barcode_scan",
+        "timestamp": "2024-01-18 11:31:49",
+        "nurse": "23535710577",
+        "location": {
+            "latitude": 50.759564,
+            "longitude": 3.333944
+        },
+        "service": "FEEDING_ASSISTANCE",
+        "period": 83,
+        "health_insurance_fund_id": "518"
+    },
+    {
+        "rijksregisternummer": "87216388012",
+        "rijksregister_entered": "eID-read",
+        "timestamp": "2024-03-15 21:38:27",
+        "nurse": "17384177459",
+        "location": {
+            "latitude": 51.260035,
+            "longitude": 5.982458
+        },
+        "service": "TRANSFER_ASSISTANCE",
+        "period": 60,
+        "health_insurance_fund_id": "976"
+    },
+    {
+        "rijksregisternummer": "14797089124",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-01-22 23:29:51",
+        "nurse": "17384177459",
+        "location": {
+            "latitude": 50.741606,
+            "longitude": 5.87884
+        },
+        "service": "WALKING_ASSISTANCE",
+        "period": 41,
+        "health_insurance_fund_id": "580"
+    },
+    {
+        "rijksregisternummer": "90442222669",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-02-13 18:14:57",
+        "nurse": "17384177459",
+        "location": {
+            "latitude": 50.826741,
+            "longitude": 3.471752
+        },
+        "service": "TRANSFER_ASSISTANCE",
+        "period": 40,
+        "health_insurance_fund_id": "581"
+    },
+    {
+        "rijksregisternummer": "33681015390",
+        "rijksregister_entered": "barcode_scan",
+        "timestamp": "2024-01-15 23:26:01",
+        "nurse": "17384177459",
+        "location": {
+            "latitude": 50.08801,
+            "longitude": 4.539902
+        },
+        "service": "WALKING_ASSISTANCE",
+        "period": 83,
+        "health_insurance_fund_id": "528"
+    },
+    {
+        "rijksregisternummer": "46216290033",
+        "rijksregister_entered": "eID-read",
+        "timestamp": "2024-05-23 23:13:17",
+        "nurse": "17384177459",
+        "location": {
+            "latitude": 50.585016,
+            "longitude": 2.932554
+        },
+        "service": "PILL_DISPENSING",
+        "period": 33,
+        "health_insurance_fund_id": "147"
+    },
+    {
+        "rijksregisternummer": "96183233324",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-05-22 22:43:50",
+        "nurse": "17384177459",
+        "location": {
+            "latitude": 49.541669,
+            "longitude": 5.169391
+        },
+        "service": "TRANSFER_ASSISTANCE",
+        "period": 49,
+        "health_insurance_fund_id": "510"
+    },
+    {
+        "rijksregisternummer": "26316896129",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-01-31 22:09:55",
+        "nurse": "17384177459",
+        "location": {
+            "latitude": 50.682385,
+            "longitude": 3.535964
+        },
+        "service": "INJECTION_ADMINISTRATION",
+        "period": 36,
+        "health_insurance_fund_id": "541"
+    },
+    {
+        "rijksregisternummer": "13507393417",
+        "rijksregister_entered": "eID-read",
+        "timestamp": "2024-06-06 13:55:59",
+        "nurse": "17384177459",
+        "location": {
+            "latitude": 51.020331,
+            "longitude": 2.660908
+        },
+        "service": "HAIR_CARE",
+        "period": 61,
+        "health_insurance_fund_id": "187"
+    },
+    {
+        "rijksregisternummer": "45848369525",
+        "rijksregister_entered": "eID-read",
+        "timestamp": "2024-04-17 19:37:35",
+        "nurse": "17384177459",
+        "location": {
+            "latitude": 50.897828,
+            "longitude": 4.627314
+        },
+        "service": "BATHING",
+        "period": 67,
+        "health_insurance_fund_id": "599"
+    },
+    {
+        "rijksregisternummer": "40207579080",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-02-08 16:37:49",
+        "nurse": "17384177459",
+        "location": {
+            "latitude": 49.576686,
+            "longitude": 4.922014
+        },
+        "service": "HAIR_CARE",
+        "period": 43,
+        "health_insurance_fund_id": "563"
+    },
+    {
+        "rijksregisternummer": "93167480883",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-05-12 02:57:14",
+        "nurse": "17384177459",
+        "location": {
+            "latitude": 51.182428,
+            "longitude": 6.301982
+        },
+        "service": "FEEDING_ASSISTANCE",
+        "period": 53,
+        "health_insurance_fund_id": "329"
+    },
+    {
+        "rijksregisternummer": "10438872316",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-06-01 11:45:35",
+        "nurse": "17384177459",
+        "location": {
+            "latitude": 51.11287,
+            "longitude": 5.722495
+        },
+        "service": "BLOOD_SUGAR_MONITORING",
+        "period": 53,
+        "health_insurance_fund_id": "948"
+    },
+    {
+        "rijksregisternummer": "50982523319",
+        "rijksregister_entered": "barcode_scan",
+        "timestamp": "2024-01-29 03:34:50",
+        "nurse": "17384177459",
+        "location": {
+            "latitude": 50.618393,
+            "longitude": 3.240999
+        },
+        "service": "DENTAL_CARE",
+        "period": 44,
+        "health_insurance_fund_id": "560"
+    },
+    {
+        "rijksregisternummer": "69717941142",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-01-07 01:33:19",
+        "nurse": "17384177459",
+        "location": {
+            "latitude": 49.845283,
+            "longitude": 5.853308
+        },
+        "service": "TEMPERATURE_MONITORING",
+        "period": 66,
+        "health_insurance_fund_id": "723"
+    },
+    {
+        "rijksregisternummer": "96773163769",
+        "rijksregister_entered": "barcode_scan",
+        "timestamp": "2024-04-28 23:18:01",
+        "nurse": "17384177459",
+        "location": {
+            "latitude": 50.182504,
+            "longitude": 3.996534
+        },
+        "service": "WALKING_ASSISTANCE",
+        "period": 34,
+        "health_insurance_fund_id": "119"
+    },
+    {
+        "rijksregisternummer": "55714124265",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-04-04 05:43:07",
+        "nurse": "17384177459",
+        "location": {
+            "latitude": 49.627768,
+            "longitude": 2.798855
+        },
+        "service": "WALKING_ASSISTANCE",
+        "period": 51,
+        "health_insurance_fund_id": "571"
+    },
+    {
+        "rijksregisternummer": "30811766648",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-01-24 06:32:40",
+        "nurse": "17384177459",
+        "location": {
+            "latitude": 50.612506,
+            "longitude": 5.252597
+        },
+        "service": "WALKING_ASSISTANCE",
+        "period": 35,
+        "health_insurance_fund_id": "597"
+    },
+    {
+        "rijksregisternummer": "12228599768",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-01-20 04:38:31",
+        "nurse": "17384177459",
+        "location": {
+            "latitude": 49.569415,
+            "longitude": 5.992729
+        },
+        "service": "BLOOD_PRESSURE_CHECK",
+        "period": 70,
+        "health_insurance_fund_id": "224"
+    },
+    {
+        "rijksregisternummer": "36197018627",
+        "rijksregister_entered": "barcode_scan",
+        "timestamp": "2024-04-06 14:24:19",
+        "nurse": "17384177459",
+        "location": {
+            "latitude": 50.45755,
+            "longitude": 2.609713
+        },
+        "service": "TRANSFER_ASSISTANCE",
+        "period": 79,
+        "health_insurance_fund_id": "981"
+    },
+    {
+        "rijksregisternummer": "36588994244",
+        "rijksregister_entered": "eID-read",
+        "timestamp": "2024-02-19 07:15:54",
+        "nurse": "17384177459",
+        "location": {
+            "latitude": 50.396169,
+            "longitude": 4.267291
+        },
+        "service": "BLOOD_PRESSURE_CHECK",
+        "period": 31,
+        "health_insurance_fund_id": "586"
+    },
+    {
+        "rijksregisternummer": "80181729292",
+        "rijksregister_entered": "eID-read",
+        "timestamp": "2024-04-16 14:57:46",
+        "nurse": "95683444775",
+        "location": {
+            "latitude": 50.921059,
+            "longitude": 4.852693
+        },
+        "service": "WALKING_ASSISTANCE",
+        "period": 80,
+        "health_insurance_fund_id": "503"
+    },
+    {
+        "rijksregisternummer": "22942118835",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-02-04 15:12:09",
+        "nurse": "95683444775",
+        "location": {
+            "latitude": 50.692909,
+            "longitude": 4.521954
+        },
+        "service": "DIET_MONITORING",
+        "period": 40,
+        "health_insurance_fund_id": "529"
+    },
+    {
+        "rijksregisternummer": "46777355261",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-04-17 04:35:24",
+        "nurse": "95683444775",
+        "location": {
+            "latitude": 50.751469,
+            "longitude": 3.934477
+        },
+        "service": "INJECTION_ADMINISTRATION",
+        "period": 48,
+        "health_insurance_fund_id": "648"
+    },
+    {
+        "rijksregisternummer": "64566654987",
+        "rijksregister_entered": "barcode_scan",
+        "timestamp": "2024-05-28 08:25:47",
+        "nurse": "95683444775",
+        "location": {
+            "latitude": 51.150278,
+            "longitude": 2.81728
+        },
+        "service": "WALKING_ASSISTANCE",
+        "period": 85,
+        "health_insurance_fund_id": "554"
+    },
+    {
+        "rijksregisternummer": "14814091365",
+        "rijksregister_entered": "eID-read",
+        "timestamp": "2024-02-15 08:17:41",
+        "nurse": "95683444775",
+        "location": {
+            "latitude": 51.038226,
+            "longitude": 4.338518
+        },
+        "service": "BLOOD_PRESSURE_CHECK",
+        "period": 90,
+        "health_insurance_fund_id": "514"
+    },
+    {
+        "rijksregisternummer": "93622190046",
+        "rijksregister_entered": "barcode_scan",
+        "timestamp": "2024-01-27 09:36:54",
+        "nurse": "95683444775",
+        "location": {
+            "latitude": 49.865792,
+            "longitude": 3.361011
+        },
+        "service": "BLOOD_PRESSURE_CHECK",
+        "period": 70,
+        "health_insurance_fund_id": "545"
+    },
+    {
+        "rijksregisternummer": "34327070941",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-04-18 21:12:44",
+        "nurse": "95683444775",
+        "location": {
+            "latitude": 51.368157,
+            "longitude": 4.168992
+        },
+        "service": "INJECTION_ADMINISTRATION",
+        "period": 87,
+        "health_insurance_fund_id": "502"
+    },
+    {
+        "rijksregisternummer": "76161267650",
+        "rijksregister_entered": "barcode_scan",
+        "timestamp": "2024-02-05 15:41:40",
+        "nurse": "95683444775",
+        "location": {
+            "latitude": 51.305008,
+            "longitude": 5.189677
+        },
+        "service": "PHYSICAL_THERAPY",
+        "period": 43,
+        "health_insurance_fund_id": "510"
+    },
+    {
+        "rijksregisternummer": "51473323583",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-04-21 03:52:47",
+        "nurse": "95683444775",
+        "location": {
+            "latitude": 50.189732,
+            "longitude": 5.520551
+        },
+        "service": "INJECTION_ADMINISTRATION",
+        "period": 79,
+        "health_insurance_fund_id": "906"
+    },
+    {
+        "rijksregisternummer": "63761557055",
+        "rijksregister_entered": "barcode_scan",
+        "timestamp": "2024-03-07 12:34:33",
+        "nurse": "95683444775",
+        "location": {
+            "latitude": 50.461349,
+            "longitude": 4.083817
+        },
+        "service": "BLOOD_SUGAR_MONITORING",
+        "period": 49,
+        "health_insurance_fund_id": "508"
+    },
+    {
+        "rijksregisternummer": "34231736958",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-03-22 02:43:18",
+        "nurse": "95683444775",
+        "location": {
+            "latitude": 51.013335,
+            "longitude": 6.148349
+        },
+        "service": "PHYSICAL_THERAPY",
+        "period": 49,
+        "health_insurance_fund_id": "550"
+    },
+    {
+        "rijksregisternummer": "27917164299",
+        "rijksregister_entered": "eID-read",
+        "timestamp": "2024-01-25 05:35:07",
+        "nurse": "95683444775",
+        "location": {
+            "latitude": 51.341565,
+            "longitude": 2.634426
+        },
+        "service": "BATHING",
+        "period": 72,
+        "health_insurance_fund_id": "541"
+    },
+    {
+        "rijksregisternummer": "94282461849",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-05-31 18:24:52",
+        "nurse": "95683444775",
+        "location": {
+            "latitude": 49.846449,
+            "longitude": 4.500531
+        },
+        "service": "HAIR_CARE",
+        "period": 84,
+        "health_insurance_fund_id": "585"
+    },
+    {
+        "rijksregisternummer": "73642055953",
+        "rijksregister_entered": "barcode_scan",
+        "timestamp": "2024-03-18 22:33:11",
+        "nurse": "95683444775",
+        "location": {
+            "latitude": 50.837025,
+            "longitude": 6.355955
+        },
+        "service": "BLOOD_PRESSURE_CHECK",
+        "period": 74,
+        "health_insurance_fund_id": "586"
+    },
+    {
+        "rijksregisternummer": "67651187782",
+        "rijksregister_entered": "barcode_scan",
+        "timestamp": "2024-05-18 09:28:49",
+        "nurse": "95683444775",
+        "location": {
+            "latitude": 50.761671,
+            "longitude": 4.498967
+        },
+        "service": "BLOOD_SUGAR_MONITORING",
+        "period": 30,
+        "health_insurance_fund_id": "507"
+    },
+    {
+        "rijksregisternummer": "74812842075",
+        "rijksregister_entered": "barcode_scan",
+        "timestamp": "2024-01-23 05:56:06",
+        "nurse": "95683444775",
+        "location": {
+            "latitude": 51.485873,
+            "longitude": 6.327334
+        },
+        "service": "PHYSICAL_THERAPY",
+        "period": 52,
+        "health_insurance_fund_id": "599"
+    },
+    {
+        "rijksregisternummer": "79616780691",
+        "rijksregister_entered": "eID-read",
+        "timestamp": "2024-04-13 18:26:54",
+        "nurse": "95683444775",
+        "location": {
+            "latitude": 50.098347,
+            "longitude": 3.221344
+        },
+        "service": "DIET_MONITORING",
+        "period": 58,
+        "health_insurance_fund_id": "508"
+    },
+    {
+        "rijksregisternummer": "39491071742",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-02-19 10:58:37",
+        "nurse": "95683444775",
+        "location": {
+            "latitude": 50.545351,
+            "longitude": 4.912036
+        },
+        "service": "BLOOD_PRESSURE_CHECK",
+        "period": 56,
+        "health_insurance_fund_id": "510"
+    },
+    {
+        "rijksregisternummer": "29874669549",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-03-15 23:43:19",
+        "nurse": "95683444775",
+        "location": {
+            "latitude": 50.739356,
+            "longitude": 4.760415
+        },
+        "service": "INFUSION_THERAPY",
+        "period": 72,
+        "health_insurance_fund_id": "526"
+    },
+    {
+        "rijksregisternummer": "56366233854",
+        "rijksregister_entered": "eID-read",
+        "timestamp": "2024-03-30 04:51:34",
+        "nurse": "95683444775",
+        "location": {
+            "latitude": 51.326408,
+            "longitude": 4.526117
+        },
+        "service": "DIET_MONITORING",
+        "period": 65,
+        "health_insurance_fund_id": "000"
+    },
+    {
+        "rijksregisternummer": "95118158616",
+        "rijksregister_entered": "barcode_scan",
+        "timestamp": "2024-05-06 17:07:19",
+        "nurse": "73146988626",
+        "location": {
+            "latitude": 50.745405,
+            "longitude": 5.995488
+        },
+        "service": "WALKING_ASSISTANCE",
+        "period": 64,
+        "health_insurance_fund_id": "253"
+    },
+    {
+        "rijksregisternummer": "47683593727",
+        "rijksregister_entered": "barcode_scan",
+        "timestamp": "2024-05-16 23:33:54",
+        "nurse": "73146988626",
+        "location": {
+            "latitude": 51.411225,
+            "longitude": 4.128864
+        },
+        "service": "BATHING",
+        "period": 57,
+        "health_insurance_fund_id": "596"
+    },
+    {
+        "rijksregisternummer": "30988596881",
+        "rijksregister_entered": "eID-read",
+        "timestamp": "2024-01-29 04:36:31",
+        "nurse": "73146988626",
+        "location": {
+            "latitude": 50.146286,
+            "longitude": 2.581226
+        },
+        "service": "BATHING",
+        "period": 67,
+        "health_insurance_fund_id": "580"
+    },
+    {
+        "rijksregisternummer": "35577274351",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-04-17 16:25:29",
+        "nurse": "73146988626",
+        "location": {
+            "latitude": 49.612501,
+            "longitude": 5.656892
+        },
+        "service": "TEMPERATURE_MONITORING",
+        "period": 51,
+        "health_insurance_fund_id": "528"
+    },
+    {
+        "rijksregisternummer": "69674134752",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-05-16 10:34:52",
+        "nurse": "73146988626",
+        "location": {
+            "latitude": 51.098976,
+            "longitude": 5.421541
+        },
+        "service": "BLOOD_PRESSURE_CHECK",
+        "period": 52,
+        "health_insurance_fund_id": "974"
+    },
+    {
+        "rijksregisternummer": "50998712875",
+        "rijksregister_entered": "barcode_scan",
+        "timestamp": "2024-05-07 00:39:22",
+        "nurse": "73146988626",
+        "location": {
+            "latitude": 50.543865,
+            "longitude": 5.11334
+        },
+        "service": "BLOOD_SUGAR_MONITORING",
+        "period": 78,
+        "health_insurance_fund_id": "532"
+    },
+    {
+        "rijksregisternummer": "86891458235",
+        "rijksregister_entered": "barcode_scan",
+        "timestamp": "2024-06-01 23:58:57",
+        "nurse": "73146988626",
+        "location": {
+            "latitude": 50.113499,
+            "longitude": 3.360127
+        },
+        "service": "BATHING",
+        "period": 52,
+        "health_insurance_fund_id": "557"
+    },
+    {
+        "rijksregisternummer": "29452882684",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-01-27 18:28:13",
+        "nurse": "73146988626",
+        "location": {
+            "latitude": 51.226413,
+            "longitude": 2.882166
+        },
+        "service": "WALKING_ASSISTANCE",
+        "period": 73,
+        "health_insurance_fund_id": "515"
+    },
+    {
+        "rijksregisternummer": "26571486392",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-02-01 20:32:15",
+        "nurse": "73146988626",
+        "location": {
+            "latitude": 51.15512,
+            "longitude": 5.960042
+        },
+        "service": "TRANSFER_ASSISTANCE",
+        "period": 73,
+        "health_insurance_fund_id": "597"
+    },
+    {
+        "rijksregisternummer": "35535611241",
+        "rijksregister_entered": "barcode_scan",
+        "timestamp": "2024-05-30 06:14:59",
+        "nurse": "73146988626",
+        "location": {
+            "latitude": 50.792385,
+            "longitude": 5.144462
+        },
+        "service": "INFUSION_THERAPY",
+        "period": 81,
+        "health_insurance_fund_id": "593"
+    },
+    {
+        "rijksregisternummer": "15136780250",
+        "rijksregister_entered": "eID-read",
+        "timestamp": "2024-02-19 14:27:05",
+        "nurse": "73146988626",
+        "location": {
+            "latitude": 49.760901,
+            "longitude": 4.009464
+        },
+        "service": "FEEDING_ASSISTANCE",
+        "period": 87,
+        "health_insurance_fund_id": "594"
+    },
+    {
+        "rijksregisternummer": "22865962773",
+        "rijksregister_entered": "eID-read",
+        "timestamp": "2024-06-02 11:11:27",
+        "nurse": "73146988626",
+        "location": {
+            "latitude": 50.484934,
+            "longitude": 4.764914
+        },
+        "service": "HAIR_CARE",
+        "period": 59,
+        "health_insurance_fund_id": "513"
+    },
+    {
+        "rijksregisternummer": "48658959224",
+        "rijksregister_entered": "barcode_scan",
+        "timestamp": "2024-04-09 22:35:32",
+        "nurse": "73146988626",
+        "location": {
+            "latitude": 50.190004,
+            "longitude": 3.826222
+        },
+        "service": "TEMPERATURE_MONITORING",
+        "period": 37,
+        "health_insurance_fund_id": "565"
+    },
+    {
+        "rijksregisternummer": "32738790560",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-03-18 11:10:15",
+        "nurse": "73146988626",
+        "location": {
+            "latitude": 51.264352,
+            "longitude": 3.659378
+        },
+        "service": "HAIR_CARE",
+        "period": 54,
+        "health_insurance_fund_id": "597"
+    },
+    {
+        "rijksregisternummer": "28274239638",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-04-06 02:55:24",
+        "nurse": "73146988626",
+        "location": {
+            "latitude": 50.240437,
+            "longitude": 3.696161
+        },
+        "service": "DENTAL_CARE",
+        "period": 38,
+        "health_insurance_fund_id": "190"
+    },
+    {
+        "rijksregisternummer": "32909835031",
+        "rijksregister_entered": "barcode_scan",
+        "timestamp": "2024-06-06 03:41:57",
+        "nurse": "73146988626",
+        "location": {
+            "latitude": 50.731213,
+            "longitude": 4.643864
+        },
+        "service": "BATHING",
+        "period": 84,
+        "health_insurance_fund_id": "892"
+    },
+    {
+        "rijksregisternummer": "40458742038",
+        "rijksregister_entered": "eID-read",
+        "timestamp": "2024-05-29 06:02:19",
+        "nurse": "73146988626",
+        "location": {
+            "latitude": 51.305731,
+            "longitude": 3.862381
+        },
+        "service": "TEMPERATURE_MONITORING",
+        "period": 72,
+        "health_insurance_fund_id": "547"
+    },
+    {
+        "rijksregisternummer": "88223871130",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-05-26 13:06:31",
+        "nurse": "73146988626",
+        "location": {
+            "latitude": 49.819984,
+            "longitude": 4.511223
+        },
+        "service": "PHYSICAL_THERAPY",
+        "period": 37,
+        "health_insurance_fund_id": "574"
+    },
+    {
+        "rijksregisternummer": "52849070650",
+        "rijksregister_entered": "barcode_scan",
+        "timestamp": "2024-02-27 21:05:38",
+        "nurse": "73146988626",
+        "location": {
+            "latitude": 50.549167,
+            "longitude": 3.45574
+        },
+        "service": "FEEDING_ASSISTANCE",
+        "period": 76,
+        "health_insurance_fund_id": "595"
+    },
+    {
+        "rijksregisternummer": "53406790948",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-02-06 10:48:48",
+        "nurse": "73146988626",
+        "location": {
+            "latitude": 51.28922,
+            "longitude": 3.734162
+        },
+        "service": "PHYSICAL_THERAPY",
+        "period": 74,
+        "health_insurance_fund_id": "562"
+    },
+    {
+        "rijksregisternummer": "20695374193",
+        "rijksregister_entered": "eID-read",
+        "timestamp": "2024-01-11 18:13:02",
+        "nurse": "94676920395",
+        "location": {
+            "latitude": 50.361085,
+            "longitude": 4.772341
+        },
+        "service": "TRANSFER_ASSISTANCE",
+        "period": 42,
+        "health_insurance_fund_id": "598"
+    },
+    {
+        "rijksregisternummer": "64332590178",
+        "rijksregister_entered": "eID-read",
+        "timestamp": "2024-01-05 12:05:04",
+        "nurse": "94676920395",
+        "location": {
+            "latitude": 50.826634,
+            "longitude": 4.46131
+        },
+        "service": "INJECTION_ADMINISTRATION",
+        "period": 49,
+        "health_insurance_fund_id": "588"
+    },
+    {
+        "rijksregisternummer": "95835967444",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-03-30 03:52:02",
+        "nurse": "94676920395",
+        "location": {
+            "latitude": 51.456647,
+            "longitude": 5.773433
+        },
+        "service": "MEAL_PREPARATION",
+        "period": 42,
+        "health_insurance_fund_id": "517"
+    },
+    {
+        "rijksregisternummer": "85268842860",
+        "rijksregister_entered": "eID-read",
+        "timestamp": "2024-01-17 02:52:07",
+        "nurse": "94676920395",
+        "location": {
+            "latitude": 50.596016,
+            "longitude": 5.620916
+        },
+        "service": "BLOOD_PRESSURE_CHECK",
+        "period": 71,
+        "health_insurance_fund_id": "507"
+    },
+    {
+        "rijksregisternummer": "51655667580",
+        "rijksregister_entered": "barcode_scan",
+        "timestamp": "2024-05-15 23:20:11",
+        "nurse": "94676920395",
+        "location": {
+            "latitude": 50.863702,
+            "longitude": 4.747492
+        },
+        "service": "BLOOD_SUGAR_MONITORING",
+        "period": 72,
+        "health_insurance_fund_id": "367"
+    },
+    {
+        "rijksregisternummer": "98146063250",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-04-18 23:21:00",
+        "nurse": "94676920395",
+        "location": {
+            "latitude": 49.57826,
+            "longitude": 4.863922
+        },
+        "service": "PHYSICAL_THERAPY",
+        "period": 77,
+        "health_insurance_fund_id": "557"
+    },
+    {
+        "rijksregisternummer": "21707257532",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-06-08 10:38:35",
+        "nurse": "94676920395",
+        "location": {
+            "latitude": 49.599709,
+            "longitude": 5.404752
+        },
+        "service": "BLOOD_PRESSURE_CHECK",
+        "period": 65,
+        "health_insurance_fund_id": "564"
+    },
+    {
+        "rijksregisternummer": "32819474062",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-04-25 16:03:33",
+        "nurse": "94676920395",
+        "location": {
+            "latitude": 50.025315,
+            "longitude": 5.296014
+        },
+        "service": "INFUSION_THERAPY",
+        "period": 56,
+        "health_insurance_fund_id": "033"
+    },
+    {
+        "rijksregisternummer": "59785678997",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-01-07 16:38:22",
+        "nurse": "94676920395",
+        "location": {
+            "latitude": 50.054554,
+            "longitude": 5.150292
+        },
+        "service": "MEAL_PREPARATION",
+        "period": 75,
+        "health_insurance_fund_id": "489"
+    },
+    {
+        "rijksregisternummer": "71684922712",
+        "rijksregister_entered": "barcode_scan",
+        "timestamp": "2024-04-18 05:05:00",
+        "nurse": "94676920395",
+        "location": {
+            "latitude": 49.657001,
+            "longitude": 4.926106
+        },
+        "service": "PHYSICAL_THERAPY",
+        "period": 88,
+        "health_insurance_fund_id": "354"
+    },
+    {
+        "rijksregisternummer": "96265952861",
+        "rijksregister_entered": "eID-read",
+        "timestamp": "2024-03-02 07:13:42",
+        "nurse": "94676920395",
+        "location": {
+            "latitude": 49.512451,
+            "longitude": 4.63694
+        },
+        "service": "HAIR_CARE",
+        "period": 58,
+        "health_insurance_fund_id": "935"
+    },
+    {
+        "rijksregisternummer": "12733154338",
+        "rijksregister_entered": "eID-read",
+        "timestamp": "2024-05-14 22:21:18",
+        "nurse": "94676920395",
+        "location": {
+            "latitude": 50.727375,
+            "longitude": 5.427618
+        },
+        "service": "DENTAL_CARE",
+        "period": 85,
+        "health_insurance_fund_id": "505"
+    },
+    {
+        "rijksregisternummer": "12329777497",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-05-01 01:10:16",
+        "nurse": "94676920395",
+        "location": {
+            "latitude": 50.785649,
+            "longitude": 2.887651
+        },
+        "service": "DIET_MONITORING",
+        "period": 58,
+        "health_insurance_fund_id": "572"
+    },
+    {
+        "rijksregisternummer": "25146845479",
+        "rijksregister_entered": "barcode_scan",
+        "timestamp": "2024-02-17 15:39:58",
+        "nurse": "94676920395",
+        "location": {
+            "latitude": 50.959469,
+            "longitude": 5.919156
+        },
+        "service": "MEAL_PREPARATION",
+        "period": 59,
+        "health_insurance_fund_id": "548"
+    },
+    {
+        "rijksregisternummer": "54648614963",
+        "rijksregister_entered": "barcode_scan",
+        "timestamp": "2024-05-07 19:12:14",
+        "nurse": "94676920395",
+        "location": {
+            "latitude": 49.575929,
+            "longitude": 4.954662
+        },
+        "service": "PILL_DISPENSING",
+        "period": 32,
+        "health_insurance_fund_id": "551"
+    },
+    {
+        "rijksregisternummer": "78533418635",
+        "rijksregister_entered": "barcode_scan",
+        "timestamp": "2024-01-12 01:38:19",
+        "nurse": "94676920395",
+        "location": {
+            "latitude": 50.478763,
+            "longitude": 6.315339
+        },
+        "service": "INFUSION_THERAPY",
+        "period": 47,
+        "health_insurance_fund_id": "339"
+    },
+    {
+        "rijksregisternummer": "29656144991",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-02-17 07:07:37",
+        "nurse": "94676920395",
+        "location": {
+            "latitude": 50.717768,
+            "longitude": 3.468856
+        },
+        "service": "INJECTION_ADMINISTRATION",
+        "period": 89,
+        "health_insurance_fund_id": "528"
+    },
+    {
+        "rijksregisternummer": "78998761730",
+        "rijksregister_entered": "eID-read",
+        "timestamp": "2024-02-26 03:13:02",
+        "nurse": "94676920395",
+        "location": {
+            "latitude": 51.323782,
+            "longitude": 4.954072
+        },
+        "service": "TEMPERATURE_MONITORING",
+        "period": 37,
+        "health_insurance_fund_id": "575"
+    },
+    {
+        "rijksregisternummer": "66137541635",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-04-05 00:31:07",
+        "nurse": "94676920395",
+        "location": {
+            "latitude": 49.899572,
+            "longitude": 5.802814
+        },
+        "service": "TRANSFER_ASSISTANCE",
+        "period": 45,
+        "health_insurance_fund_id": "517"
+    },
+    {
+        "rijksregisternummer": "41439964682",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-05-22 15:45:53",
+        "nurse": "94676920395",
+        "location": {
+            "latitude": 49.547225,
+            "longitude": 5.807756
+        },
+        "service": "DIET_MONITORING",
+        "period": 76,
+        "health_insurance_fund_id": "855"
+    },
+    {
+        "rijksregisternummer": "94964850134",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-05-02 13:13:30",
+        "nurse": "60968221750",
+        "location": {
+            "latitude": 49.649177,
+            "longitude": 5.584587
+        },
+        "service": "BLOOD_PRESSURE_CHECK",
+        "period": 48,
+        "health_insurance_fund_id": "506"
+    },
+    {
+        "rijksregisternummer": "87183972474",
+        "rijksregister_entered": "barcode_scan",
+        "timestamp": "2024-04-07 01:02:20",
+        "nurse": "60968221750",
+        "location": {
+            "latitude": 50.619857,
+            "longitude": 4.7511
+        },
+        "service": "BLOOD_SUGAR_MONITORING",
+        "period": 46,
+        "health_insurance_fund_id": "521"
+    },
+    {
+        "rijksregisternummer": "77325336566",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-03-27 11:16:17",
+        "nurse": "60968221750",
+        "location": {
+            "latitude": 50.60418,
+            "longitude": 4.525052
+        },
+        "service": "TEMPERATURE_MONITORING",
+        "period": 42,
+        "health_insurance_fund_id": "521"
+    },
+    {
+        "rijksregisternummer": "66482513724",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-03-20 06:02:57",
+        "nurse": "60968221750",
+        "location": {
+            "latitude": 49.578379,
+            "longitude": 5.295731
+        },
+        "service": "TEMPERATURE_MONITORING",
+        "period": 74,
+        "health_insurance_fund_id": "356"
+    },
+    {
+        "rijksregisternummer": "62224242739",
+        "rijksregister_entered": "barcode_scan",
+        "timestamp": "2024-02-15 08:01:18",
+        "nurse": "60968221750",
+        "location": {
+            "latitude": 49.916343,
+            "longitude": 5.436052
+        },
+        "service": "TEMPERATURE_MONITORING",
+        "period": 54,
+        "health_insurance_fund_id": "572"
+    },
+    {
+        "rijksregisternummer": "47709949662",
+        "rijksregister_entered": "eID-read",
+        "timestamp": "2024-01-21 16:40:19",
+        "nurse": "60968221750",
+        "location": {
+            "latitude": 51.369645,
+            "longitude": 4.549733
+        },
+        "service": "TEMPERATURE_MONITORING",
+        "period": 37,
+        "health_insurance_fund_id": "533"
+    },
+    {
+        "rijksregisternummer": "20826817725",
+        "rijksregister_entered": "barcode_scan",
+        "timestamp": "2024-01-08 16:45:00",
+        "nurse": "60968221750",
+        "location": {
+            "latitude": 49.640693,
+            "longitude": 5.889889
+        },
+        "service": "TEMPERATURE_MONITORING",
+        "period": 49,
+        "health_insurance_fund_id": "877"
+    },
+    {
+        "rijksregisternummer": "13562476287",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-01-28 12:13:07",
+        "nurse": "60968221750",
+        "location": {
+            "latitude": 50.904588,
+            "longitude": 5.243024
+        },
+        "service": "BLOOD_SUGAR_MONITORING",
+        "period": 88,
+        "health_insurance_fund_id": "751"
+    },
+    {
+        "rijksregisternummer": "80831437455",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-02-22 18:10:30",
+        "nurse": "60968221750",
+        "location": {
+            "latitude": 50.323134,
+            "longitude": 5.209619
+        },
+        "service": "BLOOD_PRESSURE_CHECK",
+        "period": 76,
+        "health_insurance_fund_id": "838"
+    },
+    {
+        "rijksregisternummer": "86451948222",
+        "rijksregister_entered": "barcode_scan",
+        "timestamp": "2024-03-24 11:42:35",
+        "nurse": "60968221750",
+        "location": {
+            "latitude": 49.856737,
+            "longitude": 5.079414
+        },
+        "service": "BLOOD_PRESSURE_CHECK",
+        "period": 64,
+        "health_insurance_fund_id": "576"
+    },
+    {
+        "rijksregisternummer": "63377355186",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-02-13 23:04:26",
+        "nurse": "60968221750",
+        "location": {
+            "latitude": 51.442383,
+            "longitude": 5.788339
+        },
+        "service": "TEMPERATURE_MONITORING",
+        "period": 90,
+        "health_insurance_fund_id": "503"
+    },
+    {
+        "rijksregisternummer": "69361870081",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-01-17 18:47:05",
+        "nurse": "60968221750",
+        "location": {
+            "latitude": 49.660096,
+            "longitude": 2.545902
+        },
+        "service": "BLOOD_SUGAR_MONITORING",
+        "period": 58,
+        "health_insurance_fund_id": "674"
+    },
+    {
+        "rijksregisternummer": "89991096540",
+        "rijksregister_entered": "eID-read",
+        "timestamp": "2024-02-03 11:39:46",
+        "nurse": "60968221750",
+        "location": {
+            "latitude": 51.033935,
+            "longitude": 4.394078
+        },
+        "service": "BLOOD_SUGAR_MONITORING",
+        "period": 67,
+        "health_insurance_fund_id": "501"
+    },
+    {
+        "rijksregisternummer": "73327533321",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-04-19 14:50:20",
+        "nurse": "60968221750",
+        "location": {
+            "latitude": 50.761283,
+            "longitude": 5.586888
+        },
+        "service": "TEMPERATURE_MONITORING",
+        "period": 36,
+        "health_insurance_fund_id": "596"
+    },
+    {
+        "rijksregisternummer": "57843567411",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-05-22 16:20:35",
+        "nurse": "60968221750",
+        "location": {
+            "latitude": 49.802118,
+            "longitude": 4.932182
+        },
+        "service": "BLOOD_PRESSURE_CHECK",
+        "period": 87,
+        "health_insurance_fund_id": "147"
+    },
+    {
+        "rijksregisternummer": "21934750684",
+        "rijksregister_entered": "eID-read",
+        "timestamp": "2024-01-05 14:00:12",
+        "nurse": "60968221750",
+        "location": {
+            "latitude": 51.434005,
+            "longitude": 5.711449
+        },
+        "service": "BLOOD_SUGAR_MONITORING",
+        "period": 49,
+        "health_insurance_fund_id": "521"
+    },
+    {
+        "rijksregisternummer": "36774181640",
+        "rijksregister_entered": "eID-read",
+        "timestamp": "2024-05-29 04:29:00",
+        "nurse": "60968221750",
+        "location": {
+            "latitude": 49.607343,
+            "longitude": 5.878881
+        },
+        "service": "TEMPERATURE_MONITORING",
+        "period": 78,
+        "health_insurance_fund_id": "511"
+    },
+    {
+        "rijksregisternummer": "73432884768",
+        "rijksregister_entered": "eID-read",
+        "timestamp": "2024-01-25 10:47:35",
+        "nurse": "60968221750",
+        "location": {
+            "latitude": 50.409797,
+            "longitude": 3.32516
+        },
+        "service": "BLOOD_PRESSURE_CHECK",
+        "period": 86,
+        "health_insurance_fund_id": "587"
+    },
+    {
+        "rijksregisternummer": "34623544278",
+        "rijksregister_entered": "manual",
+        "timestamp": "2024-03-15 23:04:06",
+        "nurse": "60968221750",
+        "location": {
+            "latitude": 49.778528,
+            "longitude": 5.481606
+        },
+        "service": "BLOOD_SUGAR_MONITORING",
+        "period": 64,
+        "health_insurance_fund_id": "520"
+    },
+    {
+        "rijksregisternummer": "28596215053",
+        "rijksregister_entered": "barcode_scan",
+        "timestamp": "2024-05-20 10:43:10",
+        "nurse": "60968221750",
+        "location": {
+            "latitude": 50.789842,
+            "longitude": 2.807983
+        },
+        "service": "BLOOD_SUGAR_MONITORING",
+        "period": 89,
+        "health_insurance_fund_id": "582"
+    }
+]
