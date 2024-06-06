@@ -1,27 +1,36 @@
-from flask import Flask, render_template, Response, jsonify
+from flask import Flask, render_template, jsonify, request
 import requests
 import json
 import googlemaps
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
 
 app = Flask(__name__)
+
+
+ALLOWED_EXTENSIONS = {'json'}
+
+def allowed_file(filename):
+    return '.' in filename and filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSIONS
 
 @app.route('/')
 def index():
     return render_template('index.html')
 
-@app.route('/patient', defaults={'name': None})
-@app.route('/patient/<name>')
-def show_product(name):
-    if name:
-        return name
-    else:
-        return jsonify({'error': 'Bad Request', 'details': 'No patient name provided.'}), 400, {"Content-Type": "application/json"}
+@app.route('/upload', methods=['POST'])
+def upload():
+    file = request.files['file']
+    if  file and allowed_file(file.filename):
+        content = file.read()
+    return content
 
 @app.route('/route/<destLocation>')
 def get_route_info(destLocation):
-    
+
     originLocation = "Veldkant 33A, 2550 Kontich"
-    gmaps = googlemaps.Client(key='AIzaSyAboDqid2eYqKzbDys4ACzEh479k5lAM3k')
+    gmaps = googlemaps.Client(key=os.getenv('GMAPS_KEY'))
     directions_result = gmaps.directions(originLocation,
                                      destLocation,
                                      mode="driving")
