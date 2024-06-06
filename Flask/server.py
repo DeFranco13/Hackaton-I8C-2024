@@ -1,4 +1,4 @@
-from flask import Flask, render_template
+from flask import Flask, render_template, Response, jsonify
 
 
 app = Flask(__name__)
@@ -11,9 +11,9 @@ def index():
 @app.route('/patient/<name>')
 def show_product(name):
     if name:
-        return
+        return name
     else:
-        return
+        return jsonify({'error': 'Bad Request', 'details': 'No patient name provided.'}), 400, {"Content-Type": "application/json"}
 
 if __name__ == '__main__':
-    app.run(host="0.0.0.0")
+    app.run(host="0.0.0.0", debug=True)
