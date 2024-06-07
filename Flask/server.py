@@ -221,40 +221,40 @@ def upload():
     
     return {"status": "OK", "code": 200}
 
-@app.route('/route/<destLocation>')
-def get_route_info(destLocation):
+# @app.route('/route/<destLocation>')
+# def get_route_info(destLocation):
 
-    originLocation = "Veldkant 33A, 2550 Kontich" # Hardcoded 'nurse' adress for DEMO purposes
-    gmaps = googlemaps.Client(key=os.getenv('GMAPS_KEY'))
-    directions_result = gmaps.directions(originLocation,
-                                     destLocation,
-                                     mode="driving")
-    distanceSplits = (directions_result[0]['legs'][0]['distance']['text'].split(' '))
-    driveTimeSplits = directions_result[0]['legs'][0]['duration']['text'].split(' ')
+    # originLocation = "Veldkant 33A, 2550 Kontich" # Hardcoded 'nurse' adress for DEMO purposes
+    # gmaps = googlemaps.Client(key=os.getenv('GMAPS_KEY'))
+    # directions_result = gmaps.directions(originLocation,
+    #                                  destLocation,
+    #                                  mode="driving")
+    # distanceSplits = (directions_result[0]['legs'][0]['distance']['text'].split(' '))
+    # driveTimeSplits = directions_result[0]['legs'][0]['duration']['text'].split(' ')
     
-    if distanceSplits[1] != "km":
-        distance = float(distanceSplits[0]) / 1000
-    else:
-        distance = float(distanceSplits[0])
-        print(distance)
+    # if distanceSplits[1] != "km":
+    #     distance = float(distanceSplits[0]) / 1000
+    # else:
+    #     distance = float(distanceSplits[0])
+    #     print(distance)
 
-    if driveTimeSplits[1] == "hours":
-        driveTime = float(driveTimeSplits[0]) * 60 + float(driveTimeSplits[2])
-    else:
-        driveTime = float(driveTimeSplits[0])
+    # if driveTimeSplits[1] == "hours":
+    #     driveTime = float(driveTimeSplits[0]) * 60 + float(driveTimeSplits[2])
+    # else:
+    #     driveTime = float(driveTimeSplits[0])
 
-    return {
-        "patientLocation": {
-            "latitude": directions_result[0]['legs'][0]['end_location']['lat'],
-            "longitude": directions_result[0]['legs'][0]['end_location']['lng']
-        },
-        "nurseLocation": {
-            "latitude": directions_result[0]['legs'][0]['start_location']['lat'],
-            "longitude": directions_result[0]['legs'][0]['start_location']['lng']
-        },
-        "distance": distance,
-        "driveTime": driveTime
-    }
+    # return {
+    #     "patientLocation": {
+    #         "latitude": directions_result[0]['legs'][0]['end_location']['lat'],
+    #         "longitude": directions_result[0]['legs'][0]['end_location']['lng']
+    #     },
+    #     "nurseLocation": {
+    #         "latitude": directions_result[0]['legs'][0]['start_location']['lat'],
+    #         "longitude": directions_result[0]['legs'][0]['start_location']['lng']
+    #     },
+    #     "distance": distance,
+    #     "driveTime": driveTime
+    # }
 
 
 if __name__ == '__main__':
