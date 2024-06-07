@@ -1,14 +1,23 @@
-class Main {
-    rijksregisterPatient: string; // example: "13975100197"
-    rijksregisterNurse: string; // example: "13975100197"
-    visit: Visits;
-    visit_timestamp: string;
-}
-export class Location {
-    latitude: number;
-    longtitude: number;
+class Visits{
+    id: number;
+    rijksregisterPatient: string;
+    rijksregisterNurse: string;
+    rijksregiserScanType: ScanType;
+    visitAmounts: number;
+    duration: Duration;
+    careType: HomeCareServices;
+    distance: number; //in km
+    driveTime: number; // in minutes
+    nurseLocation: Location; // coordinates only in belgium
+    patientLocation: Location; // coordinates only in belgium
+    visit_timestamp: string; // mostly between 6 and 22h. What lays outside is ananomality so put some in the dataset
 }
 
+enum ScanType {
+    MANUAL,
+    EID,
+    BARCODE,    
+}
 
 enum Duration {
     ONE_MONTH,
@@ -26,13 +35,10 @@ enum Duration {
     TWELVE_MONTHS
 }
 
-class Visits{
-    id: number;
-    visitAmounts: number;
-    duration: Duration;
-    service: HomeCareServices
-    nurseLocation: Location; // coordinates only in belgium
-    patientLocation: Location; // coordinates only in belgium
+
+export class Location {
+    latitude: number;
+    longtitude: number;
 }
 
 enum HomeCareServices {
