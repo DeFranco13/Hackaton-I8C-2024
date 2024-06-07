@@ -14,7 +14,14 @@ export class StartComponent {
   constructor(private apiService: ApiService, private router: Router) {}
 
   onFileSelected(event: any): void {
-    this.selectedFile = event.target.files[0];
+    const file = this.selectedFile = event.target.files[0];
+    if (file) {
+      const fileLabel = document.getElementById('fileLabel');
+      if (fileLabel) {
+        fileLabel.textContent = file.name;
+      }
+      
+    }
   }
 
   redirectUser(){
