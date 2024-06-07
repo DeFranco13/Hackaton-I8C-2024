@@ -1,5 +1,27 @@
 <div *ngIf="loading">Loading...</div>
 
 <ul *ngIf="!loading">
-  <li *ngFor="let anomaly of anomalies">{{ anomaly.description }}</li>
+  
+  <div *ngIf="displayData">
+    <div *ngFor="let key of displayData | keyvalue">
+      <h2>{{ key.key }}</h2> <!-- Display the key name -->
+      <div *ngIf="key.value && displayData.isArray(key.value)"></div> 
+      <div *ngFor="let item of key.value ">
+        <div *ngFor="let detail of item | keyvalue">
+          <!-- Check if the value is an object to handle nested data -->
+          <ng-container *ngIf="detail.value instanceof Object; else simpleField">
+            <h4>{{ detail.key }}</h4>
+            <div *ngFor="let subDetail of detail.value | keyvalue">
+              <strong>{{ subDetail.key }}:</strong> {{ subDetail.value }}
+            </div>
+          </ng-container>
+          <ng-template #simpleField>
+            <strong>{{ detail.key }}:</strong> {{ detail.value }}
+          </ng-template>
+        </div>
+      </div>
+    </div>
+  </div>
+   
+
 </ul>
