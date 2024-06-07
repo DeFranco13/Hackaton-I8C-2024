@@ -5,14 +5,14 @@ import { AppComponent } from './app.component';
 import { StartComponent } from './start/start.component';
 import { RouterModule } from '@angular/router';
 import { HttpClientModule } from '@angular/common/http';
-import { TestComponent } from './test/test.component';
 import { FormsModule } from '@angular/forms';
+import { ResultComponent } from './result/result.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     StartComponent,
-    TestComponent
+    ResultComponent
   ],
   imports: [
     BrowserModule,
@@ -21,7 +21,8 @@ import { FormsModule } from '@angular/forms';
     FormsModule,
     RouterModule,
     RouterModule.forChild([
-      {path: "**", component: StartComponent}
+      {path: "", component: StartComponent},
+      {path: "result", component: ResultComponent}
     ])
   ],
   providers: [],
