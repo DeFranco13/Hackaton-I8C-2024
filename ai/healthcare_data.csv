@@ -1,0 +1,9 @@
+patient_id,nurse_id,patient_type,scan_method,timestamp,nomenclature_code,care_duration,nurse_region,patient_region
+12345,1,A,eID,2023-06-01 08:00,1001,3,Antwerpen,Antwerpen
+12346,2,C,barcode,2023-06-01 08:30,1003,1,Brussel,Brussel
+12347,1,B,manual,2023-06-01 09:00,1002,3,Antwerpen,Antwerpen
+12345,3,A,eID,2023-06-01 10:00,1001,3,Antwerpen,Brussel
+12348,4,C,eID,2023-06-01 22:00,1004,3,Leuven,Leuven
+12349,5,A,eID,2023-06-01 11:00,1001,1,Gent,Gent
+12345,6,C,manual,2023-06-02 08:00,1003,1,Antwerpen,Brussel
+12345,1,A,eID,2023-06-01 12:00,1001,3,Antwerpen,Antwerpen

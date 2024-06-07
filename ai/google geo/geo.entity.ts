@@ -5,7 +5,7 @@ class GoogleGeo {
     nurseLocation: Location; // coordinates
     patientLocation: Location; // coordinates
     distance: number;
-    driveTime: number; // example: 2.5 (represents 2h30min)
+    driveTime: number; // in minutes
     careType: HomeCareServices;
 }
 
