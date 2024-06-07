@@ -202,7 +202,9 @@ async def anomalies():
         # Reading from json file
         careTypeAnomalies = json.load(openfile)
 
-    return {geoAnomalies, visitAnomalies, careTypeAnomalies}
+    
+    return { "geo": geoAnomalies, "visit": visitAnomalies, "care": careTypeAnomalies}
+    # return geoAnomalies, visitAnomalies, careTypeAnomalies
 
 @app.route('/upload', methods=['POST'])
 def upload():
