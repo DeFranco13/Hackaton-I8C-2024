@@ -6,7 +6,7 @@ import { Observable } from 'rxjs';
   providedIn: 'root'
 })
 export class ApiService {
-  private BASE_URL = 'http://10.1.21.183:5000'; // Adjust as needed
+  private BASE_URL = 'http://10.1.21.26:5000/'; // Adjust as needed
 
   constructor(private http: HttpClient) { }
 
