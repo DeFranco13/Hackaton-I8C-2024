@@ -20,8 +20,6 @@
         <div class="col-md-6 offset-md-3">
             <form action="/upload" method="post" enctype="multipart/form-data">
                 <div class="form-group">
-                    <label for="fileInput" class="form-label">Choose a JSON file to upload:</label>
-                    
                     
                     <div class="custom-file">
                         <input type="file" id="fileInput" class="custom-file-input" (change)="onFileSelected($event)" accept=".json">
