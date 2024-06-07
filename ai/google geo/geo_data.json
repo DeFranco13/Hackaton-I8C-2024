@@ -1,0 +1,3002 @@
+[
+    {
+        "rijksregisterPatient": "13975100197",
+        "rijksregisterNurse": "37778716203",
+        "nurseLocation": {
+            "latitude": 50.021809,
+            "longitude": 4.434284
+        },
+        "patientLocation": {
+            "latitude": 50.86348,
+            "longitude": 3.581627
+        },
+        "distance": 13.03,
+        "driveTime": 0,
+        "careType": "INJECTION_ADMINISTRATION"
+    },
+    {
+        "rijksregisterPatient": "25899877866",
+        "rijksregisterNurse": "84018263170",
+        "nurseLocation": {
+            "latitude": 51.263793,
+            "longitude": 5.306519
+        },
+        "patientLocation": {
+            "latitude": 51.43278,
+            "longitude": 4.479779
+        },
+        "distance": 31.77,
+        "driveTime": 0.63,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "20545331389",
+        "rijksregisterNurse": "92726029678",
+        "nurseLocation": {
+            "latitude": 50.541523,
+            "longitude": 3.542107
+        },
+        "patientLocation": {
+            "latitude": 51.254798,
+            "longitude": 3.950483
+        },
+        "distance": 68.74,
+        "driveTime": 1.19,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "75787409632",
+        "rijksregisterNurse": "69690213610",
+        "nurseLocation": {
+            "latitude": 51.217555,
+            "longitude": 4.288162
+        },
+        "patientLocation": {
+            "latitude": 50.389175,
+            "longitude": 3.810799
+        },
+        "distance": 29.86,
+        "driveTime": 0,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "12150776059",
+        "rijksregisterNurse": "14022576681",
+        "nurseLocation": {
+            "latitude": 51.083759,
+            "longitude": 5.135188
+        },
+        "patientLocation": {
+            "latitude": 49.989779,
+            "longitude": 3.344183
+        },
+        "distance": 59.21,
+        "driveTime": 0.94,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "49900515265",
+        "rijksregisterNurse": "95694977600",
+        "nurseLocation": {
+            "latitude": 50.406188,
+            "longitude": 4.426436
+        },
+        "patientLocation": {
+            "latitude": 51.056343,
+            "longitude": 5.792516
+        },
+        "distance": 44.58,
+        "driveTime": 0.97,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "90318793718",
+        "rijksregisterNurse": "35639982589",
+        "nurseLocation": {
+            "latitude": 51.136067,
+            "longitude": 2.899414
+        },
+        "patientLocation": {
+            "latitude": 49.812767,
+            "longitude": 3.686375
+        },
+        "distance": 79.14,
+        "driveTime": 1.19,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "72715375751",
+        "rijksregisterNurse": "91038810647",
+        "nurseLocation": {
+            "latitude": 50.636435,
+            "longitude": 3.461572
+        },
+        "patientLocation": {
+            "latitude": 50.692866,
+            "longitude": 2.95835
+        },
+        "distance": 26.75,
+        "driveTime": 0.36,
+        "careType": "INJECTION_ADMINISTRATION"
+    },
+    {
+        "rijksregisterPatient": "92617890983",
+        "rijksregisterNurse": "32297728967",
+        "nurseLocation": {
+            "latitude": 50.000796,
+            "longitude": 4.385235
+        },
+        "patientLocation": {
+            "latitude": 49.579986,
+            "longitude": 4.99485
+        },
+        "distance": 473.02,
+        "driveTime": 12.42,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "40600492371",
+        "rijksregisterNurse": "58054347285",
+        "nurseLocation": {
+            "latitude": 50.918071,
+            "longitude": 6.221902
+        },
+        "patientLocation": {
+            "latitude": 50.203872,
+            "longitude": 6.000417
+        },
+        "distance": 79.66,
+        "driveTime": 1.09,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "23413932960",
+        "rijksregisterNurse": "55226383127",
+        "nurseLocation": {
+            "latitude": 50.07714,
+            "longitude": 5.91016
+        },
+        "patientLocation": {
+            "latitude": 49.724855,
+            "longitude": 3.328494
+        },
+        "distance": 82.15,
+        "driveTime": 0.62,
+        "careType": "INJECTION_ADMINISTRATION"
+    },
+    {
+        "rijksregisterPatient": "51924854833",
+        "rijksregisterNurse": "39029213786",
+        "nurseLocation": {
+            "latitude": 50.553815,
+            "longitude": 4.401938
+        },
+        "patientLocation": {
+            "latitude": 49.501092,
+            "longitude": 4.159067
+        },
+        "distance": 87.19,
+        "driveTime": 1.16,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "89435377572",
+        "rijksregisterNurse": "70253479506",
+        "nurseLocation": {
+            "latitude": 51.105787,
+            "longitude": 3.12067
+        },
+        "patientLocation": {
+            "latitude": 50.711424,
+            "longitude": 2.951081
+        },
+        "distance": 61.65,
+        "driveTime": 0.84,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "75604013084",
+        "rijksregisterNurse": "72668526346",
+        "nurseLocation": {
+            "latitude": 50.458769,
+            "longitude": 6.067966
+        },
+        "patientLocation": {
+            "latitude": 49.598698,
+            "longitude": 3.642265
+        },
+        "distance": 78.32,
+        "driveTime": 1.55,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "98418727242",
+        "rijksregisterNurse": "28781833114",
+        "nurseLocation": {
+            "latitude": 49.714421,
+            "longitude": 5.687623
+        },
+        "patientLocation": {
+            "latitude": 50.446286,
+            "longitude": 5.940906
+        },
+        "distance": 19.55,
+        "driveTime": 0.17,
+        "careType": "INJECTION_ADMINISTRATION"
+    },
+    {
+        "rijksregisterPatient": "45570959585",
+        "rijksregisterNurse": "58995812846",
+        "nurseLocation": {
+            "latitude": 50.531277,
+            "longitude": 5.967334
+        },
+        "patientLocation": {
+            "latitude": 50.974557,
+            "longitude": 2.520097
+        },
+        "distance": 6.0,
+        "driveTime": 0,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "63233154533",
+        "rijksregisterNurse": "96592359773",
+        "nurseLocation": {
+            "latitude": 49.854012,
+            "longitude": 4.385721
+        },
+        "patientLocation": {
+            "latitude": 49.780632,
+            "longitude": 3.900082
+        },
+        "distance": 55.64,
+        "driveTime": 1.15,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "95090363174",
+        "rijksregisterNurse": "73608325577",
+        "nurseLocation": {
+            "latitude": 50.179262,
+            "longitude": 4.84083
+        },
+        "patientLocation": {
+            "latitude": 51.426395,
+            "longitude": 3.076425
+        },
+        "distance": 44.91,
+        "driveTime": 0.95,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "37124043302",
+        "rijksregisterNurse": "73993482078",
+        "nurseLocation": {
+            "latitude": 51.297922,
+            "longitude": 3.22352
+        },
+        "patientLocation": {
+            "latitude": 50.565337,
+            "longitude": 3.772452
+        },
+        "distance": 49.41,
+        "driveTime": 1.36,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "67567873330",
+        "rijksregisterNurse": "98048345768",
+        "nurseLocation": {
+            "latitude": 50.214694,
+            "longitude": 6.068386
+        },
+        "patientLocation": {
+            "latitude": 50.963488,
+            "longitude": 5.337433
+        },
+        "distance": 0,
+        "driveTime": 0,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "15129447256",
+        "rijksregisterNurse": "97218505474",
+        "nurseLocation": {
+            "latitude": 51.091181,
+            "longitude": 3.843669
+        },
+        "patientLocation": {
+            "latitude": 51.041746,
+            "longitude": 5.369986
+        },
+        "distance": 85.57,
+        "driveTime": 1.62,
+        "careType": "INJECTION_ADMINISTRATION"
+    },
+    {
+        "rijksregisterPatient": "20077548121",
+        "rijksregisterNurse": "75718870047",
+        "nurseLocation": {
+            "latitude": 50.472821,
+            "longitude": 4.24864
+        },
+        "patientLocation": {
+            "latitude": 50.635692,
+            "longitude": 4.92256
+        },
+        "distance": 45.67,
+        "driveTime": 1.3,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "39809745125",
+        "rijksregisterNurse": "39859791075",
+        "nurseLocation": {
+            "latitude": 50.302856,
+            "longitude": 4.125098
+        },
+        "patientLocation": {
+            "latitude": 51.121677,
+            "longitude": 3.857949
+        },
+        "distance": 58.26,
+        "driveTime": 1.45,
+        "careType": "INJECTION_ADMINISTRATION"
+    },
+    {
+        "rijksregisterPatient": "67183871478",
+        "rijksregisterNurse": "18921037553",
+        "nurseLocation": {
+            "latitude": 49.731797,
+            "longitude": 6.00948
+        },
+        "patientLocation": {
+            "latitude": 49.613755,
+            "longitude": 6.323894
+        },
+        "distance": 24.95,
+        "driveTime": 0.16,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "71134524884",
+        "rijksregisterNurse": "79624039708",
+        "nurseLocation": {
+            "latitude": 50.235835,
+            "longitude": 3.835135
+        },
+        "patientLocation": {
+            "latitude": 51.014728,
+            "longitude": 3.726836
+        },
+        "distance": 54.95,
+        "driveTime": 1.46,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "51089684617",
+        "rijksregisterNurse": "75774786532",
+        "nurseLocation": {
+            "latitude": 51.302324,
+            "longitude": 4.663116
+        },
+        "patientLocation": {
+            "latitude": 51.153723,
+            "longitude": 5.329737
+        },
+        "distance": 0,
+        "driveTime": 1.2,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "70672984465",
+        "rijksregisterNurse": "14662928963",
+        "nurseLocation": {
+            "latitude": 51.306299,
+            "longitude": 2.667404
+        },
+        "patientLocation": {
+            "latitude": 50.166144,
+            "longitude": 2.888958
+        },
+        "distance": 32.38,
+        "driveTime": 0.88,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "30919091581",
+        "rijksregisterNurse": "26292029660",
+        "nurseLocation": {
+            "latitude": 49.80187,
+            "longitude": 3.788041
+        },
+        "patientLocation": {
+            "latitude": 51.12776,
+            "longitude": 3.047497
+        },
+        "distance": 35.92,
+        "driveTime": 1.05,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "68757151482",
+        "rijksregisterNurse": "65868589323",
+        "nurseLocation": {
+            "latitude": 50.290466,
+            "longitude": 3.712276
+        },
+        "patientLocation": {
+            "latitude": 50.937253,
+            "longitude": 3.810312
+        },
+        "distance": 54.6,
+        "driveTime": 0.72,
+        "careType": "INJECTION_ADMINISTRATION"
+    },
+    {
+        "rijksregisterPatient": "83805783871",
+        "rijksregisterNurse": "92954452521",
+        "nurseLocation": {
+            "latitude": 51.447637,
+            "longitude": 3.133196
+        },
+        "patientLocation": {
+            "latitude": 50.081682,
+            "longitude": 3.201202
+        },
+        "distance": 36.37,
+        "driveTime": 0.91,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "25954431108",
+        "rijksregisterNurse": "45535696612",
+        "nurseLocation": {
+            "latitude": 51.207212,
+            "longitude": 5.968847
+        },
+        "patientLocation": {
+            "latitude": 49.940208,
+            "longitude": 4.929287
+        },
+        "distance": 112.43,
+        "driveTime": 0.75,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "47916800561",
+        "rijksregisterNurse": "63636655411",
+        "nurseLocation": {
+            "latitude": 50.133001,
+            "longitude": 4.382079
+        },
+        "patientLocation": {
+            "latitude": 50.959655,
+            "longitude": 2.769812
+        },
+        "distance": 1.07,
+        "driveTime": 0,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "88536393971",
+        "rijksregisterNurse": "28904071995",
+        "nurseLocation": {
+            "latitude": 51.378322,
+            "longitude": 4.474618
+        },
+        "patientLocation": {
+            "latitude": 51.499617,
+            "longitude": 3.269312
+        },
+        "distance": 30.86,
+        "driveTime": 0.79,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "27188032478",
+        "rijksregisterNurse": "60169383126",
+        "nurseLocation": {
+            "latitude": 50.682131,
+            "longitude": 6.094704
+        },
+        "patientLocation": {
+            "latitude": 51.110528,
+            "longitude": 5.323371
+        },
+        "distance": 24.57,
+        "driveTime": 0,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "58662675230",
+        "rijksregisterNurse": "56377724460",
+        "nurseLocation": {
+            "latitude": 51.247664,
+            "longitude": 5.752528
+        },
+        "patientLocation": {
+            "latitude": 49.927671,
+            "longitude": 5.507779
+        },
+        "distance": 49.63,
+        "driveTime": 1.24,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "83475868166",
+        "rijksregisterNurse": "57166606356",
+        "nurseLocation": {
+            "latitude": 50.513726,
+            "longitude": 5.373727
+        },
+        "patientLocation": {
+            "latitude": 49.695353,
+            "longitude": 4.508197
+        },
+        "distance": 22.38,
+        "driveTime": 0.01,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "32176432620",
+        "rijksregisterNurse": "26531013557",
+        "nurseLocation": {
+            "latitude": 50.685761,
+            "longitude": 2.539248
+        },
+        "patientLocation": {
+            "latitude": 50.451652,
+            "longitude": 5.264205
+        },
+        "distance": 68.0,
+        "driveTime": 0.58,
+        "careType": "INJECTION_ADMINISTRATION"
+    },
+    {
+        "rijksregisterPatient": "27363589995",
+        "rijksregisterNurse": "20118741322",
+        "nurseLocation": {
+            "latitude": 49.561322,
+            "longitude": 3.375213
+        },
+        "patientLocation": {
+            "latitude": 51.407351,
+            "longitude": 4.771047
+        },
+        "distance": 51.38,
+        "driveTime": 1.38,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "19185886901",
+        "rijksregisterNurse": "92965873115",
+        "nurseLocation": {
+            "latitude": 49.5419,
+            "longitude": 4.105301
+        },
+        "patientLocation": {
+            "latitude": 50.478917,
+            "longitude": 3.450344
+        },
+        "distance": 40.87,
+        "driveTime": 0,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "33325381481",
+        "rijksregisterNurse": "31276351225",
+        "nurseLocation": {
+            "latitude": 50.741,
+            "longitude": 4.994527
+        },
+        "patientLocation": {
+            "latitude": 51.397081,
+            "longitude": 5.535277
+        },
+        "distance": 29.83,
+        "driveTime": 0.88,
+        "careType": "INJECTION_ADMINISTRATION"
+    },
+    {
+        "rijksregisterPatient": "97484362645",
+        "rijksregisterNurse": "58839916751",
+        "nurseLocation": {
+            "latitude": 51.491631,
+            "longitude": 3.004487
+        },
+        "patientLocation": {
+            "latitude": 50.442915,
+            "longitude": 2.765563
+        },
+        "distance": 16.01,
+        "driveTime": 0.25,
+        "careType": "INJECTION_ADMINISTRATION"
+    },
+    {
+        "rijksregisterPatient": "49107760438",
+        "rijksregisterNurse": "49642337990",
+        "nurseLocation": {
+            "latitude": 50.030607,
+            "longitude": 2.996447
+        },
+        "patientLocation": {
+            "latitude": 50.551618,
+            "longitude": 3.053087
+        },
+        "distance": 18.29,
+        "driveTime": 0,
+        "careType": "INJECTION_ADMINISTRATION"
+    },
+    {
+        "rijksregisterPatient": "45855508014",
+        "rijksregisterNurse": "95584844947",
+        "nurseLocation": {
+            "latitude": 49.548545,
+            "longitude": 4.177452
+        },
+        "patientLocation": {
+            "latitude": 50.804249,
+            "longitude": 5.827659
+        },
+        "distance": 85.28,
+        "driveTime": 1.81,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "98760047486",
+        "rijksregisterNurse": "78750057531",
+        "nurseLocation": {
+            "latitude": 50.012228,
+            "longitude": 5.712499
+        },
+        "patientLocation": {
+            "latitude": 49.965545,
+            "longitude": 3.711454
+        },
+        "distance": 49.73,
+        "driveTime": 0.67,
+        "careType": "INJECTION_ADMINISTRATION"
+    },
+    {
+        "rijksregisterPatient": "39978302364",
+        "rijksregisterNurse": "40879344283",
+        "nurseLocation": {
+            "latitude": 50.909896,
+            "longitude": 4.132684
+        },
+        "patientLocation": {
+            "latitude": 49.51062,
+            "longitude": 2.544285
+        },
+        "distance": 61.71,
+        "driveTime": 1.9,
+        "careType": "INJECTION_ADMINISTRATION"
+    },
+    {
+        "rijksregisterPatient": "79527463223",
+        "rijksregisterNurse": "80947034944",
+        "nurseLocation": {
+            "latitude": 49.871795,
+            "longitude": 5.196882
+        },
+        "patientLocation": {
+            "latitude": 49.717807,
+            "longitude": 3.532133
+        },
+        "distance": 47.57,
+        "driveTime": 0.89,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "99281992745",
+        "rijksregisterNurse": "68211687353",
+        "nurseLocation": {
+            "latitude": 51.049002,
+            "longitude": 3.049734
+        },
+        "patientLocation": {
+            "latitude": 51.434676,
+            "longitude": 5.85838
+        },
+        "distance": 355.79,
+        "driveTime": 4.58,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "43961002003",
+        "rijksregisterNurse": "65973458260",
+        "nurseLocation": {
+            "latitude": 51.326569,
+            "longitude": 4.545851
+        },
+        "patientLocation": {
+            "latitude": 50.20845,
+            "longitude": 2.969082
+        },
+        "distance": 50.77,
+        "driveTime": 0.81,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "48434566972",
+        "rijksregisterNurse": "51371416715",
+        "nurseLocation": {
+            "latitude": 50.604878,
+            "longitude": 3.654204
+        },
+        "patientLocation": {
+            "latitude": 51.358583,
+            "longitude": 3.537032
+        },
+        "distance": 52.35,
+        "driveTime": 1.06,
+        "careType": "INJECTION_ADMINISTRATION"
+    },
+    {
+        "rijksregisterPatient": "78079967336",
+        "rijksregisterNurse": "68796388391",
+        "nurseLocation": {
+            "latitude": 50.444828,
+            "longitude": 4.209198
+        },
+        "patientLocation": {
+            "latitude": 49.905592,
+            "longitude": 4.151992
+        },
+        "distance": 31.26,
+        "driveTime": 0.54,
+        "careType": "INJECTION_ADMINISTRATION"
+    },
+    {
+        "rijksregisterPatient": "14627802597",
+        "rijksregisterNurse": "14156020465",
+        "nurseLocation": {
+            "latitude": 50.0256,
+            "longitude": 4.536043
+        },
+        "patientLocation": {
+            "latitude": 49.57032,
+            "longitude": 6.034303
+        },
+        "distance": 44.7,
+        "driveTime": 0.14,
+        "careType": "INJECTION_ADMINISTRATION"
+    },
+    {
+        "rijksregisterPatient": "34685953887",
+        "rijksregisterNurse": "96481098313",
+        "nurseLocation": {
+            "latitude": 51.42479,
+            "longitude": 2.931037
+        },
+        "patientLocation": {
+            "latitude": 50.761664,
+            "longitude": 6.392177
+        },
+        "distance": 78.85,
+        "driveTime": 1.4,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "88756073181",
+        "rijksregisterNurse": "78311071207",
+        "nurseLocation": {
+            "latitude": 49.504129,
+            "longitude": 3.275754
+        },
+        "patientLocation": {
+            "latitude": 51.412246,
+            "longitude": 3.788718
+        },
+        "distance": 341.33,
+        "driveTime": 15.83,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "58053304838",
+        "rijksregisterNurse": "99737332867",
+        "nurseLocation": {
+            "latitude": 50.957117,
+            "longitude": 3.78564
+        },
+        "patientLocation": {
+            "latitude": 51.083523,
+            "longitude": 2.921846
+        },
+        "distance": 52.41,
+        "driveTime": 0.85,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "21561252886",
+        "rijksregisterNurse": "81325646860",
+        "nurseLocation": {
+            "latitude": 49.704893,
+            "longitude": 4.048401
+        },
+        "patientLocation": {
+            "latitude": 50.053299,
+            "longitude": 4.474737
+        },
+        "distance": 67.48,
+        "driveTime": 0.59,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "44362269169",
+        "rijksregisterNurse": "56383217005",
+        "nurseLocation": {
+            "latitude": 50.037418,
+            "longitude": 5.620997
+        },
+        "patientLocation": {
+            "latitude": 51.411137,
+            "longitude": 3.734546
+        },
+        "distance": 18.1,
+        "driveTime": 0.62,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "21112106918",
+        "rijksregisterNurse": "61156402870",
+        "nurseLocation": {
+            "latitude": 51.002065,
+            "longitude": 3.108314
+        },
+        "patientLocation": {
+            "latitude": 50.352005,
+            "longitude": 5.981558
+        },
+        "distance": 56.78,
+        "driveTime": 0.55,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "57081793020",
+        "rijksregisterNurse": "15331652643",
+        "nurseLocation": {
+            "latitude": 50.371063,
+            "longitude": 5.614888
+        },
+        "patientLocation": {
+            "latitude": 51.346911,
+            "longitude": 3.666699
+        },
+        "distance": 51.29,
+        "driveTime": 0.72,
+        "careType": "INJECTION_ADMINISTRATION"
+    },
+    {
+        "rijksregisterPatient": "59819897341",
+        "rijksregisterNurse": "35456694225",
+        "nurseLocation": {
+            "latitude": 51.467708,
+            "longitude": 5.219588
+        },
+        "patientLocation": {
+            "latitude": 50.279097,
+            "longitude": 3.528694
+        },
+        "distance": 114.86,
+        "driveTime": 1.71,
+        "careType": "INJECTION_ADMINISTRATION"
+    },
+    {
+        "rijksregisterPatient": "23567569199",
+        "rijksregisterNurse": "50822362546",
+        "nurseLocation": {
+            "latitude": 51.35079,
+            "longitude": 5.092196
+        },
+        "patientLocation": {
+            "latitude": 50.346109,
+            "longitude": 3.276065
+        },
+        "distance": 60.36,
+        "driveTime": 0.66,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "37714613355",
+        "rijksregisterNurse": "66979580494",
+        "nurseLocation": {
+            "latitude": 51.355952,
+            "longitude": 5.880758
+        },
+        "patientLocation": {
+            "latitude": 51.132302,
+            "longitude": 6.054658
+        },
+        "distance": 74.02,
+        "driveTime": 1.9,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "45448203627",
+        "rijksregisterNurse": "75614512298",
+        "nurseLocation": {
+            "latitude": 50.620901,
+            "longitude": 5.106051
+        },
+        "patientLocation": {
+            "latitude": 50.073433,
+            "longitude": 2.575904
+        },
+        "distance": 15.52,
+        "driveTime": 0,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "32166027772",
+        "rijksregisterNurse": "76264510319",
+        "nurseLocation": {
+            "latitude": 51.27653,
+            "longitude": 5.855212
+        },
+        "patientLocation": {
+            "latitude": 50.806,
+            "longitude": 3.842728
+        },
+        "distance": 58.82,
+        "driveTime": 0.9,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "11948970735",
+        "rijksregisterNurse": "54045689805",
+        "nurseLocation": {
+            "latitude": 49.602015,
+            "longitude": 4.945927
+        },
+        "patientLocation": {
+            "latitude": 50.504906,
+            "longitude": 3.162296
+        },
+        "distance": 62.32,
+        "driveTime": 1.29,
+        "careType": "INJECTION_ADMINISTRATION"
+    },
+    {
+        "rijksregisterPatient": "82291931660",
+        "rijksregisterNurse": "96439207470",
+        "nurseLocation": {
+            "latitude": 51.465998,
+            "longitude": 6.330766
+        },
+        "patientLocation": {
+            "latitude": 51.485334,
+            "longitude": 2.962601
+        },
+        "distance": 59.11,
+        "driveTime": 1.72,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "73639189051",
+        "rijksregisterNurse": "89446458975",
+        "nurseLocation": {
+            "latitude": 51.014813,
+            "longitude": 3.294122
+        },
+        "patientLocation": {
+            "latitude": 50.632623,
+            "longitude": 3.224685
+        },
+        "distance": 43.45,
+        "driveTime": 0,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "98080803500",
+        "rijksregisterNurse": "36685639049",
+        "nurseLocation": {
+            "latitude": 49.50931,
+            "longitude": 4.15693
+        },
+        "patientLocation": {
+            "latitude": 50.828394,
+            "longitude": 4.066584
+        },
+        "distance": 42.2,
+        "driveTime": 0.28,
+        "careType": "INJECTION_ADMINISTRATION"
+    },
+    {
+        "rijksregisterPatient": "12789710168",
+        "rijksregisterNurse": "66277360689",
+        "nurseLocation": {
+            "latitude": 49.838625,
+            "longitude": 6.26387
+        },
+        "patientLocation": {
+            "latitude": 49.80246,
+            "longitude": 5.641304
+        },
+        "distance": 46.85,
+        "driveTime": 0.66,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "75471565954",
+        "rijksregisterNurse": "36635537691",
+        "nurseLocation": {
+            "latitude": 51.443526,
+            "longitude": 3.918995
+        },
+        "patientLocation": {
+            "latitude": 51.075832,
+            "longitude": 4.665647
+        },
+        "distance": 62.03,
+        "driveTime": 2.41,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "90987660894",
+        "rijksregisterNurse": "82486336579",
+        "nurseLocation": {
+            "latitude": 49.737834,
+            "longitude": 4.128403
+        },
+        "patientLocation": {
+            "latitude": 51.063163,
+            "longitude": 5.205613
+        },
+        "distance": 52.8,
+        "driveTime": 1.14,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "43882939732",
+        "rijksregisterNurse": "85019635108",
+        "nurseLocation": {
+            "latitude": 50.41975,
+            "longitude": 4.737078
+        },
+        "patientLocation": {
+            "latitude": 51.410093,
+            "longitude": 6.319217
+        },
+        "distance": 71.59,
+        "driveTime": 0.79,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "51525935447",
+        "rijksregisterNurse": "64920123652",
+        "nurseLocation": {
+            "latitude": 50.777218,
+            "longitude": 4.176987
+        },
+        "patientLocation": {
+            "latitude": 49.571485,
+            "longitude": 5.5035
+        },
+        "distance": 70.61,
+        "driveTime": 1.03,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "59268266035",
+        "rijksregisterNurse": "96956725858",
+        "nurseLocation": {
+            "latitude": 51.087135,
+            "longitude": 3.67254
+        },
+        "patientLocation": {
+            "latitude": 51.101597,
+            "longitude": 4.640501
+        },
+        "distance": 67.26,
+        "driveTime": 1.52,
+        "careType": "INJECTION_ADMINISTRATION"
+    },
+    {
+        "rijksregisterPatient": "74469246786",
+        "rijksregisterNurse": "40835837075",
+        "nurseLocation": {
+            "latitude": 51.46598,
+            "longitude": 3.045009
+        },
+        "patientLocation": {
+            "latitude": 50.161193,
+            "longitude": 2.699107
+        },
+        "distance": 42.38,
+        "driveTime": 0.41,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "25324911857",
+        "rijksregisterNurse": "47929034775",
+        "nurseLocation": {
+            "latitude": 51.190308,
+            "longitude": 3.99278
+        },
+        "patientLocation": {
+            "latitude": 49.549538,
+            "longitude": 5.741021
+        },
+        "distance": 58.99,
+        "driveTime": 0.91,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "40914555715",
+        "rijksregisterNurse": "37863378099",
+        "nurseLocation": {
+            "latitude": 51.090913,
+            "longitude": 5.142283
+        },
+        "patientLocation": {
+            "latitude": 51.375729,
+            "longitude": 4.922447
+        },
+        "distance": 36.25,
+        "driveTime": 0,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "88993041032",
+        "rijksregisterNurse": "22884208639",
+        "nurseLocation": {
+            "latitude": 50.923741,
+            "longitude": 2.709561
+        },
+        "patientLocation": {
+            "latitude": 50.292445,
+            "longitude": 3.153
+        },
+        "distance": 57.23,
+        "driveTime": 1.16,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "46651645172",
+        "rijksregisterNurse": "75016264002",
+        "nurseLocation": {
+            "latitude": 51.43315,
+            "longitude": 5.521516
+        },
+        "patientLocation": {
+            "latitude": 51.488466,
+            "longitude": 4.897603
+        },
+        "distance": 66.88,
+        "driveTime": 1.29,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "43377257398",
+        "rijksregisterNurse": "28296367068",
+        "nurseLocation": {
+            "latitude": 51.421625,
+            "longitude": 2.753974
+        },
+        "patientLocation": {
+            "latitude": 49.589142,
+            "longitude": 6.061806
+        },
+        "distance": 55.7,
+        "driveTime": 1.03,
+        "careType": "INJECTION_ADMINISTRATION"
+    },
+    {
+        "rijksregisterPatient": "59087314899",
+        "rijksregisterNurse": "99747183026",
+        "nurseLocation": {
+            "latitude": 50.300897,
+            "longitude": 5.096898
+        },
+        "patientLocation": {
+            "latitude": 50.301759,
+            "longitude": 5.495959
+        },
+        "distance": 58.39,
+        "driveTime": 0.99,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "88031550012",
+        "rijksregisterNurse": "39938593504",
+        "nurseLocation": {
+            "latitude": 50.016118,
+            "longitude": 4.576049
+        },
+        "patientLocation": {
+            "latitude": 50.906378,
+            "longitude": 6.202192
+        },
+        "distance": 30.24,
+        "driveTime": 0.05,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "12317811506",
+        "rijksregisterNurse": "61870297693",
+        "nurseLocation": {
+            "latitude": 50.248125,
+            "longitude": 4.113743
+        },
+        "patientLocation": {
+            "latitude": 50.87276,
+            "longitude": 3.653979
+        },
+        "distance": 35.7,
+        "driveTime": 0.84,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "38257785548",
+        "rijksregisterNurse": "12552488070",
+        "nurseLocation": {
+            "latitude": 50.65518,
+            "longitude": 2.793581
+        },
+        "patientLocation": {
+            "latitude": 49.656492,
+            "longitude": 3.948019
+        },
+        "distance": 77.93,
+        "driveTime": 1.04,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "12273332870",
+        "rijksregisterNurse": "42829215010",
+        "nurseLocation": {
+            "latitude": 51.03442,
+            "longitude": 3.619896
+        },
+        "patientLocation": {
+            "latitude": 50.596513,
+            "longitude": 4.619075
+        },
+        "distance": 78.13,
+        "driveTime": 1.81,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "80277122678",
+        "rijksregisterNurse": "25382709723",
+        "nurseLocation": {
+            "latitude": 50.660476,
+            "longitude": 5.522031
+        },
+        "patientLocation": {
+            "latitude": 51.388065,
+            "longitude": 2.643097
+        },
+        "distance": 65.2,
+        "driveTime": 1.64,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "31028770109",
+        "rijksregisterNurse": "18456273685",
+        "nurseLocation": {
+            "latitude": 50.532247,
+            "longitude": 3.357457
+        },
+        "patientLocation": {
+            "latitude": 50.048591,
+            "longitude": 5.237178
+        },
+        "distance": 43.59,
+        "driveTime": 0.81,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "23434212933",
+        "rijksregisterNurse": "54735377656",
+        "nurseLocation": {
+            "latitude": 50.504787,
+            "longitude": 4.606187
+        },
+        "patientLocation": {
+            "latitude": 50.791089,
+            "longitude": 3.844941
+        },
+        "distance": 46.1,
+        "driveTime": 1.29,
+        "careType": "INJECTION_ADMINISTRATION"
+    },
+    {
+        "rijksregisterPatient": "63739079855",
+        "rijksregisterNurse": "78847754191",
+        "nurseLocation": {
+            "latitude": 50.612266,
+            "longitude": 3.740312
+        },
+        "patientLocation": {
+            "latitude": 51.416134,
+            "longitude": 6.266364
+        },
+        "distance": 26.84,
+        "driveTime": 0.19,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "62762290752",
+        "rijksregisterNurse": "17143285686",
+        "nurseLocation": {
+            "latitude": 51.274566,
+            "longitude": 5.483773
+        },
+        "patientLocation": {
+            "latitude": 50.127181,
+            "longitude": 3.925602
+        },
+        "distance": 51.69,
+        "driveTime": 0.87,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "58397102809",
+        "rijksregisterNurse": "33283496803",
+        "nurseLocation": {
+            "latitude": 51.324302,
+            "longitude": 2.961563
+        },
+        "patientLocation": {
+            "latitude": 49.550381,
+            "longitude": 6.004687
+        },
+        "distance": 56.91,
+        "driveTime": 0.94,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "68719704443",
+        "rijksregisterNurse": "74275268883",
+        "nurseLocation": {
+            "latitude": 50.788446,
+            "longitude": 2.976134
+        },
+        "patientLocation": {
+            "latitude": 50.0192,
+            "longitude": 2.734304
+        },
+        "distance": 65.18,
+        "driveTime": 0.56,
+        "careType": "INJECTION_ADMINISTRATION"
+    },
+    {
+        "rijksregisterPatient": "10697382627",
+        "rijksregisterNurse": "31007037478",
+        "nurseLocation": {
+            "latitude": 50.870934,
+            "longitude": 2.693049
+        },
+        "patientLocation": {
+            "latitude": 49.703709,
+            "longitude": 3.023277
+        },
+        "distance": 43.34,
+        "driveTime": 0.56,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "34452634397",
+        "rijksregisterNurse": "61548553911",
+        "nurseLocation": {
+            "latitude": 51.001073,
+            "longitude": 6.392289
+        },
+        "patientLocation": {
+            "latitude": 50.567956,
+            "longitude": 6.182391
+        },
+        "distance": 23.92,
+        "driveTime": 0,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "82466094649",
+        "rijksregisterNurse": "98863609279",
+        "nurseLocation": {
+            "latitude": 50.092256,
+            "longitude": 4.424287
+        },
+        "patientLocation": {
+            "latitude": 50.814087,
+            "longitude": 4.298096
+        },
+        "distance": 44.78,
+        "driveTime": 0.3,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "20829443915",
+        "rijksregisterNurse": "56414735330",
+        "nurseLocation": {
+            "latitude": 50.47937,
+            "longitude": 3.01358
+        },
+        "patientLocation": {
+            "latitude": 50.294027,
+            "longitude": 5.247166
+        },
+        "distance": 58.7,
+        "driveTime": 1.31,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "72887160006",
+        "rijksregisterNurse": "92768576608",
+        "nurseLocation": {
+            "latitude": 51.084998,
+            "longitude": 5.75902
+        },
+        "patientLocation": {
+            "latitude": 50.466918,
+            "longitude": 5.936634
+        },
+        "distance": 70.76,
+        "driveTime": 1.93,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "84253581804",
+        "rijksregisterNurse": "71962488469",
+        "nurseLocation": {
+            "latitude": 50.553168,
+            "longitude": 4.597989
+        },
+        "patientLocation": {
+            "latitude": 51.375326,
+            "longitude": 3.690236
+        },
+        "distance": 67.6,
+        "driveTime": 0.38,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "47204802135",
+        "rijksregisterNurse": "88948808960",
+        "nurseLocation": {
+            "latitude": 51.038094,
+            "longitude": 5.14379
+        },
+        "patientLocation": {
+            "latitude": 50.139668,
+            "longitude": 3.266159
+        },
+        "distance": 460.85,
+        "driveTime": 18.17,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "28157258707",
+        "rijksregisterNurse": "86616781900",
+        "nurseLocation": {
+            "latitude": 51.296176,
+            "longitude": 3.753744
+        },
+        "patientLocation": {
+            "latitude": 50.44837,
+            "longitude": 4.507592
+        },
+        "distance": 29.84,
+        "driveTime": 1.51,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "70101858950",
+        "rijksregisterNurse": "67520741196",
+        "nurseLocation": {
+            "latitude": 49.615819,
+            "longitude": 3.636416
+        },
+        "patientLocation": {
+            "latitude": 49.576089,
+            "longitude": 6.230522
+        },
+        "distance": 70.61,
+        "driveTime": 1.44,
+        "careType": "INJECTION_ADMINISTRATION"
+    },
+    {
+        "rijksregisterPatient": "12545955039",
+        "rijksregisterNurse": "79326575864",
+        "nurseLocation": {
+            "latitude": 51.104137,
+            "longitude": 3.960215
+        },
+        "patientLocation": {
+            "latitude": 50.207638,
+            "longitude": 3.975244
+        },
+        "distance": 50.91,
+        "driveTime": 1.12,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "21467272722",
+        "rijksregisterNurse": "45955183140",
+        "nurseLocation": {
+            "latitude": 51.46655,
+            "longitude": 2.618663
+        },
+        "patientLocation": {
+            "latitude": 49.887247,
+            "longitude": 2.937775
+        },
+        "distance": 69.11,
+        "driveTime": 1.02,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "61347613417",
+        "rijksregisterNurse": "61106375957",
+        "nurseLocation": {
+            "latitude": 51.173981,
+            "longitude": 3.365114
+        },
+        "patientLocation": {
+            "latitude": 50.487891,
+            "longitude": 6.125513
+        },
+        "distance": 42.64,
+        "driveTime": 0,
+        "careType": "INJECTION_ADMINISTRATION"
+    },
+    {
+        "rijksregisterPatient": "95946010231",
+        "rijksregisterNurse": "12201750960",
+        "nurseLocation": {
+            "latitude": 51.460933,
+            "longitude": 4.795782
+        },
+        "patientLocation": {
+            "latitude": 49.591021,
+            "longitude": 3.272133
+        },
+        "distance": 55.98,
+        "driveTime": 1.63,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "66389509285",
+        "rijksregisterNurse": "51575816816",
+        "nurseLocation": {
+            "latitude": 50.326172,
+            "longitude": 5.269227
+        },
+        "patientLocation": {
+            "latitude": 51.079739,
+            "longitude": 3.737315
+        },
+        "distance": 84.56,
+        "driveTime": 1.67,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "90332470354",
+        "rijksregisterNurse": "16380030584",
+        "nurseLocation": {
+            "latitude": 50.983206,
+            "longitude": 5.505122
+        },
+        "patientLocation": {
+            "latitude": 51.316497,
+            "longitude": 3.086364
+        },
+        "distance": 359.86,
+        "driveTime": 6.0,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "72006522203",
+        "rijksregisterNurse": "94257022613",
+        "nurseLocation": {
+            "latitude": 49.710189,
+            "longitude": 6.332038
+        },
+        "patientLocation": {
+            "latitude": 51.250903,
+            "longitude": 2.787922
+        },
+        "distance": 69.27,
+        "driveTime": 1.09,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "51399135675",
+        "rijksregisterNurse": "59630462418",
+        "nurseLocation": {
+            "latitude": 51.312988,
+            "longitude": 5.619475
+        },
+        "patientLocation": {
+            "latitude": 50.121861,
+            "longitude": 4.443896
+        },
+        "distance": 74.44,
+        "driveTime": 1.69,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "67663914982",
+        "rijksregisterNurse": "56326739387",
+        "nurseLocation": {
+            "latitude": 50.462085,
+            "longitude": 3.663159
+        },
+        "patientLocation": {
+            "latitude": 51.225118,
+            "longitude": 4.786482
+        },
+        "distance": 42.49,
+        "driveTime": 0.53,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "43187809982",
+        "rijksregisterNurse": "35242624682",
+        "nurseLocation": {
+            "latitude": 51.49671,
+            "longitude": 5.8045
+        },
+        "patientLocation": {
+            "latitude": 50.328913,
+            "longitude": 2.997246
+        },
+        "distance": 59.09,
+        "driveTime": 1.19,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "68292174991",
+        "rijksregisterNurse": "30041534925",
+        "nurseLocation": {
+            "latitude": 51.339476,
+            "longitude": 6.246989
+        },
+        "patientLocation": {
+            "latitude": 50.781129,
+            "longitude": 5.185728
+        },
+        "distance": 45.66,
+        "driveTime": 0.51,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "73714599303",
+        "rijksregisterNurse": "43828980581",
+        "nurseLocation": {
+            "latitude": 50.180201,
+            "longitude": 2.767528
+        },
+        "patientLocation": {
+            "latitude": 49.957815,
+            "longitude": 3.896137
+        },
+        "distance": 122.79,
+        "driveTime": 2.5,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "51052904386",
+        "rijksregisterNurse": "36142254216",
+        "nurseLocation": {
+            "latitude": 50.135264,
+            "longitude": 3.78292
+        },
+        "patientLocation": {
+            "latitude": 49.539383,
+            "longitude": 2.659412
+        },
+        "distance": 89.62,
+        "driveTime": 1.82,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "92516488516",
+        "rijksregisterNurse": "26677971787",
+        "nurseLocation": {
+            "latitude": 51.039578,
+            "longitude": 5.498786
+        },
+        "patientLocation": {
+            "latitude": 51.213135,
+            "longitude": 5.309245
+        },
+        "distance": 68.36,
+        "driveTime": 1.83,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "41516565581",
+        "rijksregisterNurse": "93974980832",
+        "nurseLocation": {
+            "latitude": 49.568534,
+            "longitude": 6.394254
+        },
+        "patientLocation": {
+            "latitude": 49.763152,
+            "longitude": 5.387354
+        },
+        "distance": 459.53,
+        "driveTime": 6.29,
+        "careType": "INJECTION_ADMINISTRATION"
+    },
+    {
+        "rijksregisterPatient": "70895712246",
+        "rijksregisterNurse": "77325410046",
+        "nurseLocation": {
+            "latitude": 49.69752,
+            "longitude": 5.419563
+        },
+        "patientLocation": {
+            "latitude": 50.405307,
+            "longitude": 5.283499
+        },
+        "distance": 20.13,
+        "driveTime": 0.09,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "50671789924",
+        "rijksregisterNurse": "23121906065",
+        "nurseLocation": {
+            "latitude": 51.386125,
+            "longitude": 6.363542
+        },
+        "patientLocation": {
+            "latitude": 49.897784,
+            "longitude": 5.06167
+        },
+        "distance": 8.04,
+        "driveTime": 0,
+        "careType": "INJECTION_ADMINISTRATION"
+    },
+    {
+        "rijksregisterPatient": "19568720499",
+        "rijksregisterNurse": "44002788264",
+        "nurseLocation": {
+            "latitude": 50.868997,
+            "longitude": 4.127599
+        },
+        "patientLocation": {
+            "latitude": 50.266133,
+            "longitude": 4.033177
+        },
+        "distance": 75.98,
+        "driveTime": 1.51,
+        "careType": "INJECTION_ADMINISTRATION"
+    },
+    {
+        "rijksregisterPatient": "49843559807",
+        "rijksregisterNurse": "43088881135",
+        "nurseLocation": {
+            "latitude": 50.193216,
+            "longitude": 4.475474
+        },
+        "patientLocation": {
+            "latitude": 50.758922,
+            "longitude": 5.355355
+        },
+        "distance": 46.7,
+        "driveTime": 0.7,
+        "careType": "INJECTION_ADMINISTRATION"
+    },
+    {
+        "rijksregisterPatient": "47656387981",
+        "rijksregisterNurse": "34980043896",
+        "nurseLocation": {
+            "latitude": 50.115064,
+            "longitude": 5.9152
+        },
+        "patientLocation": {
+            "latitude": 49.585526,
+            "longitude": 2.501433
+        },
+        "distance": 60.87,
+        "driveTime": 1.28,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "18870482675",
+        "rijksregisterNurse": "80403339448",
+        "nurseLocation": {
+            "latitude": 49.703541,
+            "longitude": 5.12474
+        },
+        "patientLocation": {
+            "latitude": 51.103632,
+            "longitude": 3.22272
+        },
+        "distance": 103.88,
+        "driveTime": 1.44,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "82478357649",
+        "rijksregisterNurse": "22298652716",
+        "nurseLocation": {
+            "latitude": 51.09966,
+            "longitude": 6.246037
+        },
+        "patientLocation": {
+            "latitude": 51.097906,
+            "longitude": 2.804172
+        },
+        "distance": 0,
+        "driveTime": 0.25,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "53556781375",
+        "rijksregisterNurse": "19961745524",
+        "nurseLocation": {
+            "latitude": 50.55663,
+            "longitude": 5.11959
+        },
+        "patientLocation": {
+            "latitude": 50.440643,
+            "longitude": 6.242813
+        },
+        "distance": 40.54,
+        "driveTime": 0.46,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "19003971130",
+        "rijksregisterNurse": "35267793163",
+        "nurseLocation": {
+            "latitude": 50.624132,
+            "longitude": 4.279268
+        },
+        "patientLocation": {
+            "latitude": 50.692369,
+            "longitude": 4.172358
+        },
+        "distance": 62.63,
+        "driveTime": 1.22,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "84174682619",
+        "rijksregisterNurse": "35792153256",
+        "nurseLocation": {
+            "latitude": 50.890693,
+            "longitude": 2.86212
+        },
+        "patientLocation": {
+            "latitude": 49.833084,
+            "longitude": 5.819674
+        },
+        "distance": 5.4,
+        "driveTime": 0,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "86369394865",
+        "rijksregisterNurse": "81543530918",
+        "nurseLocation": {
+            "latitude": 51.352053,
+            "longitude": 5.690501
+        },
+        "patientLocation": {
+            "latitude": 50.728693,
+            "longitude": 3.363812
+        },
+        "distance": 29.66,
+        "driveTime": 0,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "40529488454",
+        "rijksregisterNurse": "51133232616",
+        "nurseLocation": {
+            "latitude": 51.156961,
+            "longitude": 5.825487
+        },
+        "patientLocation": {
+            "latitude": 49.565552,
+            "longitude": 3.452212
+        },
+        "distance": 96.22,
+        "driveTime": 1.24,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "62507699622",
+        "rijksregisterNurse": "55271634760",
+        "nurseLocation": {
+            "latitude": 51.034932,
+            "longitude": 4.515649
+        },
+        "patientLocation": {
+            "latitude": 51.465853,
+            "longitude": 3.061828
+        },
+        "distance": 63.08,
+        "driveTime": 0.78,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "19198016283",
+        "rijksregisterNurse": "63700199938",
+        "nurseLocation": {
+            "latitude": 50.63169,
+            "longitude": 4.138911
+        },
+        "patientLocation": {
+            "latitude": 50.956948,
+            "longitude": 6.012633
+        },
+        "distance": 33.6,
+        "driveTime": 0.72,
+        "careType": "INJECTION_ADMINISTRATION"
+    },
+    {
+        "rijksregisterPatient": "70840034933",
+        "rijksregisterNurse": "84639893307",
+        "nurseLocation": {
+            "latitude": 50.331907,
+            "longitude": 3.401894
+        },
+        "patientLocation": {
+            "latitude": 50.115748,
+            "longitude": 6.187181
+        },
+        "distance": 53.98,
+        "driveTime": 0,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "27466735617",
+        "rijksregisterNurse": "98670169860",
+        "nurseLocation": {
+            "latitude": 49.908289,
+            "longitude": 3.495532
+        },
+        "patientLocation": {
+            "latitude": 51.269244,
+            "longitude": 3.305161
+        },
+        "distance": 44.51,
+        "driveTime": 0.85,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "20338484470",
+        "rijksregisterNurse": "21309831437",
+        "nurseLocation": {
+            "latitude": 50.985797,
+            "longitude": 3.264403
+        },
+        "patientLocation": {
+            "latitude": 50.072659,
+            "longitude": 3.150292
+        },
+        "distance": 43.6,
+        "driveTime": 0.55,
+        "careType": "INJECTION_ADMINISTRATION"
+    },
+    {
+        "rijksregisterPatient": "58321657299",
+        "rijksregisterNurse": "25773536870",
+        "nurseLocation": {
+            "latitude": 50.143395,
+            "longitude": 4.163716
+        },
+        "patientLocation": {
+            "latitude": 49.549096,
+            "longitude": 4.014499
+        },
+        "distance": 25.2,
+        "driveTime": 0.4,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "29339328110",
+        "rijksregisterNurse": "34235717408",
+        "nurseLocation": {
+            "latitude": 51.136844,
+            "longitude": 2.813749
+        },
+        "patientLocation": {
+            "latitude": 50.702456,
+            "longitude": 5.754887
+        },
+        "distance": 82.72,
+        "driveTime": 1.37,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "70274633425",
+        "rijksregisterNurse": "27721273174",
+        "nurseLocation": {
+            "latitude": 51.112248,
+            "longitude": 2.918474
+        },
+        "patientLocation": {
+            "latitude": 49.51812,
+            "longitude": 3.247724
+        },
+        "distance": 60.25,
+        "driveTime": 1.14,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "30703339113",
+        "rijksregisterNurse": "97481211115",
+        "nurseLocation": {
+            "latitude": 50.906814,
+            "longitude": 3.876992
+        },
+        "patientLocation": {
+            "latitude": 49.808851,
+            "longitude": 3.71949
+        },
+        "distance": 12.74,
+        "driveTime": 0.96,
+        "careType": "INJECTION_ADMINISTRATION"
+    },
+    {
+        "rijksregisterPatient": "19674991661",
+        "rijksregisterNurse": "38737758721",
+        "nurseLocation": {
+            "latitude": 51.274263,
+            "longitude": 3.145628
+        },
+        "patientLocation": {
+            "latitude": 50.83192,
+            "longitude": 2.828424
+        },
+        "distance": 32.81,
+        "driveTime": 0.98,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "73138643460",
+        "rijksregisterNurse": "92439034170",
+        "nurseLocation": {
+            "latitude": 50.453603,
+            "longitude": 4.925341
+        },
+        "patientLocation": {
+            "latitude": 50.557483,
+            "longitude": 4.330599
+        },
+        "distance": 380.25,
+        "driveTime": 6.1,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "10729435187",
+        "rijksregisterNurse": "86633079088",
+        "nurseLocation": {
+            "latitude": 50.363685,
+            "longitude": 3.750917
+        },
+        "patientLocation": {
+            "latitude": 49.648249,
+            "longitude": 5.793435
+        },
+        "distance": 39.69,
+        "driveTime": 0.46,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "20989459229",
+        "rijksregisterNurse": "75037940155",
+        "nurseLocation": {
+            "latitude": 49.6452,
+            "longitude": 5.49001
+        },
+        "patientLocation": {
+            "latitude": 50.032741,
+            "longitude": 3.937536
+        },
+        "distance": 59.71,
+        "driveTime": 1.01,
+        "careType": "INJECTION_ADMINISTRATION"
+    },
+    {
+        "rijksregisterPatient": "31329429629",
+        "rijksregisterNurse": "58909858140",
+        "nurseLocation": {
+            "latitude": 51.180033,
+            "longitude": 5.080153
+        },
+        "patientLocation": {
+            "latitude": 49.618046,
+            "longitude": 5.662829
+        },
+        "distance": 38.56,
+        "driveTime": 0.83,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "67573154538",
+        "rijksregisterNurse": "31504208392",
+        "nurseLocation": {
+            "latitude": 50.622242,
+            "longitude": 5.762534
+        },
+        "patientLocation": {
+            "latitude": 50.0561,
+            "longitude": 4.633105
+        },
+        "distance": 55.89,
+        "driveTime": 1.12,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "17799351710",
+        "rijksregisterNurse": "94741178639",
+        "nurseLocation": {
+            "latitude": 50.618497,
+            "longitude": 5.909703
+        },
+        "patientLocation": {
+            "latitude": 50.909464,
+            "longitude": 4.929576
+        },
+        "distance": 37.92,
+        "driveTime": 0.63,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "58381431778",
+        "rijksregisterNurse": "87069501585",
+        "nurseLocation": {
+            "latitude": 50.475529,
+            "longitude": 2.551933
+        },
+        "patientLocation": {
+            "latitude": 50.712524,
+            "longitude": 6.357443
+        },
+        "distance": 483.31,
+        "driveTime": 6.47,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "85767875245",
+        "rijksregisterNurse": "74792393581",
+        "nurseLocation": {
+            "latitude": 51.068117,
+            "longitude": 5.401358
+        },
+        "patientLocation": {
+            "latitude": 51.434094,
+            "longitude": 5.911885
+        },
+        "distance": 26.5,
+        "driveTime": 0.23,
+        "careType": "INJECTION_ADMINISTRATION"
+    },
+    {
+        "rijksregisterPatient": "67092466523",
+        "rijksregisterNurse": "89144622302",
+        "nurseLocation": {
+            "latitude": 50.12739,
+            "longitude": 4.498393
+        },
+        "patientLocation": {
+            "latitude": 50.103403,
+            "longitude": 5.86111
+        },
+        "distance": 49.02,
+        "driveTime": 0.34,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "50219050552",
+        "rijksregisterNurse": "93775848460",
+        "nurseLocation": {
+            "latitude": 50.360362,
+            "longitude": 6.045462
+        },
+        "patientLocation": {
+            "latitude": 49.874722,
+            "longitude": 5.221141
+        },
+        "distance": 72.13,
+        "driveTime": 0.38,
+        "careType": "INJECTION_ADMINISTRATION"
+    },
+    {
+        "rijksregisterPatient": "17427220933",
+        "rijksregisterNurse": "93526360395",
+        "nurseLocation": {
+            "latitude": 51.058308,
+            "longitude": 4.413141
+        },
+        "patientLocation": {
+            "latitude": 50.719373,
+            "longitude": 3.329461
+        },
+        "distance": 170.11,
+        "driveTime": 16.94,
+        "careType": "INJECTION_ADMINISTRATION"
+    },
+    {
+        "rijksregisterPatient": "54445068876",
+        "rijksregisterNurse": "87459508936",
+        "nurseLocation": {
+            "latitude": 50.069559,
+            "longitude": 4.234039
+        },
+        "patientLocation": {
+            "latitude": 51.360253,
+            "longitude": 3.206944
+        },
+        "distance": 41.7,
+        "driveTime": 0.33,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "33822640565",
+        "rijksregisterNurse": "80455930715",
+        "nurseLocation": {
+            "latitude": 49.766296,
+            "longitude": 6.079719
+        },
+        "patientLocation": {
+            "latitude": 49.662108,
+            "longitude": 4.374891
+        },
+        "distance": 63.74,
+        "driveTime": 1.13,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "51161882182",
+        "rijksregisterNurse": "58828929463",
+        "nurseLocation": {
+            "latitude": 50.408331,
+            "longitude": 5.874325
+        },
+        "patientLocation": {
+            "latitude": 51.410128,
+            "longitude": 4.52381
+        },
+        "distance": 34.9,
+        "driveTime": 0.01,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "18178458492",
+        "rijksregisterNurse": "70089513015",
+        "nurseLocation": {
+            "latitude": 49.888388,
+            "longitude": 4.111226
+        },
+        "patientLocation": {
+            "latitude": 50.545649,
+            "longitude": 2.673329
+        },
+        "distance": 9.55,
+        "driveTime": 0.74,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "35584712774",
+        "rijksregisterNurse": "38969295597",
+        "nurseLocation": {
+            "latitude": 51.174653,
+            "longitude": 3.775075
+        },
+        "patientLocation": {
+            "latitude": 49.709668,
+            "longitude": 2.825769
+        },
+        "distance": 15.62,
+        "driveTime": 0.51,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "15017311973",
+        "rijksregisterNurse": "65740083895",
+        "nurseLocation": {
+            "latitude": 50.831903,
+            "longitude": 5.68523
+        },
+        "patientLocation": {
+            "latitude": 50.714361,
+            "longitude": 6.234205
+        },
+        "distance": 39.8,
+        "driveTime": 0.96,
+        "careType": "INJECTION_ADMINISTRATION"
+    },
+    {
+        "rijksregisterPatient": "37403027079",
+        "rijksregisterNurse": "62713511419",
+        "nurseLocation": {
+            "latitude": 50.936373,
+            "longitude": 5.627633
+        },
+        "patientLocation": {
+            "latitude": 49.552643,
+            "longitude": 5.303628
+        },
+        "distance": 53.69,
+        "driveTime": 0.41,
+        "careType": "INJECTION_ADMINISTRATION"
+    },
+    {
+        "rijksregisterPatient": "90953817968",
+        "rijksregisterNurse": "77626613080",
+        "nurseLocation": {
+            "latitude": 50.416042,
+            "longitude": 4.642732
+        },
+        "patientLocation": {
+            "latitude": 50.909287,
+            "longitude": 6.099366
+        },
+        "distance": 52.1,
+        "driveTime": 1.71,
+        "careType": "INJECTION_ADMINISTRATION"
+    },
+    {
+        "rijksregisterPatient": "29764349102",
+        "rijksregisterNurse": "24851110334",
+        "nurseLocation": {
+            "latitude": 49.636673,
+            "longitude": 4.45323
+        },
+        "patientLocation": {
+            "latitude": 50.072973,
+            "longitude": 3.612182
+        },
+        "distance": 58.46,
+        "driveTime": 1.3,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "85693843809",
+        "rijksregisterNurse": "66916602307",
+        "nurseLocation": {
+            "latitude": 50.867203,
+            "longitude": 3.548123
+        },
+        "patientLocation": {
+            "latitude": 49.759525,
+            "longitude": 2.729354
+        },
+        "distance": 68.63,
+        "driveTime": 0.27,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "49932868302",
+        "rijksregisterNurse": "89736175965",
+        "nurseLocation": {
+            "latitude": 49.684896,
+            "longitude": 5.787392
+        },
+        "patientLocation": {
+            "latitude": 51.466405,
+            "longitude": 4.249543
+        },
+        "distance": 51.69,
+        "driveTime": 1.25,
+        "careType": "INJECTION_ADMINISTRATION"
+    },
+    {
+        "rijksregisterPatient": "29781757383",
+        "rijksregisterNurse": "81896837275",
+        "nurseLocation": {
+            "latitude": 51.271045,
+            "longitude": 3.077351
+        },
+        "patientLocation": {
+            "latitude": 51.14798,
+            "longitude": 2.558407
+        },
+        "distance": 43.03,
+        "driveTime": 0.27,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "69074179067",
+        "rijksregisterNurse": "16435908430",
+        "nurseLocation": {
+            "latitude": 50.729526,
+            "longitude": 6.183176
+        },
+        "patientLocation": {
+            "latitude": 49.82052,
+            "longitude": 5.345484
+        },
+        "distance": 36.78,
+        "driveTime": 0.7,
+        "careType": "INJECTION_ADMINISTRATION"
+    },
+    {
+        "rijksregisterPatient": "47420132627",
+        "rijksregisterNurse": "53483442497",
+        "nurseLocation": {
+            "latitude": 51.385559,
+            "longitude": 5.012765
+        },
+        "patientLocation": {
+            "latitude": 50.9286,
+            "longitude": 4.426075
+        },
+        "distance": 50.42,
+        "driveTime": 0.71,
+        "careType": "INJECTION_ADMINISTRATION"
+    },
+    {
+        "rijksregisterPatient": "64168269638",
+        "rijksregisterNurse": "71546325770",
+        "nurseLocation": {
+            "latitude": 49.750323,
+            "longitude": 6.260418
+        },
+        "patientLocation": {
+            "latitude": 51.06177,
+            "longitude": 3.148666
+        },
+        "distance": 25.03,
+        "driveTime": 0.05,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "19516225379",
+        "rijksregisterNurse": "83643911106",
+        "nurseLocation": {
+            "latitude": 49.824146,
+            "longitude": 6.257533
+        },
+        "patientLocation": {
+            "latitude": 50.109928,
+            "longitude": 6.171613
+        },
+        "distance": 22.07,
+        "driveTime": 0.23,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "81686972091",
+        "rijksregisterNurse": "90452095489",
+        "nurseLocation": {
+            "latitude": 49.509575,
+            "longitude": 4.659688
+        },
+        "patientLocation": {
+            "latitude": 49.727788,
+            "longitude": 5.315896
+        },
+        "distance": 23.02,
+        "driveTime": 0.33,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "99120417143",
+        "rijksregisterNurse": "20371390302",
+        "nurseLocation": {
+            "latitude": 50.918468,
+            "longitude": 5.354528
+        },
+        "patientLocation": {
+            "latitude": 50.184453,
+            "longitude": 3.964795
+        },
+        "distance": 25.85,
+        "driveTime": 0.96,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "31578262968",
+        "rijksregisterNurse": "91130744298",
+        "nurseLocation": {
+            "latitude": 49.846386,
+            "longitude": 5.913278
+        },
+        "patientLocation": {
+            "latitude": 49.555306,
+            "longitude": 5.075321
+        },
+        "distance": 70.45,
+        "driveTime": 1.29,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "65276024692",
+        "rijksregisterNurse": "43509295655",
+        "nurseLocation": {
+            "latitude": 50.460216,
+            "longitude": 5.01107
+        },
+        "patientLocation": {
+            "latitude": 50.503546,
+            "longitude": 5.664922
+        },
+        "distance": 66.91,
+        "driveTime": 1.56,
+        "careType": "INJECTION_ADMINISTRATION"
+    },
+    {
+        "rijksregisterPatient": "95342454424",
+        "rijksregisterNurse": "99487579800",
+        "nurseLocation": {
+            "latitude": 50.710086,
+            "longitude": 3.681329
+        },
+        "patientLocation": {
+            "latitude": 50.654568,
+            "longitude": 3.161745
+        },
+        "distance": 8.62,
+        "driveTime": 0.22,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "49073160491",
+        "rijksregisterNurse": "77617235467",
+        "nurseLocation": {
+            "latitude": 50.036219,
+            "longitude": 3.013228
+        },
+        "patientLocation": {
+            "latitude": 49.578421,
+            "longitude": 2.598404
+        },
+        "distance": 9.38,
+        "driveTime": 0,
+        "careType": "INJECTION_ADMINISTRATION"
+    },
+    {
+        "rijksregisterPatient": "23664094400",
+        "rijksregisterNurse": "76664637361",
+        "nurseLocation": {
+            "latitude": 50.449743,
+            "longitude": 6.025798
+        },
+        "patientLocation": {
+            "latitude": 49.57044,
+            "longitude": 3.204576
+        },
+        "distance": 93.52,
+        "driveTime": 1.41,
+        "careType": "INJECTION_ADMINISTRATION"
+    },
+    {
+        "rijksregisterPatient": "79042129699",
+        "rijksregisterNurse": "96511650574",
+        "nurseLocation": {
+            "latitude": 50.200404,
+            "longitude": 3.545156
+        },
+        "patientLocation": {
+            "latitude": 49.623778,
+            "longitude": 5.703084
+        },
+        "distance": 77.85,
+        "driveTime": 1.42,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "70704616621",
+        "rijksregisterNurse": "71516807176",
+        "nurseLocation": {
+            "latitude": 49.503189,
+            "longitude": 3.067256
+        },
+        "patientLocation": {
+            "latitude": 51.058222,
+            "longitude": 5.639997
+        },
+        "distance": 57.44,
+        "driveTime": 0.98,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "29584436600",
+        "rijksregisterNurse": "39500626509",
+        "nurseLocation": {
+            "latitude": 50.292369,
+            "longitude": 4.84758
+        },
+        "patientLocation": {
+            "latitude": 49.626738,
+            "longitude": 4.098444
+        },
+        "distance": 60.0,
+        "driveTime": 1.02,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "94617100395",
+        "rijksregisterNurse": "17935858384",
+        "nurseLocation": {
+            "latitude": 51.037998,
+            "longitude": 2.824343
+        },
+        "patientLocation": {
+            "latitude": 51.449549,
+            "longitude": 2.692213
+        },
+        "distance": 21.66,
+        "driveTime": 0.86,
+        "careType": "INJECTION_ADMINISTRATION"
+    },
+    {
+        "rijksregisterPatient": "92800116682",
+        "rijksregisterNurse": "70197766550",
+        "nurseLocation": {
+            "latitude": 49.500147,
+            "longitude": 3.491536
+        },
+        "patientLocation": {
+            "latitude": 50.998201,
+            "longitude": 4.576111
+        },
+        "distance": 70.94,
+        "driveTime": 0.78,
+        "careType": "INJECTION_ADMINISTRATION"
+    },
+    {
+        "rijksregisterPatient": "69868537872",
+        "rijksregisterNurse": "64017912961",
+        "nurseLocation": {
+            "latitude": 50.636324,
+            "longitude": 5.105111
+        },
+        "patientLocation": {
+            "latitude": 51.18166,
+            "longitude": 4.439202
+        },
+        "distance": 9.84,
+        "driveTime": 0,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "70570312311",
+        "rijksregisterNurse": "16884401689",
+        "nurseLocation": {
+            "latitude": 50.926741,
+            "longitude": 4.093842
+        },
+        "patientLocation": {
+            "latitude": 50.536865,
+            "longitude": 5.094213
+        },
+        "distance": 58.27,
+        "driveTime": 0.78,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "14643321730",
+        "rijksregisterNurse": "19775200793",
+        "nurseLocation": {
+            "latitude": 50.885109,
+            "longitude": 5.69679
+        },
+        "patientLocation": {
+            "latitude": 50.476885,
+            "longitude": 3.023641
+        },
+        "distance": 41.1,
+        "driveTime": 1.96,
+        "careType": "INJECTION_ADMINISTRATION"
+    },
+    {
+        "rijksregisterPatient": "74135984755",
+        "rijksregisterNurse": "53266717713",
+        "nurseLocation": {
+            "latitude": 50.909329,
+            "longitude": 6.276026
+        },
+        "patientLocation": {
+            "latitude": 50.090615,
+            "longitude": 5.250696
+        },
+        "distance": 89.57,
+        "driveTime": 1.74,
+        "careType": "INJECTION_ADMINISTRATION"
+    },
+    {
+        "rijksregisterPatient": "93790468150",
+        "rijksregisterNurse": "53578445851",
+        "nurseLocation": {
+            "latitude": 50.18802,
+            "longitude": 6.198357
+        },
+        "patientLocation": {
+            "latitude": 50.085142,
+            "longitude": 3.459363
+        },
+        "distance": 15.49,
+        "driveTime": 0,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "53326474778",
+        "rijksregisterNurse": "72794447451",
+        "nurseLocation": {
+            "latitude": 51.168353,
+            "longitude": 3.398561
+        },
+        "patientLocation": {
+            "latitude": 50.353383,
+            "longitude": 4.88091
+        },
+        "distance": 45.36,
+        "driveTime": 0,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "61791365928",
+        "rijksregisterNurse": "45447212694",
+        "nurseLocation": {
+            "latitude": 49.587725,
+            "longitude": 3.218397
+        },
+        "patientLocation": {
+            "latitude": 49.974379,
+            "longitude": 3.215667
+        },
+        "distance": 5.06,
+        "driveTime": 0,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "50922000262",
+        "rijksregisterNurse": "80036422745",
+        "nurseLocation": {
+            "latitude": 51.140924,
+            "longitude": 3.400018
+        },
+        "patientLocation": {
+            "latitude": 50.151848,
+            "longitude": 5.262605
+        },
+        "distance": 100.58,
+        "driveTime": 1.89,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "12910952562",
+        "rijksregisterNurse": "12344702534",
+        "nurseLocation": {
+            "latitude": 51.316546,
+            "longitude": 4.095184
+        },
+        "patientLocation": {
+            "latitude": 50.164498,
+            "longitude": 6.359148
+        },
+        "distance": 48.46,
+        "driveTime": 0.58,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "78275952059",
+        "rijksregisterNurse": "70713052743",
+        "nurseLocation": {
+            "latitude": 51.075699,
+            "longitude": 5.261492
+        },
+        "patientLocation": {
+            "latitude": 51.343832,
+            "longitude": 3.347375
+        },
+        "distance": 30.2,
+        "driveTime": 0.37,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "84375899551",
+        "rijksregisterNurse": "25641751670",
+        "nurseLocation": {
+            "latitude": 49.852208,
+            "longitude": 3.747249
+        },
+        "patientLocation": {
+            "latitude": 51.13365,
+            "longitude": 4.604193
+        },
+        "distance": 28.28,
+        "driveTime": 0.8,
+        "careType": "INJECTION_ADMINISTRATION"
+    },
+    {
+        "rijksregisterPatient": "87424017643",
+        "rijksregisterNurse": "35560702103",
+        "nurseLocation": {
+            "latitude": 50.576737,
+            "longitude": 4.732556
+        },
+        "patientLocation": {
+            "latitude": 49.949555,
+            "longitude": 5.806183
+        },
+        "distance": 98.59,
+        "driveTime": 1.45,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "41842550332",
+        "rijksregisterNurse": "80781197854",
+        "nurseLocation": {
+            "latitude": 49.514562,
+            "longitude": 2.630288
+        },
+        "patientLocation": {
+            "latitude": 50.68056,
+            "longitude": 3.714653
+        },
+        "distance": 74.77,
+        "driveTime": 1.15,
+        "careType": "INJECTION_ADMINISTRATION"
+    },
+    {
+        "rijksregisterPatient": "91431608204",
+        "rijksregisterNurse": "36876621630",
+        "nurseLocation": {
+            "latitude": 50.957895,
+            "longitude": 4.719864
+        },
+        "patientLocation": {
+            "latitude": 51.078072,
+            "longitude": 5.737767
+        },
+        "distance": 26.41,
+        "driveTime": 0,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "67401252277",
+        "rijksregisterNurse": "51996694472",
+        "nurseLocation": {
+            "latitude": 51.352532,
+            "longitude": 5.080878
+        },
+        "patientLocation": {
+            "latitude": 49.660934,
+            "longitude": 4.614529
+        },
+        "distance": 9.04,
+        "driveTime": 0,
+        "careType": "INJECTION_ADMINISTRATION"
+    },
+    {
+        "rijksregisterPatient": "72233555509",
+        "rijksregisterNurse": "34719799724",
+        "nurseLocation": {
+            "latitude": 50.077814,
+            "longitude": 6.297202
+        },
+        "patientLocation": {
+            "latitude": 51.219073,
+            "longitude": 6.071046
+        },
+        "distance": 87.19,
+        "driveTime": 1.83,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "52996175965",
+        "rijksregisterNurse": "42438094897",
+        "nurseLocation": {
+            "latitude": 51.198057,
+            "longitude": 4.968114
+        },
+        "patientLocation": {
+            "latitude": 50.577754,
+            "longitude": 2.946894
+        },
+        "distance": 6.74,
+        "driveTime": 0.41,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "70600885144",
+        "rijksregisterNurse": "83342934663",
+        "nurseLocation": {
+            "latitude": 50.670102,
+            "longitude": 6.272862
+        },
+        "patientLocation": {
+            "latitude": 51.423212,
+            "longitude": 5.035781
+        },
+        "distance": 60.96,
+        "driveTime": 1.08,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "92569950834",
+        "rijksregisterNurse": "86735847789",
+        "nurseLocation": {
+            "latitude": 49.556513,
+            "longitude": 2.943852
+        },
+        "patientLocation": {
+            "latitude": 49.704143,
+            "longitude": 5.452048
+        },
+        "distance": 74.59,
+        "driveTime": 1.2,
+        "careType": "PILL_DISPENSING"
+    },
+    {
+        "rijksregisterPatient": "27108293394",
+        "rijksregisterNurse": "10760578666",
+        "nurseLocation": {
+            "latitude": 50.271656,
+            "longitude": 4.573114
+        },
+        "patientLocation": {
+            "latitude": 50.790277,
+            "longitude": 6.169706
+        },
+        "distance": 80.99,
+        "driveTime": 2.17,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "12227036081",
+        "rijksregisterNurse": "89162746725",
+        "nurseLocation": {
+            "latitude": 51.404432,
+            "longitude": 4.55952
+        },
+        "patientLocation": {
+            "latitude": 51.102547,
+            "longitude": 2.696135
+        },
+        "distance": 33.82,
+        "driveTime": 0.65,
+        "careType": "ADMINISTER_MEDICATION"
+    },
+    {
+        "rijksregisterPatient": "83772953935",
+        "rijksregisterNurse": "56485598690",
+        "nurseLocation": {
+            "latitude": 51.082907,
+            "longitude": 4.93308
+        },
+        "patientLocation": {
+            "latitude": 50.379491,
+            "longitude": 2.541284
+        },
+        "distance": 28.24,
+        "driveTime": 0.02,
+        "careType": "INJECTION_ADMINISTRATION"
+    },
+    {
+        "rijksregisterPatient": "56653311932",
+        "rijksregisterNurse": "17740903813",
+        "nurseLocation": {
+            "latitude": 50.560399,
+            "longitude": 6.210502
+        },
+        "patientLocation": {
+            "latitude": 51.320792,
+            "longitude": 4.780185
+        },
+        "distance": 484.81,
+        "driveTime": 10.41,
+        "careType": "INJECTION_ADMINISTRATION"
+    },
+    {
+        "rijksregisterPatient": "53125032834",
+        "rijksregisterNurse": "67340389502",
+        "nurseLocation": {
+            "latitude": 50.483568,
+            "longitude": 3.011353
+        },
+        "patientLocation": {
+            "latitude": 49.996851,
+            "longitude": 3.5795
+        },
+        "distance": 67.48,
+        "driveTime": 0.98,
+        "careType": "PILL_DISPENSING"
+    }
+]
