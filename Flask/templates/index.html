@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MLOZ Demo</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="#">
+            <img src="{{url_for('static', filename='logo-mloz-nl_0.png')}}" height="30%" width="30%" class="d-inline-block align-top" alt="Logo">
+            
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <form class="form-inline ml-auto">
+                <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+                <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+                <button class="btn btn-outline-primary ml-2" type="button" data-toggle="modal" data-target="#loginModal">Login</button>
+            </form>
+        </div>
+    </nav>
+
+    <div class="container mt-5">
+        <h1 class="display-4 text-center">MLOZ upload site</h1>
+        <p class="lead text-center">Please upload your touring data at the end of the day in the field below.</p>
+
+        <div class="row mt-4">
+            <div class="col-md-6 offset-md-3">
+                <form action="/upload" method="post" enctype="multipart/form-data">
+                    <div class="form-group">
+                        <label for="personName">JSON drop</label>
+                        <div id="file-drop-zone" class="file-drop-zone">
+                          Drag & Drop your JSON file here or click to select
+                        </div>
+                        
+                            <input type="file" name="file" accept=".json">
+                       
+                        
+                        <pre id="file-content" class="mt-3"></pre>
+                    </div>
+                    <button type="submit" class="btn btn-primary btn-block">Submit</button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <!-- Login Modal -->
+    <div class="modal fade" id="loginModal" tabindex="-1" role="dialog" aria-labelledby="loginModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="loginModalLabel">Login</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <form id="loginForm">
+                        <div class="form-group">
+                            <label for="loginName">Username</label>
+                            <input type="text" class="form-control" id="loginName" placeholder="Enter username">
+                        </div>
+                        <div class="form-group">
+                            <label for="loginPassword">Password</label>
+                            <input type="password" class="form-control" id="loginPassword" placeholder="Enter password">
+                        </div>
+                        <button type="button" class="btn btn-primary" onclick="login()">Login</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Bootstrap JS, Popper.js, and jQuery -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/jwt-simple@0.5.6/lib/jwt.min.js"></script>
+    <script>
+        const secret = 'f2JCKafiERrM5mPCZhNcd77iPMtcrM1k';
+
+        function generateJWT(username) {
+            const payload = {
+                username: username,
+                exp: Math.floor(Date.now() / 1000) + (60 * 60) // Token expires in 1 hour
+            };
+            return jwt.encode(payload, secret);
+        }
+
+        function login() {
+            var loginName = document.getElementById("loginName").value;
+            if (loginName) {
+                var token = generateJWT(loginName);
+                localStorage.setItem('jwtToken', token);
+                var loginButton = document.querySelector(".btn-outline-primary");
+                loginButton.textContent = loginName;
+                loginButton.classList.remove("btn-outline-primary");
+                loginButton.classList.add("btn-success");
+                $('#loginModal').modal('hide');
+            }
+        }
+
+
+    </script>
+    
+</body>
+</html>
