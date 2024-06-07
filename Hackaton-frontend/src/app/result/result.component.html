@@ -1,1 +1,5 @@
-<p>result works!</p>
+<div *ngIf="loading">Loading...</div>
+
+<ul *ngIf="!loading">
+  <li *ngFor="let anomaly of anomalies">{{ anomaly.description }}</li>
+</ul>

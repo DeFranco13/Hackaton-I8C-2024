@@ -4,17 +4,8 @@ import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-root',
-  template: `
-    <div>
-      <input type="file" (change)="onFileSelected($event)" [accept]="'.json'">
-      <button (click)="onUpload()">Upload</button>
-    </div>
-    <div *ngIf="this.fileResponse == true">
-      <button (click)="redirectUser()">Continue</button>
-
-    </div>
-  `,
-  styles: []
+  templateUrl: './start.component.html',
+  styleUrls: ['./start.component.css']
 })
 export class StartComponent {
   selectedFile: File | null = null;
