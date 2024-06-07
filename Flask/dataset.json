@@ -16,7 +16,9 @@
                 "longtitude": 4.778784
             }
         },
-        "visit_timestamp": "2024-06-21T23:59:24Z"
+        "visit_timestamp": "2024-06-21T23:59:24Z",
+        "driveTime": 8,
+        "distance": 1.005
     },
     {
         "rijksregisterPatient": "62554883857",
@@ -35,7 +37,9 @@
                 "longtitude": 2.651325
             }
         },
-        "visit_timestamp": "2024-06-08T01:56:12Z"
+        "visit_timestamp": "2024-06-08T01:56:12Z",
+        "driveTime": 19,
+        "distance": 2.757
     },
     {
         "rijksregisterPatient": "94196499554",
@@ -54,7 +58,9 @@
                 "longtitude": 4.955355
             }
         },
-        "visit_timestamp": "2024-10-20T00:58:47Z"
+        "visit_timestamp": "2024-10-20T00:58:47Z",
+        "driveTime": 39,
+        "distance": 1.432
     },
     {
         "rijksregisterPatient": "28858842488",
@@ -73,7 +79,9 @@
                 "longtitude": 3.369252
             }
         },
-        "visit_timestamp": "2024-04-05T22:58:27Z"
+        "visit_timestamp": "2024-04-05T22:58:27Z",
+        "driveTime": 40,
+        "distance": 4.335
     },
     {
         "rijksregisterPatient": "86820122297",
@@ -92,7 +100,9 @@
                 "longtitude": 4.899326
             }
         },
-        "visit_timestamp": "2024-10-01T22:22:35Z"
+        "visit_timestamp": "2024-10-01T22:22:35Z",
+        "driveTime": 17,
+        "distance": 0.908
     },
     {
         "rijksregisterPatient": "49425118651",
@@ -111,7 +121,9 @@
                 "longtitude": 5.596176
             }
         },
-        "visit_timestamp": "2024-10-02T22:12:51Z"
+        "visit_timestamp": "2024-10-02T22:12:51Z",
+        "driveTime": 44,
+        "distance": 2.428
     },
     {
         "rijksregisterPatient": "69570329119",
@@ -130,7 +142,9 @@
                 "longtitude": 3.036563
             }
         },
-        "visit_timestamp": "2024-06-10T01:50:49Z"
+        "visit_timestamp": "2024-06-10T01:50:49Z",
+        "driveTime": 44,
+        "distance": 4.492
     },
     {
         "rijksregisterPatient": "35053754407",
@@ -149,7 +163,9 @@
                 "longtitude": 4.467634
             }
         },
-        "visit_timestamp": "2024-02-17T22:50:39Z"
+        "visit_timestamp": "2024-02-17T22:50:39Z",
+        "driveTime": 47,
+        "distance": 4.577
     },
     {
         "rijksregisterPatient": "42945141620",
@@ -168,7 +184,9 @@
                 "longtitude": 4.688085
             }
         },
-        "visit_timestamp": "2024-04-09T23:13:05Z"
+        "visit_timestamp": "2024-04-09T23:13:05Z",
+        "driveTime": 50,
+        "distance": 2.219
     },
     {
         "rijksregisterPatient": "35692357248",
@@ -187,7 +205,9 @@
                 "longtitude": 3.306673
             }
         },
-        "visit_timestamp": "2024-08-17T02:51:55Z"
+        "visit_timestamp": "2024-08-17T02:51:55Z",
+        "driveTime": 59,
+        "distance": 3.926
     },
     {
         "rijksregisterPatient": "48534842967",
@@ -206,7 +226,9 @@
                 "longtitude": 4.844552
             }
         },
-        "visit_timestamp": "2024-12-12T11:17:11Z"
+        "visit_timestamp": "2024-12-12T11:17:11Z",
+        "driveTime": 35,
+        "distance": 2.555
     },
     {
         "rijksregisterPatient": "60897837675",
@@ -225,7 +247,9 @@
                 "longtitude": 3.908073
             }
         },
-        "visit_timestamp": "2024-11-17T06:22:24Z"
+        "visit_timestamp": "2024-11-17T06:22:24Z",
+        "driveTime": 17,
+        "distance": 4.965
     },
     {
         "rijksregisterPatient": "55951354144",
@@ -244,7 +268,9 @@
                 "longtitude": 4.622763
             }
         },
-        "visit_timestamp": "2024-03-13T06:34:41Z"
+        "visit_timestamp": "2024-03-13T06:34:41Z",
+        "driveTime": 35,
+        "distance": 0.93
     },
     {
         "rijksregisterPatient": "59090049861",
@@ -263,7 +289,9 @@
                 "longtitude": 3.442323
             }
         },
-        "visit_timestamp": "2024-06-14T10:16:41Z"
+        "visit_timestamp": "2024-06-14T10:16:41Z",
+        "driveTime": 60,
+        "distance": 1.174
     },
     {
         "rijksregisterPatient": "26604292349",
@@ -282,7 +310,9 @@
                 "longtitude": 5.439745
             }
         },
-        "visit_timestamp": "2024-08-01T19:28:00Z"
+        "visit_timestamp": "2024-08-01T19:28:00Z",
+        "driveTime": 41,
+        "distance": 1.605
     },
     {
         "rijksregisterPatient": "72863387545",
@@ -301,7 +331,9 @@
                 "longtitude": 4.005278
             }
         },
-        "visit_timestamp": "2024-05-25T14:52:30Z"
+        "visit_timestamp": "2024-05-25T14:52:30Z",
+        "driveTime": 38,
+        "distance": 1.192
     },
     {
         "rijksregisterPatient": "68520646043",
@@ -320,7 +352,9 @@
                 "longtitude": 4.843202
             }
         },
-        "visit_timestamp": "2024-03-03T20:06:05Z"
+        "visit_timestamp": "2024-03-03T20:06:05Z",
+        "driveTime": 20,
+        "distance": 1.765
     },
     {
         "rijksregisterPatient": "58174682940",
@@ -339,7 +373,9 @@
                 "longtitude": 3.501352
             }
         },
-        "visit_timestamp": "2024-05-14T22:51:22Z"
+        "visit_timestamp": "2024-05-14T22:51:22Z",
+        "driveTime": 37,
+        "distance": 2.31
     },
     {
         "rijksregisterPatient": "28052478933",
@@ -358,7 +394,9 @@
                 "longtitude": 5.094648
             }
         },
-        "visit_timestamp": "2024-09-02T07:28:14Z"
+        "visit_timestamp": "2024-09-02T07:28:14Z",
+        "driveTime": 18,
+        "distance": 2.356
     },
     {
         "rijksregisterPatient": "62231049549",
@@ -377,7 +415,9 @@
                 "longtitude": 5.81218
             }
         },
-        "visit_timestamp": "2024-06-26T18:50:24Z"
+        "visit_timestamp": "2024-06-26T18:50:24Z",
+        "driveTime": 54,
+        "distance": 2.109
     },
     {
         "rijksregisterPatient": "49798963274",
@@ -396,7 +436,9 @@
                 "longtitude": 4.368542
             }
         },
-        "visit_timestamp": "2024-11-16T16:56:40Z"
+        "visit_timestamp": "2024-11-16T16:56:40Z",
+        "driveTime": 40,
+        "distance": 3.481
     },
     {
         "rijksregisterPatient": "16385615034",
@@ -415,7 +457,9 @@
                 "longtitude": 4.251422
             }
         },
-        "visit_timestamp": "2024-08-31T09:20:53Z"
+        "visit_timestamp": "2024-08-31T09:20:53Z",
+        "driveTime": 43,
+        "distance": 4.73
     },
     {
         "rijksregisterPatient": "18961403908",
@@ -434,7 +478,9 @@
                 "longtitude": 5.61795
             }
         },
-        "visit_timestamp": "2024-11-28T08:27:21Z"
+        "visit_timestamp": "2024-11-28T08:27:21Z",
+        "driveTime": 34,
+        "distance": 1.327
     },
     {
         "rijksregisterPatient": "87493785789",
@@ -453,7 +499,9 @@
                 "longtitude": 3.345651
             }
         },
-        "visit_timestamp": "2024-10-11T18:46:25Z"
+        "visit_timestamp": "2024-10-11T18:46:25Z",
+        "driveTime": 47,
+        "distance": 0.915
     },
     {
         "rijksregisterPatient": "45199094789",
@@ -472,7 +520,9 @@
                 "longtitude": 5.505118
             }
         },
-        "visit_timestamp": "2024-01-25T16:27:14Z"
+        "visit_timestamp": "2024-01-25T16:27:14Z",
+        "driveTime": 39,
+        "distance": 1.755
     },
     {
         "rijksregisterPatient": "55108473142",
@@ -491,7 +541,9 @@
                 "longtitude": 4.781271
             }
         },
-        "visit_timestamp": "2024-06-27T11:23:51Z"
+        "visit_timestamp": "2024-06-27T11:23:51Z",
+        "driveTime": 31,
+        "distance": 4.886
     },
     {
         "rijksregisterPatient": "29603978401",
@@ -510,7 +562,9 @@
                 "longtitude": 3.795014
             }
         },
-        "visit_timestamp": "2024-06-15T18:09:28Z"
+        "visit_timestamp": "2024-06-15T18:09:28Z",
+        "driveTime": 17,
+        "distance": 3.053
     },
     {
         "rijksregisterPatient": "87567751124",
@@ -529,7 +583,9 @@
                 "longtitude": 3.113882
             }
         },
-        "visit_timestamp": "2024-01-04T22:38:50Z"
+        "visit_timestamp": "2024-01-04T22:38:50Z",
+        "driveTime": 21,
+        "distance": 2.656
     },
     {
         "rijksregisterPatient": "14808367474",
@@ -548,7 +604,9 @@
                 "longtitude": 5.443353
             }
         },
-        "visit_timestamp": "2024-05-19T06:56:00Z"
+        "visit_timestamp": "2024-05-19T06:56:00Z",
+        "driveTime": 43,
+        "distance": 1.805
     },
     {
         "rijksregisterPatient": "61254359914",
@@ -567,7 +625,9 @@
                 "longtitude": 3.522206
             }
         },
-        "visit_timestamp": "2024-12-23T18:20:46Z"
+        "visit_timestamp": "2024-12-23T18:20:46Z",
+        "driveTime": 48,
+        "distance": 0.826
     },
     {
         "rijksregisterPatient": "63272966414",
@@ -586,7 +646,9 @@
                 "longtitude": 5.755408
             }
         },
-        "visit_timestamp": "2024-12-03T17:10:05Z"
+        "visit_timestamp": "2024-12-03T17:10:05Z",
+        "driveTime": 58,
+        "distance": 4.39
     },
     {
         "rijksregisterPatient": "57867541236",
@@ -605,7 +667,9 @@
                 "longtitude": 5.601467
             }
         },
-        "visit_timestamp": "2024-05-22T06:03:10Z"
+        "visit_timestamp": "2024-05-22T06:03:10Z",
+        "driveTime": 26,
+        "distance": 1.338
     },
     {
         "rijksregisterPatient": "45919314563",
@@ -624,7 +688,9 @@
                 "longtitude": 3.059603
             }
         },
-        "visit_timestamp": "2024-07-02T22:29:40Z"
+        "visit_timestamp": "2024-07-02T22:29:40Z",
+        "driveTime": 11,
+        "distance": 0.726
     },
     {
         "rijksregisterPatient": "98292290159",
@@ -643,7 +709,9 @@
                 "longtitude": 5.6064
             }
         },
-        "visit_timestamp": "2024-08-29T18:06:06Z"
+        "visit_timestamp": "2024-08-29T18:06:06Z",
+        "driveTime": 20,
+        "distance": 3.816
     },
     {
         "rijksregisterPatient": "20825017715",
@@ -662,7 +730,9 @@
                 "longtitude": 3.563445
             }
         },
-        "visit_timestamp": "2024-12-13T10:48:58Z"
+        "visit_timestamp": "2024-12-13T10:48:58Z",
+        "driveTime": 43,
+        "distance": 3.467
     },
     {
         "rijksregisterPatient": "51716829899",
@@ -681,7 +751,9 @@
                 "longtitude": 4.431177
             }
         },
-        "visit_timestamp": "2024-06-11T17:45:48Z"
+        "visit_timestamp": "2024-06-11T17:45:48Z",
+        "driveTime": 35,
+        "distance": 4.032
     },
     {
         "rijksregisterPatient": "78067091333",
@@ -700,7 +772,9 @@
                 "longtitude": 4.883019
             }
         },
-        "visit_timestamp": "2024-06-03T16:41:25Z"
+        "visit_timestamp": "2024-06-03T16:41:25Z",
+        "driveTime": 21,
+        "distance": 0.845
     },
     {
         "rijksregisterPatient": "54485203124",
@@ -719,7 +793,9 @@
                 "longtitude": 5.105515
             }
         },
-        "visit_timestamp": "2024-08-07T22:35:04Z"
+        "visit_timestamp": "2024-08-07T22:35:04Z",
+        "driveTime": 41,
+        "distance": 0.738
     },
     {
         "rijksregisterPatient": "49571887911",
@@ -738,7 +814,9 @@
                 "longtitude": 2.996629
             }
         },
-        "visit_timestamp": "2024-07-20T17:52:27Z"
+        "visit_timestamp": "2024-07-20T17:52:27Z",
+        "driveTime": 14,
+        "distance": 3.868
     },
     {
         "rijksregisterPatient": "91256407831",
@@ -757,7 +835,9 @@
                 "longtitude": 5.894011
             }
         },
-        "visit_timestamp": "2024-06-15T12:41:11Z"
+        "visit_timestamp": "2024-06-15T12:41:11Z",
+        "driveTime": 11,
+        "distance": 3.149
     },
     {
         "rijksregisterPatient": "81600971452",
@@ -776,7 +856,9 @@
                 "longtitude": 5.234895
             }
         },
-        "visit_timestamp": "2024-08-08T15:16:33Z"
+        "visit_timestamp": "2024-08-08T15:16:33Z",
+        "driveTime": 39,
+        "distance": 2.775
     },
     {
         "rijksregisterPatient": "63233240157",
@@ -795,7 +877,9 @@
                 "longtitude": 3.94569
             }
         },
-        "visit_timestamp": "2024-06-16T09:20:11Z"
+        "visit_timestamp": "2024-06-16T09:20:11Z",
+        "driveTime": 29,
+        "distance": 3.71
     },
     {
         "rijksregisterPatient": "89187634597",
@@ -814,7 +898,9 @@
                 "longtitude": 3.05116
             }
         },
-        "visit_timestamp": "2024-05-12T10:11:29Z"
+        "visit_timestamp": "2024-05-12T10:11:29Z",
+        "driveTime": 14,
+        "distance": 3.249
     },
     {
         "rijksregisterPatient": "51826286468",
@@ -833,7 +919,9 @@
                 "longtitude": 5.626262
             }
         },
-        "visit_timestamp": "2024-02-11T09:53:34Z"
+        "visit_timestamp": "2024-02-11T09:53:34Z",
+        "driveTime": 15,
+        "distance": 2.197
     },
     {
         "rijksregisterPatient": "21106107818",
@@ -852,7 +940,9 @@
                 "longtitude": 5.055778
             }
         },
-        "visit_timestamp": "2024-06-30T08:23:02Z"
+        "visit_timestamp": "2024-06-30T08:23:02Z",
+        "driveTime": 21,
+        "distance": 1.475
     },
     {
         "rijksregisterPatient": "27115548196",
@@ -871,7 +961,9 @@
                 "longtitude": 5.023492
             }
         },
-        "visit_timestamp": "2024-12-13T17:24:53Z"
+        "visit_timestamp": "2024-12-13T17:24:53Z",
+        "driveTime": 8,
+        "distance": 1.15
     },
     {
         "rijksregisterPatient": "75761702505",
@@ -890,7 +982,9 @@
                 "longtitude": 3.626852
             }
         },
-        "visit_timestamp": "2024-09-13T16:22:21Z"
+        "visit_timestamp": "2024-09-13T16:22:21Z",
+        "driveTime": 10,
+        "distance": 0.789
     },
     {
         "rijksregisterPatient": "42271639769",
@@ -909,7 +1003,9 @@
                 "longtitude": 2.604426
             }
         },
-        "visit_timestamp": "2024-09-16T11:56:37Z"
+        "visit_timestamp": "2024-09-16T11:56:37Z",
+        "driveTime": 21,
+        "distance": 2.277
     },
     {
         "rijksregisterPatient": "98624416405",
@@ -928,7 +1024,9 @@
                 "longtitude": 4.163973
             }
         },
-        "visit_timestamp": "2024-05-09T19:40:20Z"
+        "visit_timestamp": "2024-05-09T19:40:20Z",
+        "driveTime": 18,
+        "distance": 0.927
     },
     {
         "rijksregisterPatient": "13120449102",
@@ -947,7 +1045,9 @@
                 "longtitude": 3.395915
             }
         },
-        "visit_timestamp": "2024-06-04T11:45:13Z"
+        "visit_timestamp": "2024-06-04T11:45:13Z",
+        "driveTime": 44,
+        "distance": 4.684
     },
     {
         "rijksregisterPatient": "51439098048",
@@ -966,7 +1066,9 @@
                 "longtitude": 2.929497
             }
         },
-        "visit_timestamp": "2024-09-22T08:10:30Z"
+        "visit_timestamp": "2024-09-22T08:10:30Z",
+        "driveTime": 5,
+        "distance": 1.983
     },
     {
         "rijksregisterPatient": "37245805382",
@@ -985,7 +1087,9 @@
                 "longtitude": 2.500969
             }
         },
-        "visit_timestamp": "2024-08-16T19:19:50Z"
+        "visit_timestamp": "2024-08-16T19:19:50Z",
+        "driveTime": 23,
+        "distance": 4.047
     },
     {
         "rijksregisterPatient": "62655733187",
@@ -1004,7 +1108,9 @@
                 "longtitude": 5.413712
             }
         },
-        "visit_timestamp": "2024-08-16T16:32:08Z"
+        "visit_timestamp": "2024-08-16T16:32:08Z",
+        "driveTime": 40,
+        "distance": 1.43
     },
     {
         "rijksregisterPatient": "59341056218",
@@ -1023,7 +1129,9 @@
                 "longtitude": 4.925944
             }
         },
-        "visit_timestamp": "2024-02-06T19:35:16Z"
+        "visit_timestamp": "2024-02-06T19:35:16Z",
+        "driveTime": 18,
+        "distance": 4.905
     },
     {
         "rijksregisterPatient": "97952300694",
@@ -1042,7 +1150,9 @@
                 "longtitude": 4.302509
             }
         },
-        "visit_timestamp": "2024-01-11T18:23:02Z"
+        "visit_timestamp": "2024-01-11T18:23:02Z",
+        "driveTime": 38,
+        "distance": 4.109
     },
     {
         "rijksregisterPatient": "15320192585",
@@ -1061,7 +1171,9 @@
                 "longtitude": 3.230341
             }
         },
-        "visit_timestamp": "2024-08-16T11:26:19Z"
+        "visit_timestamp": "2024-08-16T11:26:19Z",
+        "driveTime": 28,
+        "distance": 1.064
     },
     {
         "rijksregisterPatient": "70822002031",
@@ -1080,7 +1192,9 @@
                 "longtitude": 5.443665
             }
         },
-        "visit_timestamp": "2024-02-08T19:17:16Z"
+        "visit_timestamp": "2024-02-08T19:17:16Z",
+        "driveTime": 54,
+        "distance": 3.054
     },
     {
         "rijksregisterPatient": "31571367572",
@@ -1099,7 +1213,9 @@
                 "longtitude": 4.209377
             }
         },
-        "visit_timestamp": "2024-02-13T15:34:59Z"
+        "visit_timestamp": "2024-02-13T15:34:59Z",
+        "driveTime": 29,
+        "distance": 4.633
     },
     {
         "rijksregisterPatient": "85300941311",
@@ -1118,7 +1234,9 @@
                 "longtitude": 5.52236
             }
         },
-        "visit_timestamp": "2024-10-01T20:02:20Z"
+        "visit_timestamp": "2024-10-01T20:02:20Z",
+        "driveTime": 30,
+        "distance": 4.184
     },
     {
         "rijksregisterPatient": "11898777570",
@@ -1137,7 +1255,9 @@
                 "longtitude": 5.533512
             }
         },
-        "visit_timestamp": "2024-12-26T10:56:21Z"
+        "visit_timestamp": "2024-12-26T10:56:21Z",
+        "driveTime": 17,
+        "distance": 1.764
     },
     {
         "rijksregisterPatient": "27056048373",
@@ -1156,7 +1276,9 @@
                 "longtitude": 3.389891
             }
         },
-        "visit_timestamp": "2024-03-15T10:01:27Z"
+        "visit_timestamp": "2024-03-15T10:01:27Z",
+        "driveTime": 50,
+        "distance": 2.599
     },
     {
         "rijksregisterPatient": "61533090187",
@@ -1175,7 +1297,9 @@
                 "longtitude": 3.20997
             }
         },
-        "visit_timestamp": "2024-07-20T21:05:25Z"
+        "visit_timestamp": "2024-07-20T21:05:25Z",
+        "driveTime": 34,
+        "distance": 4.554
     },
     {
         "rijksregisterPatient": "64139992669",
@@ -1194,7 +1318,9 @@
                 "longtitude": 4.086024
             }
         },
-        "visit_timestamp": "2024-02-26T08:38:00Z"
+        "visit_timestamp": "2024-02-26T08:38:00Z",
+        "driveTime": 44,
+        "distance": 4.873
     },
     {
         "rijksregisterPatient": "16521568378",
@@ -1213,7 +1339,9 @@
                 "longtitude": 3.948596
             }
         },
-        "visit_timestamp": "2024-12-03T15:04:14Z"
+        "visit_timestamp": "2024-12-03T15:04:14Z",
+        "driveTime": 45,
+        "distance": 0.503
     },
     {
         "rijksregisterPatient": "14905891510",
@@ -1232,7 +1360,9 @@
                 "longtitude": 2.840387
             }
         },
-        "visit_timestamp": "2024-01-21T08:39:22Z"
+        "visit_timestamp": "2024-01-21T08:39:22Z",
+        "driveTime": 48,
+        "distance": 3.281
     },
     {
         "rijksregisterPatient": "83682691746",
@@ -1251,7 +1381,9 @@
                 "longtitude": 4.078537
             }
         },
-        "visit_timestamp": "2024-10-03T21:19:06Z"
+        "visit_timestamp": "2024-10-03T21:19:06Z",
+        "driveTime": 50,
+        "distance": 0.921
     },
     {
         "rijksregisterPatient": "85210074165",
@@ -1270,7 +1402,9 @@
                 "longtitude": 4.813924
             }
         },
-        "visit_timestamp": "2024-12-30T19:21:01Z"
+        "visit_timestamp": "2024-12-30T19:21:01Z",
+        "driveTime": 26,
+        "distance": 2.895
     },
     {
         "rijksregisterPatient": "65279485869",
@@ -1289,7 +1423,9 @@
                 "longtitude": 5.484102
             }
         },
-        "visit_timestamp": "2024-10-24T15:19:57Z"
+        "visit_timestamp": "2024-10-24T15:19:57Z",
+        "driveTime": 19,
+        "distance": 4.378
     },
     {
         "rijksregisterPatient": "98296992176",
@@ -1308,7 +1444,9 @@
                 "longtitude": 3.58963
             }
         },
-        "visit_timestamp": "2024-04-10T09:14:54Z"
+        "visit_timestamp": "2024-04-10T09:14:54Z",
+        "driveTime": 12,
+        "distance": 3.264
     },
     {
         "rijksregisterPatient": "95190882710",
@@ -1327,7 +1465,9 @@
                 "longtitude": 2.645084
             }
         },
-        "visit_timestamp": "2024-05-31T20:42:59Z"
+        "visit_timestamp": "2024-05-31T20:42:59Z",
+        "driveTime": 35,
+        "distance": 2.375
     },
     {
         "rijksregisterPatient": "77910531728",
@@ -1346,7 +1486,9 @@
                 "longtitude": 3.368468
             }
         },
-        "visit_timestamp": "2024-04-10T07:38:51Z"
+        "visit_timestamp": "2024-04-10T07:38:51Z",
+        "driveTime": 37,
+        "distance": 2.026
     },
     {
         "rijksregisterPatient": "48978868834",
@@ -1365,7 +1507,9 @@
                 "longtitude": 5.449034
             }
         },
-        "visit_timestamp": "2024-11-05T07:12:34Z"
+        "visit_timestamp": "2024-11-05T07:12:34Z",
+        "driveTime": 35,
+        "distance": 2.327
     },
     {
         "rijksregisterPatient": "39633688928",
@@ -1384,7 +1528,9 @@
                 "longtitude": 5.448446
             }
         },
-        "visit_timestamp": "2024-09-04T21:36:32Z"
+        "visit_timestamp": "2024-09-04T21:36:32Z",
+        "driveTime": 10,
+        "distance": 1.665
     },
     {
         "rijksregisterPatient": "85078914964",
@@ -1403,7 +1549,9 @@
                 "longtitude": 4.400197
             }
         },
-        "visit_timestamp": "2024-11-12T09:09:11Z"
+        "visit_timestamp": "2024-11-12T09:09:11Z",
+        "driveTime": 44,
+        "distance": 3.07
     },
     {
         "rijksregisterPatient": "76768280788",
@@ -1422,7 +1570,9 @@
                 "longtitude": 2.522807
             }
         },
-        "visit_timestamp": "2024-10-03T09:53:50Z"
+        "visit_timestamp": "2024-10-03T09:53:50Z",
+        "driveTime": 40,
+        "distance": 2.398
     },
     {
         "rijksregisterPatient": "54318457450",
@@ -1441,7 +1591,9 @@
                 "longtitude": 5.410566
             }
         },
-        "visit_timestamp": "2024-10-21T18:38:50Z"
+        "visit_timestamp": "2024-10-21T18:38:50Z",
+        "driveTime": 30,
+        "distance": 2.465
     },
     {
         "rijksregisterPatient": "85991563596",
@@ -1460,7 +1612,9 @@
                 "longtitude": 5.713496
             }
         },
-        "visit_timestamp": "2024-08-17T07:16:44Z"
+        "visit_timestamp": "2024-08-17T07:16:44Z",
+        "driveTime": 25,
+        "distance": 3.867
     },
     {
         "rijksregisterPatient": "31246303326",
@@ -1479,7 +1633,9 @@
                 "longtitude": 5.418737
             }
         },
-        "visit_timestamp": "2024-08-23T14:00:52Z"
+        "visit_timestamp": "2024-08-23T14:00:52Z",
+        "driveTime": 30,
+        "distance": 1.472
     },
     {
         "rijksregisterPatient": "52137750657",
@@ -1498,7 +1654,9 @@
                 "longtitude": 3.909458
             }
         },
-        "visit_timestamp": "2024-02-23T18:52:58Z"
+        "visit_timestamp": "2024-02-23T18:52:58Z",
+        "driveTime": 39,
+        "distance": 2.63
     },
     {
         "rijksregisterPatient": "94845321815",
@@ -1517,7 +1675,9 @@
                 "longtitude": 4.286934
             }
         },
-        "visit_timestamp": "2024-10-08T07:54:49Z"
+        "visit_timestamp": "2024-10-08T07:54:49Z",
+        "driveTime": 57,
+        "distance": 1.869
     },
     {
         "rijksregisterPatient": "51749528287",
@@ -1536,7 +1696,9 @@
                 "longtitude": 5.743005
             }
         },
-        "visit_timestamp": "2024-12-18T22:21:34Z"
+        "visit_timestamp": "2024-12-18T22:21:34Z",
+        "driveTime": 50,
+        "distance": 2.27
     },
     {
         "rijksregisterPatient": "13361116050",
@@ -1555,7 +1717,9 @@
                 "longtitude": 2.783166
             }
         },
-        "visit_timestamp": "2024-03-08T17:42:38Z"
+        "visit_timestamp": "2024-03-08T17:42:38Z",
+        "driveTime": 24,
+        "distance": 4.784
     },
     {
         "rijksregisterPatient": "84331613271",
@@ -1574,7 +1738,9 @@
                 "longtitude": 4.018476
             }
         },
-        "visit_timestamp": "2024-01-10T17:24:42Z"
+        "visit_timestamp": "2024-01-10T17:24:42Z",
+        "driveTime": 6,
+        "distance": 0.708
     },
     {
         "rijksregisterPatient": "46355438397",
@@ -1593,7 +1759,9 @@
                 "longtitude": 4.872573
             }
         },
-        "visit_timestamp": "2024-07-06T15:49:24Z"
+        "visit_timestamp": "2024-07-06T15:49:24Z",
+        "driveTime": 41,
+        "distance": 2.514
     },
     {
         "rijksregisterPatient": "82604107745",
@@ -1612,7 +1780,9 @@
                 "longtitude": 3.191741
             }
         },
-        "visit_timestamp": "2024-02-02T10:01:38Z"
+        "visit_timestamp": "2024-02-02T10:01:38Z",
+        "driveTime": 22,
+        "distance": 2.412
     },
     {
         "rijksregisterPatient": "28275341985",
@@ -1631,7 +1801,9 @@
                 "longtitude": 4.703692
             }
         },
-        "visit_timestamp": "2024-11-23T08:35:48Z"
+        "visit_timestamp": "2024-11-23T08:35:48Z",
+        "driveTime": 44,
+        "distance": 3.907
     },
     {
         "rijksregisterPatient": "10954737927",
@@ -1650,7 +1822,9 @@
                 "longtitude": 2.554789
             }
         },
-        "visit_timestamp": "2024-10-08T19:32:07Z"
+        "visit_timestamp": "2024-10-08T19:32:07Z",
+        "driveTime": 53,
+        "distance": 3.917
     },
     {
         "rijksregisterPatient": "69575721046",
@@ -1669,7 +1843,9 @@
                 "longtitude": 4.996535
             }
         },
-        "visit_timestamp": "2024-12-23T21:21:15Z"
+        "visit_timestamp": "2024-12-23T21:21:15Z",
+        "driveTime": 47,
+        "distance": 3.052
     },
     {
         "rijksregisterPatient": "25404020919",
@@ -1688,7 +1864,9 @@
                 "longtitude": 5.551737
             }
         },
-        "visit_timestamp": "2024-09-07T20:15:49Z"
+        "visit_timestamp": "2024-09-07T20:15:49Z",
+        "driveTime": 39,
+        "distance": 3.106
     },
     {
         "rijksregisterPatient": "22680302178",
@@ -1707,7 +1885,9 @@
                 "longtitude": 2.795463
             }
         },
-        "visit_timestamp": "2024-07-28T13:55:34Z"
+        "visit_timestamp": "2024-07-28T13:55:34Z",
+        "driveTime": 58,
+        "distance": 2.08
     },
     {
         "rijksregisterPatient": "72050717843",
@@ -1726,7 +1906,9 @@
                 "longtitude": 5.88928
             }
         },
-        "visit_timestamp": "2024-01-19T18:28:28Z"
+        "visit_timestamp": "2024-01-19T18:28:28Z",
+        "driveTime": 35,
+        "distance": 1.796
     },
     {
         "rijksregisterPatient": "57557652971",
@@ -1745,7 +1927,9 @@
                 "longtitude": 3.51979
             }
         },
-        "visit_timestamp": "2024-11-26T20:57:58Z"
+        "visit_timestamp": "2024-11-26T20:57:58Z",
+        "driveTime": 35,
+        "distance": 2.513
     },
     {
         "rijksregisterPatient": "97345587888",
@@ -1764,7 +1948,9 @@
                 "longtitude": 5.042037
             }
         },
-        "visit_timestamp": "2024-04-08T11:28:42Z"
+        "visit_timestamp": "2024-04-08T11:28:42Z",
+        "driveTime": 37,
+        "distance": 3.29
     },
     {
         "rijksregisterPatient": "57985120126",
@@ -1783,7 +1969,9 @@
                 "longtitude": 4.497354
             }
         },
-        "visit_timestamp": "2024-05-20T11:36:58Z"
+        "visit_timestamp": "2024-05-20T11:36:58Z",
+        "driveTime": 15,
+        "distance": 3.526
     },
     {
         "rijksregisterPatient": "34538527670",
@@ -1802,7 +1990,9 @@
                 "longtitude": 2.965982
             }
         },
-        "visit_timestamp": "2024-02-22T18:25:38Z"
+        "visit_timestamp": "2024-02-22T18:25:38Z",
+        "driveTime": 53,
+        "distance": 0.995
     },
     {
         "rijksregisterPatient": "11923626607",
@@ -1821,7 +2011,9 @@
                 "longtitude": 3.49421
             }
         },
-        "visit_timestamp": "2024-12-02T09:16:56Z"
+        "visit_timestamp": "2024-12-02T09:16:56Z",
+        "driveTime": 50,
+        "distance": 0.545
     },
     {
         "rijksregisterPatient": "78465930570",
@@ -1840,7 +2032,9 @@
                 "longtitude": 4.889447
             }
         },
-        "visit_timestamp": "2024-07-01T18:29:14Z"
+        "visit_timestamp": "2024-07-01T18:29:14Z",
+        "driveTime": 34,
+        "distance": 2.052
     },
     {
         "rijksregisterPatient": "88995774888",
@@ -1859,7 +2053,9 @@
                 "longtitude": 3.400581
             }
         },
-        "visit_timestamp": "2024-01-27T13:45:30Z"
+        "visit_timestamp": "2024-01-27T13:45:30Z",
+        "driveTime": 38,
+        "distance": 2.113
     },
     {
         "rijksregisterPatient": "34490211300",
@@ -1878,7 +2074,9 @@
                 "longtitude": 4.426333
             }
         },
-        "visit_timestamp": "2024-08-13T15:21:11Z"
+        "visit_timestamp": "2024-08-13T15:21:11Z",
+        "driveTime": 38,
+        "distance": 4.718
     },
     {
         "rijksregisterPatient": "45380448162",
@@ -1897,7 +2095,9 @@
                 "longtitude": 5.896818
             }
         },
-        "visit_timestamp": "2024-09-13T14:51:55Z"
+        "visit_timestamp": "2024-09-13T14:51:55Z",
+        "driveTime": 22,
+        "distance": 1.487
     },
     {
         "rijksregisterPatient": "15659306484",
@@ -1916,7 +2116,9 @@
                 "longtitude": 3.276304
             }
         },
-        "visit_timestamp": "2024-02-25T12:01:27Z"
+        "visit_timestamp": "2024-02-25T12:01:27Z",
+        "driveTime": 38,
+        "distance": 2.598
     },
     {
         "rijksregisterPatient": "95473765131",
@@ -1935,7 +2137,9 @@
                 "longtitude": 3.747529
             }
         },
-        "visit_timestamp": "2024-07-17T18:02:57Z"
+        "visit_timestamp": "2024-07-17T18:02:57Z",
+        "driveTime": 20,
+        "distance": 2.7
     },
     {
         "rijksregisterPatient": "55278952813",
@@ -1954,7 +2158,9 @@
                 "longtitude": 5.873415
             }
         },
-        "visit_timestamp": "2024-02-04T22:13:50Z"
+        "visit_timestamp": "2024-02-04T22:13:50Z",
+        "driveTime": 32,
+        "distance": 3.0
     },
     {
         "rijksregisterPatient": "54647476797",
@@ -1973,7 +2179,9 @@
                 "longtitude": 5.169019
             }
         },
-        "visit_timestamp": "2024-08-03T15:05:19Z"
+        "visit_timestamp": "2024-08-03T15:05:19Z",
+        "driveTime": 10,
+        "distance": 3.158
     },
     {
         "rijksregisterPatient": "23838674908",
@@ -1992,7 +2200,9 @@
                 "longtitude": 4.885391
             }
         },
-        "visit_timestamp": "2024-08-09T21:01:55Z"
+        "visit_timestamp": "2024-08-09T21:01:55Z",
+        "driveTime": 23,
+        "distance": 4.316
     },
     {
         "rijksregisterPatient": "28498665051",
@@ -2011,7 +2221,9 @@
                 "longtitude": 3.624944
             }
         },
-        "visit_timestamp": "2024-07-30T19:37:59Z"
+        "visit_timestamp": "2024-07-30T19:37:59Z",
+        "driveTime": 34,
+        "distance": 4.061
     },
     {
         "rijksregisterPatient": "52297373040",
@@ -2030,7 +2242,9 @@
                 "longtitude": 4.683277
             }
         },
-        "visit_timestamp": "2024-03-08T20:39:41Z"
+        "visit_timestamp": "2024-03-08T20:39:41Z",
+        "driveTime": 38,
+        "distance": 3.062
     },
     {
         "rijksregisterPatient": "43098530484",
@@ -2049,7 +2263,9 @@
                 "longtitude": 5.233072
             }
         },
-        "visit_timestamp": "2024-11-22T17:18:47Z"
+        "visit_timestamp": "2024-11-22T17:18:47Z",
+        "driveTime": 57,
+        "distance": 2.007
     },
     {
         "rijksregisterPatient": "22419548554",
@@ -2068,7 +2284,9 @@
                 "longtitude": 3.392874
             }
         },
-        "visit_timestamp": "2024-06-21T19:18:15Z"
+        "visit_timestamp": "2024-06-21T19:18:15Z",
+        "driveTime": 27,
+        "distance": 1.931
     },
     {
         "rijksregisterPatient": "58704339019",
@@ -2087,7 +2305,9 @@
                 "longtitude": 5.859897
             }
         },
-        "visit_timestamp": "2024-04-18T09:33:06Z"
+        "visit_timestamp": "2024-04-18T09:33:06Z",
+        "driveTime": 34,
+        "distance": 0.953
     },
     {
         "rijksregisterPatient": "32870361425",
@@ -2106,7 +2326,9 @@
                 "longtitude": 3.393807
             }
         },
-        "visit_timestamp": "2024-06-06T18:04:42Z"
+        "visit_timestamp": "2024-06-06T18:04:42Z",
+        "driveTime": 50,
+        "distance": 1.492
     },
     {
         "rijksregisterPatient": "50376869947",
@@ -2125,7 +2347,9 @@
                 "longtitude": 3.465838
             }
         },
-        "visit_timestamp": "2024-03-28T16:39:06Z"
+        "visit_timestamp": "2024-03-28T16:39:06Z",
+        "driveTime": 36,
+        "distance": 1.581
     },
     {
         "rijksregisterPatient": "46078416721",
@@ -2144,7 +2368,9 @@
                 "longtitude": 4.808828
             }
         },
-        "visit_timestamp": "2024-08-31T10:06:41Z"
+        "visit_timestamp": "2024-08-31T10:06:41Z",
+        "driveTime": 30,
+        "distance": 2.182
     },
     {
         "rijksregisterPatient": "18420492481",
@@ -2163,7 +2389,9 @@
                 "longtitude": 4.717929
             }
         },
-        "visit_timestamp": "2024-05-11T12:14:24Z"
+        "visit_timestamp": "2024-05-11T12:14:24Z",
+        "driveTime": 22,
+        "distance": 3.508
     },
     {
         "rijksregisterPatient": "10431528333",
@@ -2182,7 +2410,9 @@
                 "longtitude": 5.814101
             }
         },
-        "visit_timestamp": "2024-01-23T14:32:36Z"
+        "visit_timestamp": "2024-01-23T14:32:36Z",
+        "driveTime": 50,
+        "distance": 3.546
     },
     {
         "rijksregisterPatient": "72647732316",
@@ -2201,7 +2431,9 @@
                 "longtitude": 2.558871
             }
         },
-        "visit_timestamp": "2024-03-07T20:22:26Z"
+        "visit_timestamp": "2024-03-07T20:22:26Z",
+        "driveTime": 32,
+        "distance": 1.581
     },
     {
         "rijksregisterPatient": "32096691056",
@@ -2220,7 +2452,9 @@
                 "longtitude": 3.318061
             }
         },
-        "visit_timestamp": "2024-09-03T22:02:39Z"
+        "visit_timestamp": "2024-09-03T22:02:39Z",
+        "driveTime": 44,
+        "distance": 4.0
     },
     {
         "rijksregisterPatient": "38420472280",
@@ -2239,7 +2473,9 @@
                 "longtitude": 5.192041
             }
         },
-        "visit_timestamp": "2024-11-08T22:58:30Z"
+        "visit_timestamp": "2024-11-08T22:58:30Z",
+        "driveTime": 6,
+        "distance": 3.228
     },
     {
         "rijksregisterPatient": "46946939099",
@@ -2258,7 +2494,9 @@
                 "longtitude": 3.914827
             }
         },
-        "visit_timestamp": "2024-10-15T16:38:46Z"
+        "visit_timestamp": "2024-10-15T16:38:46Z",
+        "driveTime": 53,
+        "distance": 1.399
     },
     {
         "rijksregisterPatient": "23528183937",
@@ -2277,7 +2515,9 @@
                 "longtitude": 4.940972
             }
         },
-        "visit_timestamp": "2024-09-02T18:30:24Z"
+        "visit_timestamp": "2024-09-02T18:30:24Z",
+        "driveTime": 37,
+        "distance": 2.396
     },
     {
         "rijksregisterPatient": "33321370922",
@@ -2296,7 +2536,9 @@
                 "longtitude": 2.683379
             }
         },
-        "visit_timestamp": "2024-08-19T22:35:41Z"
+        "visit_timestamp": "2024-08-19T22:35:41Z",
+        "driveTime": 9,
+        "distance": 2.565
     },
     {
         "rijksregisterPatient": "35887359747",
@@ -2315,7 +2557,9 @@
                 "longtitude": 3.816656
             }
         },
-        "visit_timestamp": "2024-07-21T17:11:15Z"
+        "visit_timestamp": "2024-07-21T17:11:15Z",
+        "driveTime": 41,
+        "distance": 0.502
     },
     {
         "rijksregisterPatient": "96534692173",
@@ -2334,7 +2578,9 @@
                 "longtitude": 2.967012
             }
         },
-        "visit_timestamp": "2024-12-10T20:10:19Z"
+        "visit_timestamp": "2024-12-10T20:10:19Z",
+        "driveTime": 28,
+        "distance": 1.435
     },
     {
         "rijksregisterPatient": "62866366475",
@@ -2353,7 +2599,9 @@
                 "longtitude": 4.405054
             }
         },
-        "visit_timestamp": "2024-02-10T13:31:37Z"
+        "visit_timestamp": "2024-02-10T13:31:37Z",
+        "driveTime": 13,
+        "distance": 4.11
     },
     {
         "rijksregisterPatient": "26570531320",
@@ -2372,7 +2620,9 @@
                 "longtitude": 5.647504
             }
         },
-        "visit_timestamp": "2024-05-10T06:58:49Z"
+        "visit_timestamp": "2024-05-10T06:58:49Z",
+        "driveTime": 9,
+        "distance": 1.561
     },
     {
         "rijksregisterPatient": "32181003994",
@@ -2391,7 +2641,9 @@
                 "longtitude": 5.585088
             }
         },
-        "visit_timestamp": "2024-06-08T09:02:52Z"
+        "visit_timestamp": "2024-06-08T09:02:52Z",
+        "driveTime": 36,
+        "distance": 3.009
     },
     {
         "rijksregisterPatient": "19771923071",
@@ -2410,7 +2662,9 @@
                 "longtitude": 2.961214
             }
         },
-        "visit_timestamp": "2024-07-15T18:43:08Z"
+        "visit_timestamp": "2024-07-15T18:43:08Z",
+        "driveTime": 23,
+        "distance": 1.327
     },
     {
         "rijksregisterPatient": "14575283056",
@@ -2429,7 +2683,9 @@
                 "longtitude": 5.348197
             }
         },
-        "visit_timestamp": "2024-03-09T12:22:14Z"
+        "visit_timestamp": "2024-03-09T12:22:14Z",
+        "driveTime": 13,
+        "distance": 2.432
     },
     {
         "rijksregisterPatient": "41174282685",
@@ -2448,7 +2704,9 @@
                 "longtitude": 5.420067
             }
         },
-        "visit_timestamp": "2024-05-13T08:44:40Z"
+        "visit_timestamp": "2024-05-13T08:44:40Z",
+        "driveTime": 31,
+        "distance": 2.898
     },
     {
         "rijksregisterPatient": "60718761229",
@@ -2467,7 +2725,9 @@
                 "longtitude": 2.928688
             }
         },
-        "visit_timestamp": "2024-05-06T15:38:04Z"
+        "visit_timestamp": "2024-05-06T15:38:04Z",
+        "driveTime": 17,
+        "distance": 0.672
     },
     {
         "rijksregisterPatient": "53434917562",
@@ -2486,7 +2746,9 @@
                 "longtitude": 4.86967
             }
         },
-        "visit_timestamp": "2024-06-18T16:37:07Z"
+        "visit_timestamp": "2024-06-18T16:37:07Z",
+        "driveTime": 39,
+        "distance": 4.62
     },
     {
         "rijksregisterPatient": "57981720420",
@@ -2505,7 +2767,9 @@
                 "longtitude": 4.603539
             }
         },
-        "visit_timestamp": "2024-06-20T22:24:40Z"
+        "visit_timestamp": "2024-06-20T22:24:40Z",
+        "driveTime": 58,
+        "distance": 4.495
     },
     {
         "rijksregisterPatient": "87175469072",
@@ -2524,7 +2788,9 @@
                 "longtitude": 3.331412
             }
         },
-        "visit_timestamp": "2024-04-11T06:31:27Z"
+        "visit_timestamp": "2024-04-11T06:31:27Z",
+        "driveTime": 8,
+        "distance": 3.939
     },
     {
         "rijksregisterPatient": "45304995479",
@@ -2543,7 +2809,9 @@
                 "longtitude": 2.676097
             }
         },
-        "visit_timestamp": "2024-08-28T13:17:31Z"
+        "visit_timestamp": "2024-08-28T13:17:31Z",
+        "driveTime": 35,
+        "distance": 1.172
     },
     {
         "rijksregisterPatient": "67732757079",
@@ -2562,7 +2830,9 @@
                 "longtitude": 4.984536
             }
         },
-        "visit_timestamp": "2024-10-19T16:03:08Z"
+        "visit_timestamp": "2024-10-19T16:03:08Z",
+        "driveTime": 31,
+        "distance": 4.633
     },
     {
         "rijksregisterPatient": "40816819657",
@@ -2581,7 +2851,9 @@
                 "longtitude": 5.059099
             }
         },
-        "visit_timestamp": "2024-05-28T15:47:32Z"
+        "visit_timestamp": "2024-05-28T15:47:32Z",
+        "driveTime": 59,
+        "distance": 2.475
     },
     {
         "rijksregisterPatient": "10758203296",
@@ -2600,7 +2872,9 @@
                 "longtitude": 4.284943
             }
         },
-        "visit_timestamp": "2024-06-19T19:02:31Z"
+        "visit_timestamp": "2024-06-19T19:02:31Z",
+        "driveTime": 59,
+        "distance": 3.75
     },
     {
         "rijksregisterPatient": "47747075455",
@@ -2619,7 +2893,9 @@
                 "longtitude": 3.498923
             }
         },
-        "visit_timestamp": "2024-01-14T19:05:28Z"
+        "visit_timestamp": "2024-01-14T19:05:28Z",
+        "driveTime": 5,
+        "distance": 4.151
     },
     {
         "rijksregisterPatient": "59184163648",
@@ -2638,7 +2914,9 @@
                 "longtitude": 5.028664
             }
         },
-        "visit_timestamp": "2024-07-03T11:03:43Z"
+        "visit_timestamp": "2024-07-03T11:03:43Z",
+        "driveTime": 15,
+        "distance": 3.879
     },
     {
         "rijksregisterPatient": "55324630191",
@@ -2657,7 +2935,9 @@
                 "longtitude": 4.329694
             }
         },
-        "visit_timestamp": "2024-12-01T19:00:29Z"
+        "visit_timestamp": "2024-12-01T19:00:29Z",
+        "driveTime": 36,
+        "distance": 3.796
     },
     {
         "rijksregisterPatient": "13548599887",
@@ -2676,7 +2956,9 @@
                 "longtitude": 5.941618
             }
         },
-        "visit_timestamp": "2024-07-24T12:15:02Z"
+        "visit_timestamp": "2024-07-24T12:15:02Z",
+        "driveTime": 45,
+        "distance": 2.935
     },
     {
         "rijksregisterPatient": "91715276948",
@@ -2695,7 +2977,9 @@
                 "longtitude": 3.69698
             }
         },
-        "visit_timestamp": "2024-01-12T15:11:42Z"
+        "visit_timestamp": "2024-01-12T15:11:42Z",
+        "driveTime": 17,
+        "distance": 0.501
     },
     {
         "rijksregisterPatient": "65221860232",
@@ -2714,7 +2998,9 @@
                 "longtitude": 3.699997
             }
         },
-        "visit_timestamp": "2024-04-17T08:47:03Z"
+        "visit_timestamp": "2024-04-17T08:47:03Z",
+        "driveTime": 37,
+        "distance": 1.355
     },
     {
         "rijksregisterPatient": "60361309867",
@@ -2733,7 +3019,9 @@
                 "longtitude": 3.680583
             }
         },
-        "visit_timestamp": "2024-06-17T21:52:12Z"
+        "visit_timestamp": "2024-06-17T21:52:12Z",
+        "driveTime": 56,
+        "distance": 3.471
     },
     {
         "rijksregisterPatient": "93141572814",
@@ -2752,7 +3040,9 @@
                 "longtitude": 4.964756
             }
         },
-        "visit_timestamp": "2024-08-17T06:18:52Z"
+        "visit_timestamp": "2024-08-17T06:18:52Z",
+        "driveTime": 55,
+        "distance": 2.959
     },
     {
         "rijksregisterPatient": "68717165771",
@@ -2771,7 +3061,9 @@
                 "longtitude": 2.50894
             }
         },
-        "visit_timestamp": "2024-09-24T17:03:36Z"
+        "visit_timestamp": "2024-09-24T17:03:36Z",
+        "driveTime": 32,
+        "distance": 3.769
     },
     {
         "rijksregisterPatient": "15492446764",
@@ -2790,7 +3082,9 @@
                 "longtitude": 2.518789
             }
         },
-        "visit_timestamp": "2024-12-02T08:45:49Z"
+        "visit_timestamp": "2024-12-02T08:45:49Z",
+        "driveTime": 22,
+        "distance": 0.663
     },
     {
         "rijksregisterPatient": "60601792958",
@@ -2809,7 +3103,9 @@
                 "longtitude": 4.041712
             }
         },
-        "visit_timestamp": "2024-08-29T20:16:17Z"
+        "visit_timestamp": "2024-08-29T20:16:17Z",
+        "driveTime": 41,
+        "distance": 1.214
     },
     {
         "rijksregisterPatient": "37529192345",
@@ -2828,7 +3124,9 @@
                 "longtitude": 3.095697
             }
         },
-        "visit_timestamp": "2024-08-31T13:31:13Z"
+        "visit_timestamp": "2024-08-31T13:31:13Z",
+        "driveTime": 5,
+        "distance": 2.466
     },
     {
         "rijksregisterPatient": "73857018330",
@@ -2847,7 +3145,9 @@
                 "longtitude": 4.772327
             }
         },
-        "visit_timestamp": "2024-01-09T19:06:24Z"
+        "visit_timestamp": "2024-01-09T19:06:24Z",
+        "driveTime": 16,
+        "distance": 2.06
     },
     {
         "rijksregisterPatient": "29713738777",
@@ -2866,7 +3166,9 @@
                 "longtitude": 3.28866
             }
         },
-        "visit_timestamp": "2024-09-01T19:30:05Z"
+        "visit_timestamp": "2024-09-01T19:30:05Z",
+        "driveTime": 39,
+        "distance": 2.32
     },
     {
         "rijksregisterPatient": "23176123566",
@@ -2885,7 +3187,9 @@
                 "longtitude": 5.344924
             }
         },
-        "visit_timestamp": "2024-02-11T17:03:55Z"
+        "visit_timestamp": "2024-02-11T17:03:55Z",
+        "driveTime": 25,
+        "distance": 1.23
     },
     {
         "rijksregisterPatient": "91194068182",
@@ -2904,7 +3208,9 @@
                 "longtitude": 2.979204
             }
         },
-        "visit_timestamp": "2024-03-22T07:51:41Z"
+        "visit_timestamp": "2024-03-22T07:51:41Z",
+        "driveTime": 20,
+        "distance": 3.813
     },
     {
         "rijksregisterPatient": "11184097313",
@@ -2923,7 +3229,9 @@
                 "longtitude": 4.870474
             }
         },
-        "visit_timestamp": "2024-04-17T06:32:37Z"
+        "visit_timestamp": "2024-04-17T06:32:37Z",
+        "driveTime": 44,
+        "distance": 4.416
     },
     {
         "rijksregisterPatient": "86116206342",
@@ -2942,7 +3250,9 @@
                 "longtitude": 3.380379
             }
         },
-        "visit_timestamp": "2024-03-22T10:07:01Z"
+        "visit_timestamp": "2024-03-22T10:07:01Z",
+        "driveTime": 20,
+        "distance": 2.864
     },
     {
         "rijksregisterPatient": "19114466101",
@@ -2961,7 +3271,9 @@
                 "longtitude": 3.078903
             }
         },
-        "visit_timestamp": "2024-09-02T16:42:21Z"
+        "visit_timestamp": "2024-09-02T16:42:21Z",
+        "driveTime": 46,
+        "distance": 4.243
     },
     {
         "rijksregisterPatient": "36499283522",
@@ -2980,7 +3292,9 @@
                 "longtitude": 5.641201
             }
         },
-        "visit_timestamp": "2024-05-23T16:51:03Z"
+        "visit_timestamp": "2024-05-23T16:51:03Z",
+        "driveTime": 55,
+        "distance": 1.768
     },
     {
         "rijksregisterPatient": "65077945606",
@@ -2999,7 +3313,9 @@
                 "longtitude": 5.934896
             }
         },
-        "visit_timestamp": "2024-10-28T21:49:05Z"
+        "visit_timestamp": "2024-10-28T21:49:05Z",
+        "driveTime": 25,
+        "distance": 0.747
     },
     {
         "rijksregisterPatient": "99765561211",
@@ -3018,7 +3334,9 @@
                 "longtitude": 4.818474
             }
         },
-        "visit_timestamp": "2024-08-24T14:44:44Z"
+        "visit_timestamp": "2024-08-24T14:44:44Z",
+        "driveTime": 58,
+        "distance": 0.652
     },
     {
         "rijksregisterPatient": "62763403392",
@@ -3037,7 +3355,9 @@
                 "longtitude": 5.111376
             }
         },
-        "visit_timestamp": "2024-02-17T11:47:24Z"
+        "visit_timestamp": "2024-02-17T11:47:24Z",
+        "driveTime": 39,
+        "distance": 1.098
     },
     {
         "rijksregisterPatient": "42127927870",
@@ -3056,7 +3376,9 @@
                 "longtitude": 4.009778
             }
         },
-        "visit_timestamp": "2024-03-27T15:31:33Z"
+        "visit_timestamp": "2024-03-27T15:31:33Z",
+        "driveTime": 38,
+        "distance": 4.754
     },
     {
         "rijksregisterPatient": "96192255983",
@@ -3075,7 +3397,9 @@
                 "longtitude": 5.405424
             }
         },
-        "visit_timestamp": "2024-04-23T19:06:23Z"
+        "visit_timestamp": "2024-04-23T19:06:23Z",
+        "driveTime": 6,
+        "distance": 1.469
     },
     {
         "rijksregisterPatient": "49469625295",
@@ -3094,7 +3418,9 @@
                 "longtitude": 2.703527
             }
         },
-        "visit_timestamp": "2024-07-08T21:26:18Z"
+        "visit_timestamp": "2024-07-08T21:26:18Z",
+        "driveTime": 20,
+        "distance": 3.857
     },
     {
         "rijksregisterPatient": "28214099818",
@@ -3113,7 +3439,9 @@
                 "longtitude": 5.66766
             }
         },
-        "visit_timestamp": "2024-09-12T08:41:36Z"
+        "visit_timestamp": "2024-09-12T08:41:36Z",
+        "driveTime": 30,
+        "distance": 3.976
     },
     {
         "rijksregisterPatient": "32537306738",
@@ -3132,7 +3460,9 @@
                 "longtitude": 5.791282
             }
         },
-        "visit_timestamp": "2024-03-28T10:08:38Z"
+        "visit_timestamp": "2024-03-28T10:08:38Z",
+        "driveTime": 14,
+        "distance": 3.972
     },
     {
         "rijksregisterPatient": "20281163688",
@@ -3151,7 +3481,9 @@
                 "longtitude": 2.560991
             }
         },
-        "visit_timestamp": "2024-09-19T19:44:49Z"
+        "visit_timestamp": "2024-09-19T19:44:49Z",
+        "driveTime": 28,
+        "distance": 4.362
     },
     {
         "rijksregisterPatient": "12819242815",
@@ -3170,7 +3502,9 @@
                 "longtitude": 2.985225
             }
         },
-        "visit_timestamp": "2024-06-10T07:07:11Z"
+        "visit_timestamp": "2024-06-10T07:07:11Z",
+        "driveTime": 53,
+        "distance": 0.581
     },
     {
         "rijksregisterPatient": "20502514708",
@@ -3189,7 +3523,9 @@
                 "longtitude": 2.854145
             }
         },
-        "visit_timestamp": "2024-10-11T21:13:14Z"
+        "visit_timestamp": "2024-10-11T21:13:14Z",
+        "driveTime": 45,
+        "distance": 3.744
     },
     {
         "rijksregisterPatient": "14645905811",
@@ -3208,7 +3544,9 @@
                 "longtitude": 4.998604
             }
         },
-        "visit_timestamp": "2024-10-30T19:49:19Z"
+        "visit_timestamp": "2024-10-30T19:49:19Z",
+        "driveTime": 20,
+        "distance": 4.292
     },
     {
         "rijksregisterPatient": "88512356276",
@@ -3227,7 +3565,9 @@
                 "longtitude": 5.553821
             }
         },
-        "visit_timestamp": "2024-10-07T21:39:32Z"
+        "visit_timestamp": "2024-10-07T21:39:32Z",
+        "driveTime": 43,
+        "distance": 3.537
     },
     {
         "rijksregisterPatient": "78344732389",
@@ -3246,7 +3586,9 @@
                 "longtitude": 3.518827
             }
         },
-        "visit_timestamp": "2024-05-08T08:22:32Z"
+        "visit_timestamp": "2024-05-08T08:22:32Z",
+        "driveTime": 8,
+        "distance": 2.774
     },
     {
         "rijksregisterPatient": "75093591430",
@@ -3265,7 +3607,9 @@
                 "longtitude": 4.569555
             }
         },
-        "visit_timestamp": "2024-06-28T19:15:02Z"
+        "visit_timestamp": "2024-06-28T19:15:02Z",
+        "driveTime": 51,
+        "distance": 4.592
     },
     {
         "rijksregisterPatient": "11371772271",
@@ -3284,7 +3628,9 @@
                 "longtitude": 2.585298
             }
         },
-        "visit_timestamp": "2024-05-03T20:30:26Z"
+        "visit_timestamp": "2024-05-03T20:30:26Z",
+        "driveTime": 48,
+        "distance": 3.461
     },
     {
         "rijksregisterPatient": "83412588232",
@@ -3303,7 +3649,9 @@
                 "longtitude": 5.973001
             }
         },
-        "visit_timestamp": "2024-03-19T11:10:48Z"
+        "visit_timestamp": "2024-03-19T11:10:48Z",
+        "driveTime": 30,
+        "distance": 2.292
     },
     {
         "rijksregisterPatient": "38250743395",
@@ -3322,7 +3670,9 @@
                 "longtitude": 5.246495
             }
         },
-        "visit_timestamp": "2024-08-17T11:16:45Z"
+        "visit_timestamp": "2024-08-17T11:16:45Z",
+        "driveTime": 16,
+        "distance": 3.125
     },
     {
         "rijksregisterPatient": "87873541623",
@@ -3341,7 +3691,9 @@
                 "longtitude": 5.525024
             }
         },
-        "visit_timestamp": "2024-07-16T15:09:06Z"
+        "visit_timestamp": "2024-07-16T15:09:06Z",
+        "driveTime": 45,
+        "distance": 2.723
     },
     {
         "rijksregisterPatient": "84575990922",
@@ -3360,7 +3712,9 @@
                 "longtitude": 3.152429
             }
         },
-        "visit_timestamp": "2024-12-22T12:01:09Z"
+        "visit_timestamp": "2024-12-22T12:01:09Z",
+        "driveTime": 16,
+        "distance": 2.458
     },
     {
         "rijksregisterPatient": "32514175235",
@@ -3379,7 +3733,9 @@
                 "longtitude": 4.186687
             }
         },
-        "visit_timestamp": "2024-10-02T19:01:44Z"
+        "visit_timestamp": "2024-10-02T19:01:44Z",
+        "driveTime": 51,
+        "distance": 2.076
     },
     {
         "rijksregisterPatient": "32147299958",
@@ -3398,7 +3754,9 @@
                 "longtitude": 4.893564
             }
         },
-        "visit_timestamp": "2024-10-14T10:04:31Z"
+        "visit_timestamp": "2024-10-14T10:04:31Z",
+        "driveTime": 39,
+        "distance": 4.898
     },
     {
         "rijksregisterPatient": "21525366754",
@@ -3417,7 +3775,9 @@
                 "longtitude": 5.425197
             }
         },
-        "visit_timestamp": "2024-11-09T13:34:12Z"
+        "visit_timestamp": "2024-11-09T13:34:12Z",
+        "driveTime": 19,
+        "distance": 2.163
     },
     {
         "rijksregisterPatient": "50861732330",
@@ -3436,7 +3796,9 @@
                 "longtitude": 2.803535
             }
         },
-        "visit_timestamp": "2024-08-09T17:09:27Z"
+        "visit_timestamp": "2024-08-09T17:09:27Z",
+        "driveTime": 13,
+        "distance": 0.767
     },
     {
         "rijksregisterPatient": "73858764146",
@@ -3455,7 +3817,9 @@
                 "longtitude": 4.841257
             }
         },
-        "visit_timestamp": "2024-02-26T19:43:52Z"
+        "visit_timestamp": "2024-02-26T19:43:52Z",
+        "driveTime": 25,
+        "distance": 1.454
     },
     {
         "rijksregisterPatient": "14847836766",
@@ -3474,7 +3838,9 @@
                 "longtitude": 2.939539
             }
         },
-        "visit_timestamp": "2024-11-29T21:15:00Z"
+        "visit_timestamp": "2024-11-29T21:15:00Z",
+        "driveTime": 31,
+        "distance": 2.295
     },
     {
         "rijksregisterPatient": "44227212524",
@@ -3493,7 +3859,9 @@
                 "longtitude": 5.40579
             }
         },
-        "visit_timestamp": "2024-04-18T06:27:01Z"
+        "visit_timestamp": "2024-04-18T06:27:01Z",
+        "driveTime": 11,
+        "distance": 2.781
     },
     {
         "rijksregisterPatient": "53817820100",
@@ -3512,7 +3880,9 @@
                 "longtitude": 5.005882
             }
         },
-        "visit_timestamp": "2024-08-21T14:18:46Z"
+        "visit_timestamp": "2024-08-21T14:18:46Z",
+        "driveTime": 26,
+        "distance": 1.928
     },
     {
         "rijksregisterPatient": "33614466548",
@@ -3531,7 +3901,9 @@
                 "longtitude": 2.945302
             }
         },
-        "visit_timestamp": "2024-04-05T17:17:46Z"
+        "visit_timestamp": "2024-04-05T17:17:46Z",
+        "driveTime": 18,
+        "distance": 0.645
     },
     {
         "rijksregisterPatient": "50151869440",
@@ -3550,7 +3922,9 @@
                 "longtitude": 5.674233
             }
         },
-        "visit_timestamp": "2024-06-07T10:17:33Z"
+        "visit_timestamp": "2024-06-07T10:17:33Z",
+        "driveTime": 27,
+        "distance": 1.31
     },
     {
         "rijksregisterPatient": "91201022209",
@@ -3569,7 +3943,9 @@
                 "longtitude": 5.405463
             }
         },
-        "visit_timestamp": "2024-09-16T15:35:10Z"
+        "visit_timestamp": "2024-09-16T15:35:10Z",
+        "driveTime": 31,
+        "distance": 3.553
     },
     {
         "rijksregisterPatient": "52613372383",
@@ -3588,7 +3964,9 @@
                 "longtitude": 5.715748
             }
         },
-        "visit_timestamp": "2024-09-14T21:38:45Z"
+        "visit_timestamp": "2024-09-14T21:38:45Z",
+        "driveTime": 7,
+        "distance": 4.301
     },
     {
         "rijksregisterPatient": "58592673071",
@@ -3607,7 +3985,9 @@
                 "longtitude": 2.958322
             }
         },
-        "visit_timestamp": "2024-08-04T13:11:18Z"
+        "visit_timestamp": "2024-08-04T13:11:18Z",
+        "driveTime": 58,
+        "distance": 4.182
     },
     {
         "rijksregisterPatient": "72504678885",
@@ -3626,7 +4006,9 @@
                 "longtitude": 5.203012
             }
         },
-        "visit_timestamp": "2024-05-09T06:18:21Z"
+        "visit_timestamp": "2024-05-09T06:18:21Z",
+        "driveTime": 23,
+        "distance": 3.524
     },
     {
         "rijksregisterPatient": "12695613258",
@@ -3645,7 +4027,9 @@
                 "longtitude": 4.8178
             }
         },
-        "visit_timestamp": "2024-12-09T12:45:03Z"
+        "visit_timestamp": "2024-12-09T12:45:03Z",
+        "driveTime": 15,
+        "distance": 3.128
     },
     {
         "rijksregisterPatient": "12777667584",
@@ -3664,7 +4048,9 @@
                 "longtitude": 5.102705
             }
         },
-        "visit_timestamp": "2024-02-18T12:59:05Z"
+        "visit_timestamp": "2024-02-18T12:59:05Z",
+        "driveTime": 6,
+        "distance": 0.796
     },
     {
         "rijksregisterPatient": "98729633892",
@@ -3683,7 +4069,9 @@
                 "longtitude": 2.544384
             }
         },
-        "visit_timestamp": "2024-11-02T22:13:31Z"
+        "visit_timestamp": "2024-11-02T22:13:31Z",
+        "driveTime": 59,
+        "distance": 1.348
     },
     {
         "rijksregisterPatient": "23599446631",
@@ -3702,7 +4090,9 @@
                 "longtitude": 2.746446
             }
         },
-        "visit_timestamp": "2024-01-19T08:45:29Z"
+        "visit_timestamp": "2024-01-19T08:45:29Z",
+        "driveTime": 40,
+        "distance": 4.94
     },
     {
         "rijksregisterPatient": "91959803624",
@@ -3721,7 +4111,9 @@
                 "longtitude": 2.896739
             }
         },
-        "visit_timestamp": "2024-08-06T09:08:14Z"
+        "visit_timestamp": "2024-08-06T09:08:14Z",
+        "driveTime": 39,
+        "distance": 4.057
     },
     {
         "rijksregisterPatient": "27064103151",
@@ -3740,7 +4132,9 @@
                 "longtitude": 2.623554
             }
         },
-        "visit_timestamp": "2024-04-09T06:10:03Z"
+        "visit_timestamp": "2024-04-09T06:10:03Z",
+        "driveTime": 8,
+        "distance": 1.026
     },
     {
         "rijksregisterPatient": "23614029440",
@@ -3759,7 +4153,9 @@
                 "longtitude": 4.477652
             }
         },
-        "visit_timestamp": "2024-05-07T15:41:12Z"
+        "visit_timestamp": "2024-05-07T15:41:12Z",
+        "driveTime": 41,
+        "distance": 2.659
     },
     {
         "rijksregisterPatient": "97880807246",
@@ -3778,7 +4174,9 @@
                 "longtitude": 4.125778
             }
         },
-        "visit_timestamp": "2024-07-23T10:08:30Z"
+        "visit_timestamp": "2024-07-23T10:08:30Z",
+        "driveTime": 5,
+        "distance": 3.078
     },
     {
         "rijksregisterPatient": "71090924930",
@@ -3797,7 +4195,9 @@
                 "longtitude": 5.535308
             }
         },
-        "visit_timestamp": "2024-05-27T13:11:35Z"
+        "visit_timestamp": "2024-05-27T13:11:35Z",
+        "driveTime": 56,
+        "distance": 3.565
     },
     {
         "rijksregisterPatient": "34610741876",
@@ -3816,7 +4216,9 @@
                 "longtitude": 4.57833
             }
         },
-        "visit_timestamp": "2024-06-18T13:33:56Z"
+        "visit_timestamp": "2024-06-18T13:33:56Z",
+        "driveTime": 32,
+        "distance": 2.569
     },
     {
         "rijksregisterPatient": "77867695307",
@@ -3835,7 +4237,9 @@
                 "longtitude": 5.574407
             }
         },
-        "visit_timestamp": "2024-11-07T20:25:09Z"
+        "visit_timestamp": "2024-11-07T20:25:09Z",
+        "driveTime": 42,
+        "distance": 2.171
     },
     {
         "rijksregisterPatient": "61285461710",
@@ -3854,7 +4258,9 @@
                 "longtitude": 3.607614
             }
         },
-        "visit_timestamp": "2024-11-17T18:02:48Z"
+        "visit_timestamp": "2024-11-17T18:02:48Z",
+        "driveTime": 15,
+        "distance": 1.418
     },
     {
         "rijksregisterPatient": "95189026438",
@@ -3873,7 +4279,9 @@
                 "longtitude": 4.029617
             }
         },
-        "visit_timestamp": "2024-07-23T12:42:12Z"
+        "visit_timestamp": "2024-07-23T12:42:12Z",
+        "driveTime": 47,
+        "distance": 3.999
     },
     {
         "rijksregisterPatient": "23449549484",
@@ -3892,7 +4300,9 @@
                 "longtitude": 4.172824
             }
         },
-        "visit_timestamp": "2024-11-29T09:59:57Z"
+        "visit_timestamp": "2024-11-29T09:59:57Z",
+        "driveTime": 11,
+        "distance": 2.12
     },
     {
         "rijksregisterPatient": "36462394754",
@@ -3911,7 +4321,9 @@
                 "longtitude": 4.803075
             }
         },
-        "visit_timestamp": "2024-11-28T12:10:24Z"
+        "visit_timestamp": "2024-11-28T12:10:24Z",
+        "driveTime": 45,
+        "distance": 0.77
     },
     {
         "rijksregisterPatient": "10892424554",
@@ -3930,7 +4342,9 @@
                 "longtitude": 5.206307
             }
         },
-        "visit_timestamp": "2024-11-12T11:23:09Z"
+        "visit_timestamp": "2024-11-12T11:23:09Z",
+        "driveTime": 14,
+        "distance": 4.718
     },
     {
         "rijksregisterPatient": "73116434971",
@@ -3949,7 +4363,9 @@
                 "longtitude": 2.682718
             }
         },
-        "visit_timestamp": "2024-06-19T10:49:00Z"
+        "visit_timestamp": "2024-06-19T10:49:00Z",
+        "driveTime": 45,
+        "distance": 1.606
     },
     {
         "rijksregisterPatient": "13359508691",
@@ -3968,7 +4384,9 @@
                 "longtitude": 5.505082
             }
         },
-        "visit_timestamp": "2024-04-23T21:54:00Z"
+        "visit_timestamp": "2024-04-23T21:54:00Z",
+        "driveTime": 31,
+        "distance": 4.413
     },
     {
         "rijksregisterPatient": "17551293840",
@@ -3987,7 +4405,9 @@
                 "longtitude": 5.454238
             }
         },
-        "visit_timestamp": "2024-09-21T07:04:13Z"
+        "visit_timestamp": "2024-09-21T07:04:13Z",
+        "driveTime": 39,
+        "distance": 2.49
     },
     {
         "rijksregisterPatient": "25156353802",
@@ -4006,7 +4426,9 @@
                 "longtitude": 5.264698
             }
         },
-        "visit_timestamp": "2024-09-20T17:25:06Z"
+        "visit_timestamp": "2024-09-20T17:25:06Z",
+        "driveTime": 43,
+        "distance": 2.903
     },
     {
         "rijksregisterPatient": "17380163665",
@@ -4025,7 +4447,9 @@
                 "longtitude": 4.912796
             }
         },
-        "visit_timestamp": "2024-06-16T20:07:19Z"
+        "visit_timestamp": "2024-06-16T20:07:19Z",
+        "driveTime": 14,
+        "distance": 2.052
     },
     {
         "rijksregisterPatient": "21476206952",
@@ -4044,7 +4468,9 @@
                 "longtitude": 3.621765
             }
         },
-        "visit_timestamp": "2024-10-19T07:09:54Z"
+        "visit_timestamp": "2024-10-19T07:09:54Z",
+        "driveTime": 60,
+        "distance": 1.955
     },
     {
         "rijksregisterPatient": "34154533023",
@@ -4063,7 +4489,9 @@
                 "longtitude": 3.94023
             }
         },
-        "visit_timestamp": "2024-07-07T19:42:45Z"
+        "visit_timestamp": "2024-07-07T19:42:45Z",
+        "driveTime": 36,
+        "distance": 0.947
     },
     {
         "rijksregisterPatient": "95731957207",
@@ -4082,7 +4510,9 @@
                 "longtitude": 3.518439
             }
         },
-        "visit_timestamp": "2024-11-25T22:29:45Z"
+        "visit_timestamp": "2024-11-25T22:29:45Z",
+        "driveTime": 17,
+        "distance": 4.134
     },
     {
         "rijksregisterPatient": "49206374813",
@@ -4101,7 +4531,9 @@
                 "longtitude": 5.76038
             }
         },
-        "visit_timestamp": "2024-03-19T14:02:04Z"
+        "visit_timestamp": "2024-03-19T14:02:04Z",
+        "driveTime": 27,
+        "distance": 4.201
     },
     {
         "rijksregisterPatient": "94742811375",
@@ -4120,7 +4552,9 @@
                 "longtitude": 2.523693
             }
         },
-        "visit_timestamp": "2024-11-02T11:09:20Z"
+        "visit_timestamp": "2024-11-02T11:09:20Z",
+        "driveTime": 34,
+        "distance": 0.722
     },
     {
         "rijksregisterPatient": "79630920564",
@@ -4139,7 +4573,9 @@
                 "longtitude": 5.879037
             }
         },
-        "visit_timestamp": "2024-01-11T21:00:39Z"
+        "visit_timestamp": "2024-01-11T21:00:39Z",
+        "driveTime": 28,
+        "distance": 2.405
     },
     {
         "rijksregisterPatient": "39725176043",
@@ -4158,7 +4594,9 @@
                 "longtitude": 4.462316
             }
         },
-        "visit_timestamp": "2024-03-29T17:59:04Z"
+        "visit_timestamp": "2024-03-29T17:59:04Z",
+        "driveTime": 52,
+        "distance": 2.239
     },
     {
         "rijksregisterPatient": "48340353220",
@@ -4177,7 +4615,9 @@
                 "longtitude": 3.850143
             }
         },
-        "visit_timestamp": "2024-03-04T07:07:04Z"
+        "visit_timestamp": "2024-03-04T07:07:04Z",
+        "driveTime": 56,
+        "distance": 4.849
     },
     {
         "rijksregisterPatient": "23833750895",
@@ -4196,7 +4636,9 @@
                 "longtitude": 2.694343
             }
         },
-        "visit_timestamp": "2024-10-29T21:25:19Z"
+        "visit_timestamp": "2024-10-29T21:25:19Z",
+        "driveTime": 29,
+        "distance": 2.294
     },
     {
         "rijksregisterPatient": "71205070543",
@@ -4215,7 +4657,9 @@
                 "longtitude": 3.91808
             }
         },
-        "visit_timestamp": "2024-03-19T16:43:01Z"
+        "visit_timestamp": "2024-03-19T16:43:01Z",
+        "driveTime": 32,
+        "distance": 0.987
     },
     {
         "rijksregisterPatient": "14340118715",
@@ -4234,7 +4678,9 @@
                 "longtitude": 2.579875
             }
         },
-        "visit_timestamp": "2024-08-12T17:30:56Z"
+        "visit_timestamp": "2024-08-12T17:30:56Z",
+        "driveTime": 38,
+        "distance": 2.374
     },
     {
         "rijksregisterPatient": "52208627585",
@@ -4253,7 +4699,9 @@
                 "longtitude": 3.6516
             }
         },
-        "visit_timestamp": "2024-08-31T22:03:19Z"
+        "visit_timestamp": "2024-08-31T22:03:19Z",
+        "driveTime": 33,
+        "distance": 2.484
     },
     {
         "rijksregisterPatient": "94418507960",
@@ -4272,7 +4720,9 @@
                 "longtitude": 5.376634
             }
         },
-        "visit_timestamp": "2024-01-18T12:31:35Z"
+        "visit_timestamp": "2024-01-18T12:31:35Z",
+        "driveTime": 16,
+        "distance": 3.446
     },
     {
         "rijksregisterPatient": "64614126235",
@@ -4291,7 +4741,9 @@
                 "longtitude": 4.088212
             }
         },
-        "visit_timestamp": "2024-06-12T13:12:05Z"
+        "visit_timestamp": "2024-06-12T13:12:05Z",
+        "driveTime": 38,
+        "distance": 2.03
     },
     {
         "rijksregisterPatient": "94090686972",
@@ -4310,7 +4762,9 @@
                 "longtitude": 3.873617
             }
         },
-        "visit_timestamp": "2024-05-05T19:23:27Z"
+        "visit_timestamp": "2024-05-05T19:23:27Z",
+        "driveTime": 57,
+        "distance": 2.106
     },
     {
         "rijksregisterPatient": "76868840905",
@@ -4329,7 +4783,9 @@
                 "longtitude": 3.574427
             }
         },
-        "visit_timestamp": "2024-04-29T20:32:50Z"
+        "visit_timestamp": "2024-04-29T20:32:50Z",
+        "driveTime": 45,
+        "distance": 3.352
     },
     {
         "rijksregisterPatient": "88242192624",
@@ -4348,7 +4804,9 @@
                 "longtitude": 5.047165
             }
         },
-        "visit_timestamp": "2024-02-26T08:35:07Z"
+        "visit_timestamp": "2024-02-26T08:35:07Z",
+        "driveTime": 22,
+        "distance": 1.669
     },
     {
         "rijksregisterPatient": "14962210775",
@@ -4367,7 +4825,9 @@
                 "longtitude": 4.037544
             }
         },
-        "visit_timestamp": "2024-09-16T13:06:29Z"
+        "visit_timestamp": "2024-09-16T13:06:29Z",
+        "driveTime": 59,
+        "distance": 3.538
     },
     {
         "rijksregisterPatient": "74622839310",
@@ -4386,7 +4846,9 @@
                 "longtitude": 2.905859
             }
         },
-        "visit_timestamp": "2024-11-22T07:36:14Z"
+        "visit_timestamp": "2024-11-22T07:36:14Z",
+        "driveTime": 28,
+        "distance": 3.203
     },
     {
         "rijksregisterPatient": "48072674033",
@@ -4405,7 +4867,9 @@
                 "longtitude": 3.594681
             }
         },
-        "visit_timestamp": "2024-01-08T18:18:18Z"
+        "visit_timestamp": "2024-01-08T18:18:18Z",
+        "driveTime": 9,
+        "distance": 4.7
     },
     {
         "rijksregisterPatient": "34392863034",
@@ -4424,7 +4888,9 @@
                 "longtitude": 4.709861
             }
         },
-        "visit_timestamp": "2024-01-06T16:00:57Z"
+        "visit_timestamp": "2024-01-06T16:00:57Z",
+        "driveTime": 34,
+        "distance": 1.914
     },
     {
         "rijksregisterPatient": "10429729204",
@@ -4443,7 +4909,9 @@
                 "longtitude": 4.685801
             }
         },
-        "visit_timestamp": "2024-03-04T11:45:20Z"
+        "visit_timestamp": "2024-03-04T11:45:20Z",
+        "driveTime": 37,
+        "distance": 1.342
     },
     {
         "rijksregisterPatient": "46395061519",
@@ -4462,7 +4930,9 @@
                 "longtitude": 5.272765
             }
         },
-        "visit_timestamp": "2024-10-29T11:03:07Z"
+        "visit_timestamp": "2024-10-29T11:03:07Z",
+        "driveTime": 17,
+        "distance": 1.205
     },
     {
         "rijksregisterPatient": "46965988185",
@@ -4481,7 +4951,9 @@
                 "longtitude": 4.271964
             }
         },
-        "visit_timestamp": "2024-03-31T22:03:15Z"
+        "visit_timestamp": "2024-03-31T22:03:15Z",
+        "driveTime": 52,
+        "distance": 4.925
     },
     {
         "rijksregisterPatient": "55853364603",
@@ -4500,7 +4972,9 @@
                 "longtitude": 2.533913
             }
         },
-        "visit_timestamp": "2024-08-19T10:37:55Z"
+        "visit_timestamp": "2024-08-19T10:37:55Z",
+        "driveTime": 55,
+        "distance": 1.002
     },
     {
         "rijksregisterPatient": "57804772471",
@@ -4519,7 +4993,9 @@
                 "longtitude": 5.241536
             }
         },
-        "visit_timestamp": "2024-11-29T22:16:18Z"
+        "visit_timestamp": "2024-11-29T22:16:18Z",
+        "driveTime": 35,
+        "distance": 4.112
     },
     {
         "rijksregisterPatient": "81227094616",
@@ -4538,7 +5014,9 @@
                 "longtitude": 3.797146
             }
         },
-        "visit_timestamp": "2024-05-29T10:31:41Z"
+        "visit_timestamp": "2024-05-29T10:31:41Z",
+        "driveTime": 47,
+        "distance": 0.527
     },
     {
         "rijksregisterPatient": "88773197120",
@@ -4557,7 +5035,9 @@
                 "longtitude": 4.444624
             }
         },
-        "visit_timestamp": "2024-08-17T14:09:27Z"
+        "visit_timestamp": "2024-08-17T14:09:27Z",
+        "driveTime": 57,
+        "distance": 4.322
     },
     {
         "rijksregisterPatient": "62036379307",
@@ -4576,7 +5056,9 @@
                 "longtitude": 5.944175
             }
         },
-        "visit_timestamp": "2024-08-09T19:21:47Z"
+        "visit_timestamp": "2024-08-09T19:21:47Z",
+        "driveTime": 10,
+        "distance": 1.14
     },
     {
         "rijksregisterPatient": "12980715397",
@@ -4595,7 +5077,9 @@
                 "longtitude": 3.518294
             }
         },
-        "visit_timestamp": "2024-11-16T06:01:24Z"
+        "visit_timestamp": "2024-11-16T06:01:24Z",
+        "driveTime": 59,
+        "distance": 4.585
     },
     {
         "rijksregisterPatient": "57502579244",
@@ -4614,7 +5098,9 @@
                 "longtitude": 4.893006
             }
         },
-        "visit_timestamp": "2024-07-21T11:32:46Z"
+        "visit_timestamp": "2024-07-21T11:32:46Z",
+        "driveTime": 24,
+        "distance": 1.427
     },
     {
         "rijksregisterPatient": "86090615158",
@@ -4633,7 +5119,9 @@
                 "longtitude": 4.15946
             }
         },
-        "visit_timestamp": "2024-03-18T10:38:21Z"
+        "visit_timestamp": "2024-03-18T10:38:21Z",
+        "driveTime": 50,
+        "distance": 0.97
     },
     {
         "rijksregisterPatient": "90967940905",
@@ -4652,7 +5140,9 @@
                 "longtitude": 4.999449
             }
         },
-        "visit_timestamp": "2024-03-03T13:34:43Z"
+        "visit_timestamp": "2024-03-03T13:34:43Z",
+        "driveTime": 49,
+        "distance": 4.71
     },
     {
         "rijksregisterPatient": "52866449643",
@@ -4671,7 +5161,9 @@
                 "longtitude": 3.945577
             }
         },
-        "visit_timestamp": "2024-09-06T21:56:22Z"
+        "visit_timestamp": "2024-09-06T21:56:22Z",
+        "driveTime": 43,
+        "distance": 2.921
     },
     {
         "rijksregisterPatient": "56085592577",
@@ -4690,7 +5182,9 @@
                 "longtitude": 3.457235
             }
         },
-        "visit_timestamp": "2024-10-22T13:18:26Z"
+        "visit_timestamp": "2024-10-22T13:18:26Z",
+        "driveTime": 14,
+        "distance": 2.688
     },
     {
         "rijksregisterPatient": "69379345333",
@@ -4709,7 +5203,9 @@
                 "longtitude": 3.102896
             }
         },
-        "visit_timestamp": "2024-06-27T21:01:03Z"
+        "visit_timestamp": "2024-06-27T21:01:03Z",
+        "driveTime": 29,
+        "distance": 0.975
     },
     {
         "rijksregisterPatient": "47973157946",
@@ -4728,7 +5224,9 @@
                 "longtitude": 5.684481
             }
         },
-        "visit_timestamp": "2024-07-16T08:59:24Z"
+        "visit_timestamp": "2024-07-16T08:59:24Z",
+        "driveTime": 14,
+        "distance": 4.042
     },
     {
         "rijksregisterPatient": "98870868373",
@@ -4747,7 +5245,9 @@
                 "longtitude": 2.963683
             }
         },
-        "visit_timestamp": "2024-06-15T12:24:06Z"
+        "visit_timestamp": "2024-06-15T12:24:06Z",
+        "driveTime": 40,
+        "distance": 2.076
     },
     {
         "rijksregisterPatient": "84676381571",
@@ -4766,7 +5266,9 @@
                 "longtitude": 5.141579
             }
         },
-        "visit_timestamp": "2024-08-14T15:18:21Z"
+        "visit_timestamp": "2024-08-14T15:18:21Z",
+        "driveTime": 55,
+        "distance": 0.732
     },
     {
         "rijksregisterPatient": "98456910708",
@@ -4785,7 +5287,9 @@
                 "longtitude": 3.832767
             }
         },
-        "visit_timestamp": "2024-08-10T13:19:46Z"
+        "visit_timestamp": "2024-08-10T13:19:46Z",
+        "driveTime": 26,
+        "distance": 2.863
     },
     {
         "rijksregisterPatient": "63224626497",
@@ -4804,7 +5308,9 @@
                 "longtitude": 3.218762
             }
         },
-        "visit_timestamp": "2024-03-04T19:11:23Z"
+        "visit_timestamp": "2024-03-04T19:11:23Z",
+        "driveTime": 12,
+        "distance": 1.024
     },
     {
         "rijksregisterPatient": "16442527010",
@@ -4823,7 +5329,9 @@
                 "longtitude": 5.361468
             }
         },
-        "visit_timestamp": "2024-08-17T21:02:28Z"
+        "visit_timestamp": "2024-08-17T21:02:28Z",
+        "driveTime": 38,
+        "distance": 3.669
     },
     {
         "rijksregisterPatient": "55154512844",
@@ -4842,7 +5350,9 @@
                 "longtitude": 3.479129
             }
         },
-        "visit_timestamp": "2024-12-25T18:04:48Z"
+        "visit_timestamp": "2024-12-25T18:04:48Z",
+        "driveTime": 52,
+        "distance": 2.665
     },
     {
         "rijksregisterPatient": "80543234908",
@@ -4861,7 +5371,9 @@
                 "longtitude": 5.322395
             }
         },
-        "visit_timestamp": "2024-05-06T18:18:45Z"
+        "visit_timestamp": "2024-05-06T18:18:45Z",
+        "driveTime": 46,
+        "distance": 1.96
     },
     {
         "rijksregisterPatient": "90754296844",
@@ -4880,7 +5392,9 @@
                 "longtitude": 2.644018
             }
         },
-        "visit_timestamp": "2024-04-30T12:18:19Z"
+        "visit_timestamp": "2024-04-30T12:18:19Z",
+        "driveTime": 33,
+        "distance": 1.853
     },
     {
         "rijksregisterPatient": "67234789138",
@@ -4899,7 +5413,9 @@
                 "longtitude": 2.566065
             }
         },
-        "visit_timestamp": "2024-03-10T20:28:42Z"
+        "visit_timestamp": "2024-03-10T20:28:42Z",
+        "driveTime": 9,
+        "distance": 2.896
     },
     {
         "rijksregisterPatient": "44875409490",
@@ -4918,7 +5434,9 @@
                 "longtitude": 4.7917
             }
         },
-        "visit_timestamp": "2024-06-29T22:16:51Z"
+        "visit_timestamp": "2024-06-29T22:16:51Z",
+        "driveTime": 11,
+        "distance": 0.892
     },
     {
         "rijksregisterPatient": "14908509564",
@@ -4937,7 +5455,9 @@
                 "longtitude": 5.37352
             }
         },
-        "visit_timestamp": "2024-03-02T14:33:43Z"
+        "visit_timestamp": "2024-03-02T14:33:43Z",
+        "driveTime": 7,
+        "distance": 1.019
     },
     {
         "rijksregisterPatient": "28765378350",
@@ -4956,7 +5476,9 @@
                 "longtitude": 3.982465
             }
         },
-        "visit_timestamp": "2024-02-03T06:14:01Z"
+        "visit_timestamp": "2024-02-03T06:14:01Z",
+        "driveTime": 39,
+        "distance": 3.017
     },
     {
         "rijksregisterPatient": "49734189596",
@@ -4975,7 +5497,9 @@
                 "longtitude": 4.251198
             }
         },
-        "visit_timestamp": "2024-11-03T06:41:52Z"
+        "visit_timestamp": "2024-11-03T06:41:52Z",
+        "driveTime": 35,
+        "distance": 0.891
     },
     {
         "rijksregisterPatient": "25742195224",
@@ -4994,7 +5518,9 @@
                 "longtitude": 2.883664
             }
         },
-        "visit_timestamp": "2024-06-17T21:20:32Z"
+        "visit_timestamp": "2024-06-17T21:20:32Z",
+        "driveTime": 22,
+        "distance": 2.378
     },
     {
         "rijksregisterPatient": "36264685963",
@@ -5013,7 +5539,9 @@
                 "longtitude": 5.719526
             }
         },
-        "visit_timestamp": "2024-07-01T07:14:52Z"
+        "visit_timestamp": "2024-07-01T07:14:52Z",
+        "driveTime": 12,
+        "distance": 0.708
     },
     {
         "rijksregisterPatient": "14271614280",
@@ -5032,7 +5560,9 @@
                 "longtitude": 3.48831
             }
         },
-        "visit_timestamp": "2024-12-03T15:09:29Z"
+        "visit_timestamp": "2024-12-03T15:09:29Z",
+        "driveTime": 17,
+        "distance": 2.647
     },
     {
         "rijksregisterPatient": "67852419154",
@@ -5051,7 +5581,9 @@
                 "longtitude": 4.93622
             }
         },
-        "visit_timestamp": "2024-12-03T17:54:50Z"
+        "visit_timestamp": "2024-12-03T17:54:50Z",
+        "driveTime": 49,
+        "distance": 3.426
     },
     {
         "rijksregisterPatient": "12028134607",
@@ -5070,7 +5602,9 @@
                 "longtitude": 3.043573
             }
         },
-        "visit_timestamp": "2024-12-05T13:49:43Z"
+        "visit_timestamp": "2024-12-05T13:49:43Z",
+        "driveTime": 60,
+        "distance": 2.895
     },
     {
         "rijksregisterPatient": "66206284385",
@@ -5089,7 +5623,9 @@
                 "longtitude": 2.881309
             }
         },
-        "visit_timestamp": "2024-08-06T08:32:32Z"
+        "visit_timestamp": "2024-08-06T08:32:32Z",
+        "driveTime": 39,
+        "distance": 3.772
     },
     {
         "rijksregisterPatient": "79610720099",
@@ -5108,7 +5644,9 @@
                 "longtitude": 4.127863
             }
         },
-        "visit_timestamp": "2024-09-01T21:17:42Z"
+        "visit_timestamp": "2024-09-01T21:17:42Z",
+        "driveTime": 45,
+        "distance": 2.307
     },
     {
         "rijksregisterPatient": "78444709080",
@@ -5127,7 +5665,9 @@
                 "longtitude": 3.170064
             }
         },
-        "visit_timestamp": "2024-01-02T17:35:51Z"
+        "visit_timestamp": "2024-01-02T17:35:51Z",
+        "driveTime": 32,
+        "distance": 2.338
     },
     {
         "rijksregisterPatient": "70166773481",
@@ -5146,7 +5686,9 @@
                 "longtitude": 5.360709
             }
         },
-        "visit_timestamp": "2024-07-14T18:46:00Z"
+        "visit_timestamp": "2024-07-14T18:46:00Z",
+        "driveTime": 52,
+        "distance": 4.288
     },
     {
         "rijksregisterPatient": "90987525909",
@@ -5165,7 +5707,9 @@
                 "longtitude": 5.627572
             }
         },
-        "visit_timestamp": "2024-04-21T21:36:48Z"
+        "visit_timestamp": "2024-04-21T21:36:48Z",
+        "driveTime": 5,
+        "distance": 1.67
     },
     {
         "rijksregisterPatient": "76243570135",
@@ -5184,7 +5728,9 @@
                 "longtitude": 3.407236
             }
         },
-        "visit_timestamp": "2024-09-14T21:39:21Z"
+        "visit_timestamp": "2024-09-14T21:39:21Z",
+        "driveTime": 20,
+        "distance": 1.832
     },
     {
         "rijksregisterPatient": "36901973996",
@@ -5203,7 +5749,9 @@
                 "longtitude": 3.197729
             }
         },
-        "visit_timestamp": "2024-07-20T11:44:59Z"
+        "visit_timestamp": "2024-07-20T11:44:59Z",
+        "driveTime": 26,
+        "distance": 1.949
     },
     {
         "rijksregisterPatient": "75509052310",
@@ -5222,7 +5770,9 @@
                 "longtitude": 2.630171
             }
         },
-        "visit_timestamp": "2024-08-09T11:31:35Z"
+        "visit_timestamp": "2024-08-09T11:31:35Z",
+        "driveTime": 27,
+        "distance": 4.608
     },
     {
         "rijksregisterPatient": "89257211286",
@@ -5241,7 +5791,9 @@
                 "longtitude": 4.294481
             }
         },
-        "visit_timestamp": "2024-09-06T14:33:10Z"
+        "visit_timestamp": "2024-09-06T14:33:10Z",
+        "driveTime": 38,
+        "distance": 1.615
     },
     {
         "rijksregisterPatient": "90484439466",
@@ -5260,7 +5812,9 @@
                 "longtitude": 3.580845
             }
         },
-        "visit_timestamp": "2024-09-22T12:29:28Z"
+        "visit_timestamp": "2024-09-22T12:29:28Z",
+        "driveTime": 58,
+        "distance": 1.77
     },
     {
         "rijksregisterPatient": "35532478613",
@@ -5279,7 +5833,9 @@
                 "longtitude": 2.500158
             }
         },
-        "visit_timestamp": "2024-07-15T16:38:18Z"
+        "visit_timestamp": "2024-07-15T16:38:18Z",
+        "driveTime": 19,
+        "distance": 4.634
     },
     {
         "rijksregisterPatient": "53692272904",
@@ -5298,7 +5854,9 @@
                 "longtitude": 3.855668
             }
         },
-        "visit_timestamp": "2024-10-21T06:07:50Z"
+        "visit_timestamp": "2024-10-21T06:07:50Z",
+        "driveTime": 35,
+        "distance": 2.5
     },
     {
         "rijksregisterPatient": "54634171293",
@@ -5317,7 +5875,9 @@
                 "longtitude": 4.088149
             }
         },
-        "visit_timestamp": "2024-05-05T22:35:21Z"
+        "visit_timestamp": "2024-05-05T22:35:21Z",
+        "driveTime": 34,
+        "distance": 0.811
     },
     {
         "rijksregisterPatient": "93145149872",
@@ -5336,7 +5896,9 @@
                 "longtitude": 5.326386
             }
         },
-        "visit_timestamp": "2024-11-07T07:22:04Z"
+        "visit_timestamp": "2024-11-07T07:22:04Z",
+        "driveTime": 46,
+        "distance": 1.981
     },
     {
         "rijksregisterPatient": "23832172071",
@@ -5355,7 +5917,9 @@
                 "longtitude": 3.815308
             }
         },
-        "visit_timestamp": "2024-07-17T14:13:48Z"
+        "visit_timestamp": "2024-07-17T14:13:48Z",
+        "driveTime": 46,
+        "distance": 0.597
     },
     {
         "rijksregisterPatient": "98354184642",
@@ -5374,7 +5938,9 @@
                 "longtitude": 2.905617
             }
         },
-        "visit_timestamp": "2024-09-17T06:16:47Z"
+        "visit_timestamp": "2024-09-17T06:16:47Z",
+        "driveTime": 37,
+        "distance": 1.169
     },
     {
         "rijksregisterPatient": "75503140723",
@@ -5393,7 +5959,9 @@
                 "longtitude": 2.813006
             }
         },
-        "visit_timestamp": "2024-10-09T06:13:59Z"
+        "visit_timestamp": "2024-10-09T06:13:59Z",
+        "driveTime": 29,
+        "distance": 4.272
     },
     {
         "rijksregisterPatient": "11983991987",
@@ -5412,7 +5980,9 @@
                 "longtitude": 4.254842
             }
         },
-        "visit_timestamp": "2024-08-04T17:59:46Z"
+        "visit_timestamp": "2024-08-04T17:59:46Z",
+        "driveTime": 53,
+        "distance": 2.074
     },
     {
         "rijksregisterPatient": "29268418385",
@@ -5431,7 +6001,9 @@
                 "longtitude": 4.747923
             }
         },
-        "visit_timestamp": "2024-08-15T18:10:28Z"
+        "visit_timestamp": "2024-08-15T18:10:28Z",
+        "driveTime": 8,
+        "distance": 1.066
     },
     {
         "rijksregisterPatient": "97525050662",
@@ -5450,7 +6022,9 @@
                 "longtitude": 2.829942
             }
         },
-        "visit_timestamp": "2024-10-13T15:04:33Z"
+        "visit_timestamp": "2024-10-13T15:04:33Z",
+        "driveTime": 11,
+        "distance": 1.172
     },
     {
         "rijksregisterPatient": "27085956730",
@@ -5469,7 +6043,9 @@
                 "longtitude": 2.776155
             }
         },
-        "visit_timestamp": "2024-02-08T14:27:11Z"
+        "visit_timestamp": "2024-02-08T14:27:11Z",
+        "driveTime": 56,
+        "distance": 3.037
     },
     {
         "rijksregisterPatient": "34971206585",
@@ -5488,7 +6064,9 @@
                 "longtitude": 3.425471
             }
         },
-        "visit_timestamp": "2024-12-13T06:28:07Z"
+        "visit_timestamp": "2024-12-13T06:28:07Z",
+        "driveTime": 16,
+        "distance": 2.404
     },
     {
         "rijksregisterPatient": "19972011771",
@@ -5507,7 +6085,9 @@
                 "longtitude": 4.534642
             }
         },
-        "visit_timestamp": "2024-10-02T09:46:17Z"
+        "visit_timestamp": "2024-10-02T09:46:17Z",
+        "driveTime": 21,
+        "distance": 4.894
     },
     {
         "rijksregisterPatient": "38685586985",
@@ -5526,7 +6106,9 @@
                 "longtitude": 4.68468
             }
         },
-        "visit_timestamp": "2024-07-15T13:17:58Z"
+        "visit_timestamp": "2024-07-15T13:17:58Z",
+        "driveTime": 41,
+        "distance": 3.215
     },
     {
         "rijksregisterPatient": "72809661803",
@@ -5545,7 +6127,9 @@
                 "longtitude": 5.193754
             }
         },
-        "visit_timestamp": "2024-09-06T08:37:09Z"
+        "visit_timestamp": "2024-09-06T08:37:09Z",
+        "driveTime": 41,
+        "distance": 3.576
     },
     {
         "rijksregisterPatient": "26789575380",
@@ -5564,7 +6148,9 @@
                 "longtitude": 3.703894
             }
         },
-        "visit_timestamp": "2024-08-12T13:48:49Z"
+        "visit_timestamp": "2024-08-12T13:48:49Z",
+        "driveTime": 11,
+        "distance": 0.716
     },
     {
         "rijksregisterPatient": "81385949655",
@@ -5583,7 +6169,9 @@
                 "longtitude": 4.239683
             }
         },
-        "visit_timestamp": "2024-03-08T13:31:49Z"
+        "visit_timestamp": "2024-03-08T13:31:49Z",
+        "driveTime": 21,
+        "distance": 4.97
     },
     {
         "rijksregisterPatient": "81783684764",
@@ -5602,7 +6190,9 @@
                 "longtitude": 3.701421
             }
         },
-        "visit_timestamp": "2024-02-25T16:25:08Z"
+        "visit_timestamp": "2024-02-25T16:25:08Z",
+        "driveTime": 49,
+        "distance": 3.678
     },
     {
         "rijksregisterPatient": "32859095298",
@@ -5621,7 +6211,9 @@
                 "longtitude": 4.327637
             }
         },
-        "visit_timestamp": "2024-04-27T16:37:01Z"
+        "visit_timestamp": "2024-04-27T16:37:01Z",
+        "driveTime": 12,
+        "distance": 4.048
     },
     {
         "rijksregisterPatient": "95631964987",
@@ -5640,7 +6232,9 @@
                 "longtitude": 3.205246
             }
         },
-        "visit_timestamp": "2024-06-22T22:59:29Z"
+        "visit_timestamp": "2024-06-22T22:59:29Z",
+        "driveTime": 39,
+        "distance": 4.921
     },
     {
         "rijksregisterPatient": "44962369603",
@@ -5659,7 +6253,9 @@
                 "longtitude": 3.243983
             }
         },
-        "visit_timestamp": "2024-12-25T12:35:44Z"
+        "visit_timestamp": "2024-12-25T12:35:44Z",
+        "driveTime": 16,
+        "distance": 4.545
     },
     {
         "rijksregisterPatient": "69616251480",
@@ -5678,7 +6274,9 @@
                 "longtitude": 5.031673
             }
         },
-        "visit_timestamp": "2024-02-15T20:21:31Z"
+        "visit_timestamp": "2024-02-15T20:21:31Z",
+        "driveTime": 39,
+        "distance": 3.864
     },
     {
         "rijksregisterPatient": "39055325076",
@@ -5697,7 +6295,9 @@
                 "longtitude": 2.697976
             }
         },
-        "visit_timestamp": "2024-07-12T18:05:45Z"
+        "visit_timestamp": "2024-07-12T18:05:45Z",
+        "driveTime": 29,
+        "distance": 3.809
     },
     {
         "rijksregisterPatient": "87174982029",
@@ -5716,7 +6316,9 @@
                 "longtitude": 4.082754
             }
         },
-        "visit_timestamp": "2024-02-15T06:26:29Z"
+        "visit_timestamp": "2024-02-15T06:26:29Z",
+        "driveTime": 32,
+        "distance": 3.208
     },
     {
         "rijksregisterPatient": "81728058652",
@@ -5735,7 +6337,9 @@
                 "longtitude": 5.962451
             }
         },
-        "visit_timestamp": "2024-07-17T11:57:09Z"
+        "visit_timestamp": "2024-07-17T11:57:09Z",
+        "driveTime": 54,
+        "distance": 1.48
     },
     {
         "rijksregisterPatient": "96487663702",
@@ -5754,7 +6358,9 @@
                 "longtitude": 4.630927
             }
         },
-        "visit_timestamp": "2024-09-11T16:59:06Z"
+        "visit_timestamp": "2024-09-11T16:59:06Z",
+        "driveTime": 33,
+        "distance": 0.906
     },
     {
         "rijksregisterPatient": "80446768258",
@@ -5773,7 +6379,9 @@
                 "longtitude": 4.47651
             }
         },
-        "visit_timestamp": "2024-04-18T12:55:39Z"
+        "visit_timestamp": "2024-04-18T12:55:39Z",
+        "driveTime": 42,
+        "distance": 4.455
     },
     {
         "rijksregisterPatient": "37968624911",
@@ -5792,7 +6400,9 @@
                 "longtitude": 3.305083
             }
         },
-        "visit_timestamp": "2024-02-29T08:54:37Z"
+        "visit_timestamp": "2024-02-29T08:54:37Z",
+        "driveTime": 60,
+        "distance": 1.028
     },
     {
         "rijksregisterPatient": "37062692869",
@@ -5811,7 +6421,9 @@
                 "longtitude": 4.226884
             }
         },
-        "visit_timestamp": "2024-06-17T17:15:05Z"
+        "visit_timestamp": "2024-06-17T17:15:05Z",
+        "driveTime": 49,
+        "distance": 3.749
     },
     {
         "rijksregisterPatient": "42280994205",
@@ -5830,7 +6442,9 @@
                 "longtitude": 5.667973
             }
         },
-        "visit_timestamp": "2024-03-03T20:19:59Z"
+        "visit_timestamp": "2024-03-03T20:19:59Z",
+        "driveTime": 31,
+        "distance": 4.582
     },
     {
         "rijksregisterPatient": "18190179815",
@@ -5849,7 +6463,9 @@
                 "longtitude": 5.899819
             }
         },
-        "visit_timestamp": "2024-10-06T08:04:54Z"
+        "visit_timestamp": "2024-10-06T08:04:54Z",
+        "driveTime": 47,
+        "distance": 1.155
     },
     {
         "rijksregisterPatient": "49075529944",
@@ -5868,7 +6484,9 @@
                 "longtitude": 3.565799
             }
         },
-        "visit_timestamp": "2024-03-06T22:47:35Z"
+        "visit_timestamp": "2024-03-06T22:47:35Z",
+        "driveTime": 56,
+        "distance": 4.456
     },
     {
         "rijksregisterPatient": "30052485572",
@@ -5887,7 +6505,9 @@
                 "longtitude": 4.080599
             }
         },
-        "visit_timestamp": "2024-06-16T21:13:44Z"
+        "visit_timestamp": "2024-06-16T21:13:44Z",
+        "driveTime": 59,
+        "distance": 2.247
     },
     {
         "rijksregisterPatient": "88774204158",
@@ -5906,7 +6526,9 @@
                 "longtitude": 2.601428
             }
         },
-        "visit_timestamp": "2024-04-17T08:10:35Z"
+        "visit_timestamp": "2024-04-17T08:10:35Z",
+        "driveTime": 27,
+        "distance": 1.102
     },
     {
         "rijksregisterPatient": "39729408358",
@@ -5925,7 +6547,9 @@
                 "longtitude": 4.209445
             }
         },
-        "visit_timestamp": "2024-11-25T11:11:09Z"
+        "visit_timestamp": "2024-11-25T11:11:09Z",
+        "driveTime": 49,
+        "distance": 3.137
     },
     {
         "rijksregisterPatient": "86994900785",
@@ -5944,7 +6568,9 @@
                 "longtitude": 5.694656
             }
         },
-        "visit_timestamp": "2024-06-16T19:25:06Z"
+        "visit_timestamp": "2024-06-16T19:25:06Z",
+        "driveTime": 44,
+        "distance": 4.872
     },
     {
         "rijksregisterPatient": "10171918673",
@@ -5963,7 +6589,9 @@
                 "longtitude": 4.733263
             }
         },
-        "visit_timestamp": "2024-03-31T09:14:25Z"
+        "visit_timestamp": "2024-03-31T09:14:25Z",
+        "driveTime": 59,
+        "distance": 4.153
     },
     {
         "rijksregisterPatient": "69303591863",
@@ -5982,7 +6610,9 @@
                 "longtitude": 3.042407
             }
         },
-        "visit_timestamp": "2024-08-11T07:52:36Z"
+        "visit_timestamp": "2024-08-11T07:52:36Z",
+        "driveTime": 38,
+        "distance": 3.686
     },
     {
         "rijksregisterPatient": "72006257883",
@@ -6001,7 +6631,9 @@
                 "longtitude": 3.664504
             }
         },
-        "visit_timestamp": "2024-07-09T09:55:33Z"
+        "visit_timestamp": "2024-07-09T09:55:33Z",
+        "driveTime": 58,
+        "distance": 1.753
     },
     {
         "rijksregisterPatient": "88679428731",
@@ -6020,7 +6652,9 @@
                 "longtitude": 5.464496
             }
         },
-        "visit_timestamp": "2024-11-28T19:21:23Z"
+        "visit_timestamp": "2024-11-28T19:21:23Z",
+        "driveTime": 58,
+        "distance": 4.091
     },
     {
         "rijksregisterPatient": "55316066096",
@@ -6039,7 +6673,9 @@
                 "longtitude": 4.235333
             }
         },
-        "visit_timestamp": "2024-04-08T21:25:29Z"
+        "visit_timestamp": "2024-04-08T21:25:29Z",
+        "driveTime": 6,
+        "distance": 1.371
     },
     {
         "rijksregisterPatient": "96693820528",
@@ -6058,7 +6694,9 @@
                 "longtitude": 3.261392
             }
         },
-        "visit_timestamp": "2024-08-03T08:23:57Z"
+        "visit_timestamp": "2024-08-03T08:23:57Z",
+        "driveTime": 52,
+        "distance": 2.984
     },
     {
         "rijksregisterPatient": "71905048737",
@@ -6077,7 +6715,9 @@
                 "longtitude": 5.244895
             }
         },
-        "visit_timestamp": "2024-05-08T21:19:06Z"
+        "visit_timestamp": "2024-05-08T21:19:06Z",
+        "driveTime": 32,
+        "distance": 3.829
     },
     {
         "rijksregisterPatient": "43891055827",
@@ -6096,7 +6736,9 @@
                 "longtitude": 4.895472
             }
         },
-        "visit_timestamp": "2024-02-20T19:03:08Z"
+        "visit_timestamp": "2024-02-20T19:03:08Z",
+        "driveTime": 50,
+        "distance": 1.9
     },
     {
         "rijksregisterPatient": "79194845110",
@@ -6115,7 +6757,9 @@
                 "longtitude": 5.895771
             }
         },
-        "visit_timestamp": "2024-12-20T14:29:39Z"
+        "visit_timestamp": "2024-12-20T14:29:39Z",
+        "driveTime": 36,
+        "distance": 2.018
     },
     {
         "rijksregisterPatient": "80639788083",
@@ -6134,7 +6778,9 @@
                 "longtitude": 3.550612
             }
         },
-        "visit_timestamp": "2024-03-16T06:05:50Z"
+        "visit_timestamp": "2024-03-16T06:05:50Z",
+        "driveTime": 26,
+        "distance": 4.605
     },
     {
         "rijksregisterPatient": "87428715787",
@@ -6153,7 +6799,9 @@
                 "longtitude": 2.889309
             }
         },
-        "visit_timestamp": "2024-05-17T13:40:44Z"
+        "visit_timestamp": "2024-05-17T13:40:44Z",
+        "driveTime": 43,
+        "distance": 1.776
     },
     {
         "rijksregisterPatient": "31147679556",
@@ -6172,7 +6820,9 @@
                 "longtitude": 3.796813
             }
         },
-        "visit_timestamp": "2024-02-06T20:53:19Z"
+        "visit_timestamp": "2024-02-06T20:53:19Z",
+        "driveTime": 17,
+        "distance": 3.875
     },
     {
         "rijksregisterPatient": "36312022269",
@@ -6191,7 +6841,9 @@
                 "longtitude": 5.515601
             }
         },
-        "visit_timestamp": "2024-06-20T19:57:14Z"
+        "visit_timestamp": "2024-06-20T19:57:14Z",
+        "driveTime": 43,
+        "distance": 2.187
     },
     {
         "rijksregisterPatient": "83917021993",
@@ -6210,7 +6862,9 @@
                 "longtitude": 3.572733
             }
         },
-        "visit_timestamp": "2024-09-28T10:44:47Z"
+        "visit_timestamp": "2024-09-28T10:44:47Z",
+        "driveTime": 13,
+        "distance": 3.566
     },
     {
         "rijksregisterPatient": "13058608887",
@@ -6229,7 +6883,9 @@
                 "longtitude": 5.251981
             }
         },
-        "visit_timestamp": "2024-05-21T20:46:55Z"
+        "visit_timestamp": "2024-05-21T20:46:55Z",
+        "driveTime": 39,
+        "distance": 2.021
     },
     {
         "rijksregisterPatient": "14327088869",
@@ -6248,7 +6904,9 @@
                 "longtitude": 4.321194
             }
         },
-        "visit_timestamp": "2024-01-28T22:33:42Z"
+        "visit_timestamp": "2024-01-28T22:33:42Z",
+        "driveTime": 9,
+        "distance": 1.502
     },
     {
         "rijksregisterPatient": "21645336714",
@@ -6267,7 +6925,9 @@
                 "longtitude": 4.565922
             }
         },
-        "visit_timestamp": "2024-05-21T21:35:52Z"
+        "visit_timestamp": "2024-05-21T21:35:52Z",
+        "driveTime": 32,
+        "distance": 0.793
     },
     {
         "rijksregisterPatient": "53384508780",
@@ -6286,7 +6946,9 @@
                 "longtitude": 5.941593
             }
         },
-        "visit_timestamp": "2024-01-04T09:13:17Z"
+        "visit_timestamp": "2024-01-04T09:13:17Z",
+        "driveTime": 24,
+        "distance": 2.023
     },
     {
         "rijksregisterPatient": "86588644049",
@@ -6305,7 +6967,9 @@
                 "longtitude": 4.815291
             }
         },
-        "visit_timestamp": "2024-08-28T22:29:24Z"
+        "visit_timestamp": "2024-08-28T22:29:24Z",
+        "driveTime": 29,
+        "distance": 2.123
     },
     {
         "rijksregisterPatient": "21452622987",
@@ -6324,7 +6988,9 @@
                 "longtitude": 3.452182
             }
         },
-        "visit_timestamp": "2024-08-26T15:34:03Z"
+        "visit_timestamp": "2024-08-26T15:34:03Z",
+        "driveTime": 47,
+        "distance": 0.828
     },
     {
         "rijksregisterPatient": "11158405248",
@@ -6343,7 +7009,9 @@
                 "longtitude": 3.293726
             }
         },
-        "visit_timestamp": "2024-04-25T13:59:39Z"
+        "visit_timestamp": "2024-04-25T13:59:39Z",
+        "driveTime": 31,
+        "distance": 1.751
     },
     {
         "rijksregisterPatient": "54723799668",
@@ -6362,7 +7030,9 @@
                 "longtitude": 4.917081
             }
         },
-        "visit_timestamp": "2024-08-18T18:56:42Z"
+        "visit_timestamp": "2024-08-18T18:56:42Z",
+        "driveTime": 26,
+        "distance": 4.43
     },
     {
         "rijksregisterPatient": "75237053076",
@@ -6381,7 +7051,9 @@
                 "longtitude": 4.546614
             }
         },
-        "visit_timestamp": "2024-05-20T17:51:02Z"
+        "visit_timestamp": "2024-05-20T17:51:02Z",
+        "driveTime": 36,
+        "distance": 2.451
     },
     {
         "rijksregisterPatient": "41891659521",
@@ -6400,7 +7072,9 @@
                 "longtitude": 5.100953
             }
         },
-        "visit_timestamp": "2024-05-12T18:53:35Z"
+        "visit_timestamp": "2024-05-12T18:53:35Z",
+        "driveTime": 13,
+        "distance": 1.397
     },
     {
         "rijksregisterPatient": "87109170467",
@@ -6419,7 +7093,9 @@
                 "longtitude": 5.927671
             }
         },
-        "visit_timestamp": "2024-06-14T15:43:18Z"
+        "visit_timestamp": "2024-06-14T15:43:18Z",
+        "driveTime": 12,
+        "distance": 3.895
     },
     {
         "rijksregisterPatient": "44438576144",
@@ -6438,7 +7114,9 @@
                 "longtitude": 3.356293
             }
         },
-        "visit_timestamp": "2024-11-10T17:43:01Z"
+        "visit_timestamp": "2024-11-10T17:43:01Z",
+        "driveTime": 51,
+        "distance": 4.307
     },
     {
         "rijksregisterPatient": "27572255877",
@@ -6457,7 +7135,9 @@
                 "longtitude": 2.805722
             }
         },
-        "visit_timestamp": "2024-07-18T13:24:10Z"
+        "visit_timestamp": "2024-07-18T13:24:10Z",
+        "driveTime": 55,
+        "distance": 4.182
     },
     {
         "rijksregisterPatient": "59638103929",
@@ -6476,7 +7156,9 @@
                 "longtitude": 3.432666
             }
         },
-        "visit_timestamp": "2024-04-29T13:25:31Z"
+        "visit_timestamp": "2024-04-29T13:25:31Z",
+        "driveTime": 13,
+        "distance": 1.869
     },
     {
         "rijksregisterPatient": "13117286594",
@@ -6495,7 +7177,9 @@
                 "longtitude": 4.467378
             }
         },
-        "visit_timestamp": "2024-11-25T08:13:57Z"
+        "visit_timestamp": "2024-11-25T08:13:57Z",
+        "driveTime": 31,
+        "distance": 2.957
     },
     {
         "rijksregisterPatient": "75061699706",
@@ -6514,7 +7198,9 @@
                 "longtitude": 5.446736
             }
         },
-        "visit_timestamp": "2024-01-26T06:54:02Z"
+        "visit_timestamp": "2024-01-26T06:54:02Z",
+        "driveTime": 27,
+        "distance": 0.699
     },
     {
         "rijksregisterPatient": "96541970549",
@@ -6533,7 +7219,9 @@
                 "longtitude": 2.801477
             }
         },
-        "visit_timestamp": "2024-06-23T22:01:08Z"
+        "visit_timestamp": "2024-06-23T22:01:08Z",
+        "driveTime": 7,
+        "distance": 1.578
     },
     {
         "rijksregisterPatient": "99172536069",
@@ -6552,7 +7240,9 @@
                 "longtitude": 4.790466
             }
         },
-        "visit_timestamp": "2024-12-18T08:53:11Z"
+        "visit_timestamp": "2024-12-18T08:53:11Z",
+        "driveTime": 24,
+        "distance": 1.424
     },
     {
         "rijksregisterPatient": "65152375272",
@@ -6571,7 +7261,9 @@
                 "longtitude": 5.175323
             }
         },
-        "visit_timestamp": "2024-08-17T12:37:54Z"
+        "visit_timestamp": "2024-08-17T12:37:54Z",
+        "driveTime": 55,
+        "distance": 3.94
     },
     {
         "rijksregisterPatient": "54718871936",
@@ -6590,7 +7282,9 @@
                 "longtitude": 2.839853
             }
         },
-        "visit_timestamp": "2024-07-25T22:39:34Z"
+        "visit_timestamp": "2024-07-25T22:39:34Z",
+        "driveTime": 45,
+        "distance": 4.438
     },
     {
         "rijksregisterPatient": "71227537821",
@@ -6609,7 +7303,9 @@
                 "longtitude": 4.188191
             }
         },
-        "visit_timestamp": "2024-07-27T10:27:21Z"
+        "visit_timestamp": "2024-07-27T10:27:21Z",
+        "driveTime": 58,
+        "distance": 4.778
     },
     {
         "rijksregisterPatient": "27184815387",
@@ -6628,7 +7324,9 @@
                 "longtitude": 2.556934
             }
         },
-        "visit_timestamp": "2024-06-26T20:10:15Z"
+        "visit_timestamp": "2024-06-26T20:10:15Z",
+        "driveTime": 54,
+        "distance": 3.985
     },
     {
         "rijksregisterPatient": "74902556392",
@@ -6647,7 +7345,9 @@
                 "longtitude": 3.351108
             }
         },
-        "visit_timestamp": "2024-07-23T06:47:56Z"
+        "visit_timestamp": "2024-07-23T06:47:56Z",
+        "driveTime": 14,
+        "distance": 1.238
     },
     {
         "rijksregisterPatient": "62463058279",
@@ -6666,7 +7366,9 @@
                 "longtitude": 4.047732
             }
         },
-        "visit_timestamp": "2024-02-06T06:16:00Z"
+        "visit_timestamp": "2024-02-06T06:16:00Z",
+        "driveTime": 46,
+        "distance": 4.572
     },
     {
         "rijksregisterPatient": "16604120069",
@@ -6685,7 +7387,9 @@
                 "longtitude": 5.906322
             }
         },
-        "visit_timestamp": "2024-07-06T09:07:25Z"
+        "visit_timestamp": "2024-07-06T09:07:25Z",
+        "driveTime": 59,
+        "distance": 4.92
     },
     {
         "rijksregisterPatient": "82016579439",
@@ -6704,7 +7408,9 @@
                 "longtitude": 4.913894
             }
         },
-        "visit_timestamp": "2024-08-18T19:26:06Z"
+        "visit_timestamp": "2024-08-18T19:26:06Z",
+        "driveTime": 40,
+        "distance": 3.651
     },
     {
         "rijksregisterPatient": "86879302331",
@@ -6723,7 +7429,9 @@
                 "longtitude": 3.747894
             }
         },
-        "visit_timestamp": "2024-10-05T12:34:03Z"
+        "visit_timestamp": "2024-10-05T12:34:03Z",
+        "driveTime": 18,
+        "distance": 2.87
     },
     {
         "rijksregisterPatient": "68884224264",
@@ -6742,7 +7450,9 @@
                 "longtitude": 5.229738
             }
         },
-        "visit_timestamp": "2024-06-02T18:49:32Z"
+        "visit_timestamp": "2024-06-02T18:49:32Z",
+        "driveTime": 17,
+        "distance": 1.067
     },
     {
         "rijksregisterPatient": "73735914610",
@@ -6761,7 +7471,9 @@
                 "longtitude": 3.429916
             }
         },
-        "visit_timestamp": "2024-08-20T19:56:00Z"
+        "visit_timestamp": "2024-08-20T19:56:00Z",
+        "driveTime": 47,
+        "distance": 4.242
     },
     {
         "rijksregisterPatient": "57456621013",
@@ -6780,7 +7492,9 @@
                 "longtitude": 4.495397
             }
         },
-        "visit_timestamp": "2024-06-08T20:14:37Z"
+        "visit_timestamp": "2024-06-08T20:14:37Z",
+        "driveTime": 15,
+        "distance": 3.812
     },
     {
         "rijksregisterPatient": "96966018047",
@@ -6799,7 +7513,9 @@
                 "longtitude": 4.700631
             }
         },
-        "visit_timestamp": "2024-03-11T21:17:39Z"
+        "visit_timestamp": "2024-03-11T21:17:39Z",
+        "driveTime": 13,
+        "distance": 3.637
     },
     {
         "rijksregisterPatient": "76239111875",
@@ -6818,7 +7534,9 @@
                 "longtitude": 5.213509
             }
         },
-        "visit_timestamp": "2024-03-11T13:02:38Z"
+        "visit_timestamp": "2024-03-11T13:02:38Z",
+        "driveTime": 15,
+        "distance": 0.919
     },
     {
         "rijksregisterPatient": "27559058993",
@@ -6837,7 +7555,9 @@
                 "longtitude": 4.371876
             }
         },
-        "visit_timestamp": "2024-05-17T19:31:04Z"
+        "visit_timestamp": "2024-05-17T19:31:04Z",
+        "driveTime": 33,
+        "distance": 2.413
     },
     {
         "rijksregisterPatient": "94540776380",
@@ -6856,7 +7576,9 @@
                 "longtitude": 4.034624
             }
         },
-        "visit_timestamp": "2024-04-29T13:03:09Z"
+        "visit_timestamp": "2024-04-29T13:03:09Z",
+        "driveTime": 31,
+        "distance": 1.436
     },
     {
         "rijksregisterPatient": "61678298990",
@@ -6875,7 +7597,9 @@
                 "longtitude": 5.305004
             }
         },
-        "visit_timestamp": "2024-03-25T17:01:53Z"
+        "visit_timestamp": "2024-03-25T17:01:53Z",
+        "driveTime": 36,
+        "distance": 3.715
     },
     {
         "rijksregisterPatient": "63026202554",
@@ -6894,7 +7618,9 @@
                 "longtitude": 5.885693
             }
         },
-        "visit_timestamp": "2024-06-02T18:53:40Z"
+        "visit_timestamp": "2024-06-02T18:53:40Z",
+        "driveTime": 52,
+        "distance": 0.737
     },
     {
         "rijksregisterPatient": "13023174354",
@@ -6913,7 +7639,9 @@
                 "longtitude": 5.514546
             }
         },
-        "visit_timestamp": "2024-11-25T06:05:57Z"
+        "visit_timestamp": "2024-11-25T06:05:57Z",
+        "driveTime": 49,
+        "distance": 1.416
     },
     {
         "rijksregisterPatient": "91518669872",
@@ -6932,7 +7660,9 @@
                 "longtitude": 5.078163
             }
         },
-        "visit_timestamp": "2024-06-14T15:38:57Z"
+        "visit_timestamp": "2024-06-14T15:38:57Z",
+        "driveTime": 58,
+        "distance": 4.631
     },
     {
         "rijksregisterPatient": "42260753898",
@@ -6951,7 +7681,9 @@
                 "longtitude": 5.429146
             }
         },
-        "visit_timestamp": "2024-10-20T20:43:54Z"
+        "visit_timestamp": "2024-10-20T20:43:54Z",
+        "driveTime": 33,
+        "distance": 1.496
     },
     {
         "rijksregisterPatient": "41440238788",
@@ -6970,7 +7702,9 @@
                 "longtitude": 4.507417
             }
         },
-        "visit_timestamp": "2024-06-29T08:11:36Z"
+        "visit_timestamp": "2024-06-29T08:11:36Z",
+        "driveTime": 18,
+        "distance": 4.651
     },
     {
         "rijksregisterPatient": "59017515544",
@@ -6989,7 +7723,9 @@
                 "longtitude": 3.226155
             }
         },
-        "visit_timestamp": "2024-12-13T22:16:27Z"
+        "visit_timestamp": "2024-12-13T22:16:27Z",
+        "driveTime": 42,
+        "distance": 4.512
     },
     {
         "rijksregisterPatient": "43802812624",
@@ -7008,7 +7744,9 @@
                 "longtitude": 4.166922
             }
         },
-        "visit_timestamp": "2024-04-17T09:34:50Z"
+        "visit_timestamp": "2024-04-17T09:34:50Z",
+        "driveTime": 31,
+        "distance": 2.32
     },
     {
         "rijksregisterPatient": "47769399470",
@@ -7027,7 +7765,9 @@
                 "longtitude": 5.352066
             }
         },
-        "visit_timestamp": "2024-07-30T14:30:58Z"
+        "visit_timestamp": "2024-07-30T14:30:58Z",
+        "driveTime": 56,
+        "distance": 1.876
     },
     {
         "rijksregisterPatient": "30542792349",
@@ -7046,7 +7786,9 @@
                 "longtitude": 2.98741
             }
         },
-        "visit_timestamp": "2024-11-03T21:59:43Z"
+        "visit_timestamp": "2024-11-03T21:59:43Z",
+        "driveTime": 46,
+        "distance": 1.125
     },
     {
         "rijksregisterPatient": "63462304540",
@@ -7065,7 +7807,9 @@
                 "longtitude": 2.683133
             }
         },
-        "visit_timestamp": "2024-06-16T15:16:11Z"
+        "visit_timestamp": "2024-06-16T15:16:11Z",
+        "driveTime": 22,
+        "distance": 4.984
     },
     {
         "rijksregisterPatient": "27698127671",
@@ -7084,7 +7828,9 @@
                 "longtitude": 4.599553
             }
         },
-        "visit_timestamp": "2024-12-27T19:40:21Z"
+        "visit_timestamp": "2024-12-27T19:40:21Z",
+        "driveTime": 50,
+        "distance": 2.922
     },
     {
         "rijksregisterPatient": "27326732883",
@@ -7103,7 +7849,9 @@
                 "longtitude": 2.991808
             }
         },
-        "visit_timestamp": "2024-02-05T10:40:37Z"
+        "visit_timestamp": "2024-02-05T10:40:37Z",
+        "driveTime": 25,
+        "distance": 2.426
     },
     {
         "rijksregisterPatient": "27891717274",
@@ -7122,7 +7870,9 @@
                 "longtitude": 5.778273
             }
         },
-        "visit_timestamp": "2024-10-23T19:26:16Z"
+        "visit_timestamp": "2024-10-23T19:26:16Z",
+        "driveTime": 45,
+        "distance": 1.277
     },
     {
         "rijksregisterPatient": "36891613784",
@@ -7141,7 +7891,9 @@
                 "longtitude": 2.693134
             }
         },
-        "visit_timestamp": "2024-02-17T11:45:39Z"
+        "visit_timestamp": "2024-02-17T11:45:39Z",
+        "driveTime": 49,
+        "distance": 3.03
     },
     {
         "rijksregisterPatient": "10840474640",
@@ -7160,7 +7912,9 @@
                 "longtitude": 4.076496
             }
         },
-        "visit_timestamp": "2024-08-04T15:25:26Z"
+        "visit_timestamp": "2024-08-04T15:25:26Z",
+        "driveTime": 11,
+        "distance": 4.354
     },
     {
         "rijksregisterPatient": "38229014012",
@@ -7179,7 +7933,9 @@
                 "longtitude": 2.94355
             }
         },
-        "visit_timestamp": "2024-11-17T21:54:02Z"
+        "visit_timestamp": "2024-11-17T21:54:02Z",
+        "driveTime": 26,
+        "distance": 2.901
     },
     {
         "rijksregisterPatient": "65238086662",
@@ -7198,7 +7954,9 @@
                 "longtitude": 3.318157
             }
         },
-        "visit_timestamp": "2024-07-16T08:34:19Z"
+        "visit_timestamp": "2024-07-16T08:34:19Z",
+        "driveTime": 39,
+        "distance": 0.531
     },
     {
         "rijksregisterPatient": "98904540296",
@@ -7217,7 +7975,9 @@
                 "longtitude": 5.059667
             }
         },
-        "visit_timestamp": "2024-05-08T07:55:07Z"
+        "visit_timestamp": "2024-05-08T07:55:07Z",
+        "driveTime": 41,
+        "distance": 1.828
     },
     {
         "rijksregisterPatient": "38952492625",
@@ -7236,7 +7996,9 @@
                 "longtitude": 3.761715
             }
         },
-        "visit_timestamp": "2024-10-21T13:36:16Z"
+        "visit_timestamp": "2024-10-21T13:36:16Z",
+        "driveTime": 16,
+        "distance": 1.558
     },
     {
         "rijksregisterPatient": "37030007561",
@@ -7255,7 +8017,9 @@
                 "longtitude": 3.80696
             }
         },
-        "visit_timestamp": "2024-02-09T09:35:37Z"
+        "visit_timestamp": "2024-02-09T09:35:37Z",
+        "driveTime": 34,
+        "distance": 0.785
     },
     {
         "rijksregisterPatient": "24665844652",
@@ -7274,7 +8038,9 @@
                 "longtitude": 3.983609
             }
         },
-        "visit_timestamp": "2024-06-23T17:34:51Z"
+        "visit_timestamp": "2024-06-23T17:34:51Z",
+        "driveTime": 53,
+        "distance": 3.985
     },
     {
         "rijksregisterPatient": "29886394711",
@@ -7293,7 +8059,9 @@
                 "longtitude": 5.618417
             }
         },
-        "visit_timestamp": "2024-09-04T07:04:53Z"
+        "visit_timestamp": "2024-09-04T07:04:53Z",
+        "driveTime": 55,
+        "distance": 2.484
     },
     {
         "rijksregisterPatient": "67275553792",
@@ -7312,7 +8080,9 @@
                 "longtitude": 4.704464
             }
         },
-        "visit_timestamp": "2024-01-05T13:20:37Z"
+        "visit_timestamp": "2024-01-05T13:20:37Z",
+        "driveTime": 58,
+        "distance": 3.535
     },
     {
         "rijksregisterPatient": "22254655189",
@@ -7331,7 +8101,9 @@
                 "longtitude": 3.300253
             }
         },
-        "visit_timestamp": "2024-09-23T22:36:49Z"
+        "visit_timestamp": "2024-09-23T22:36:49Z",
+        "driveTime": 59,
+        "distance": 4.096
     },
     {
         "rijksregisterPatient": "57077890356",
@@ -7350,7 +8122,9 @@
                 "longtitude": 2.540926
             }
         },
-        "visit_timestamp": "2024-09-07T16:28:49Z"
+        "visit_timestamp": "2024-09-07T16:28:49Z",
+        "driveTime": 11,
+        "distance": 2.496
     },
     {
         "rijksregisterPatient": "84157359485",
@@ -7369,7 +8143,9 @@
                 "longtitude": 2.85587
             }
         },
-        "visit_timestamp": "2024-08-10T22:06:49Z"
+        "visit_timestamp": "2024-08-10T22:06:49Z",
+        "driveTime": 10,
+        "distance": 4.853
     },
     {
         "rijksregisterPatient": "29851272935",
@@ -7388,7 +8164,9 @@
                 "longtitude": 3.456299
             }
         },
-        "visit_timestamp": "2024-10-28T18:57:30Z"
+        "visit_timestamp": "2024-10-28T18:57:30Z",
+        "driveTime": 54,
+        "distance": 2.058
     },
     {
         "rijksregisterPatient": "40308152011",
@@ -7407,7 +8185,9 @@
                 "longtitude": 2.816039
             }
         },
-        "visit_timestamp": "2024-04-22T17:43:41Z"
+        "visit_timestamp": "2024-04-22T17:43:41Z",
+        "driveTime": 7,
+        "distance": 3.879
     },
     {
         "rijksregisterPatient": "63948482129",
@@ -7426,7 +8206,9 @@
                 "longtitude": 4.397938
             }
         },
-        "visit_timestamp": "2024-10-22T06:06:15Z"
+        "visit_timestamp": "2024-10-22T06:06:15Z",
+        "driveTime": 21,
+        "distance": 4.578
     },
     {
         "rijksregisterPatient": "53336886551",
@@ -7445,7 +8227,9 @@
                 "longtitude": 2.78992
             }
         },
-        "visit_timestamp": "2024-10-21T19:43:25Z"
+        "visit_timestamp": "2024-10-21T19:43:25Z",
+        "driveTime": 11,
+        "distance": 1.946
     },
     {
         "rijksregisterPatient": "70436645270",
@@ -7464,7 +8248,9 @@
                 "longtitude": 2.997473
             }
         },
-        "visit_timestamp": "2024-10-25T14:28:26Z"
+        "visit_timestamp": "2024-10-25T14:28:26Z",
+        "driveTime": 19,
+        "distance": 4.36
     },
     {
         "rijksregisterPatient": "39992427172",
@@ -7483,7 +8269,9 @@
                 "longtitude": 2.924967
             }
         },
-        "visit_timestamp": "2024-05-16T10:50:19Z"
+        "visit_timestamp": "2024-05-16T10:50:19Z",
+        "driveTime": 10,
+        "distance": 1.323
     },
     {
         "rijksregisterPatient": "59771698466",
@@ -7502,7 +8290,9 @@
                 "longtitude": 5.209565
             }
         },
-        "visit_timestamp": "2024-06-19T09:54:20Z"
+        "visit_timestamp": "2024-06-19T09:54:20Z",
+        "driveTime": 11,
+        "distance": 0.647
     },
     {
         "rijksregisterPatient": "96205668770",
@@ -7521,7 +8311,9 @@
                 "longtitude": 5.018332
             }
         },
-        "visit_timestamp": "2024-10-05T19:30:20Z"
+        "visit_timestamp": "2024-10-05T19:30:20Z",
+        "driveTime": 5,
+        "distance": 3.223
     },
     {
         "rijksregisterPatient": "22006669991",
@@ -7540,7 +8332,9 @@
                 "longtitude": 2.545243
             }
         },
-        "visit_timestamp": "2024-03-20T06:19:16Z"
+        "visit_timestamp": "2024-03-20T06:19:16Z",
+        "driveTime": 38,
+        "distance": 1.084
     },
     {
         "rijksregisterPatient": "69193354151",
@@ -7559,7 +8353,9 @@
                 "longtitude": 5.001714
             }
         },
-        "visit_timestamp": "2024-10-19T09:17:59Z"
+        "visit_timestamp": "2024-10-19T09:17:59Z",
+        "driveTime": 11,
+        "distance": 1.283
     },
     {
         "rijksregisterPatient": "73573136594",
@@ -7578,7 +8374,9 @@
                 "longtitude": 5.380152
             }
         },
-        "visit_timestamp": "2024-11-13T21:38:28Z"
+        "visit_timestamp": "2024-11-13T21:38:28Z",
+        "driveTime": 15,
+        "distance": 1.723
     },
     {
         "rijksregisterPatient": "87110134070",
@@ -7597,18 +8395,8 @@
                 "longtitude": 4.366955
             }
         },
-        "visit_timestamp": "2024-12-12T20:15:55Z"
-    },
-    {
-        "test": "test123"
-    },
-    {
-        "test": "test123"
-    },
-    {
-        "test": "test123"
-    },
-    {
-        "test": "test123"
+        "visit_timestamp": "2024-12-12T20:15:55Z",
+        "driveTime": 24,
+        "distance": 4.936
     }
 ]

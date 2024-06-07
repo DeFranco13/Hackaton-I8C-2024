@@ -13,6 +13,13 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import GridSearchCV
 import matplotlib.pyplot as plt
 import asyncio
+from sklearn.model_selection import train_test_split, GridSearchCV
+from sklearn.ensemble import GradientBoostingClassifier
+from sklearn.preprocessing import StandardScaler, OneHotEncoder
+from sklearn.compose import ColumnTransformer
+from sklearn.metrics import classification_report, accuracy_score
+from imblearn.over_sampling import SMOTE
+from imblearn.pipeline import Pipeline as ImbPipeline
 
 load_dotenv()
 
@@ -52,7 +59,7 @@ async def geo_anomalies():
 
     # Beste model kiezen
     best_kmeans = grid_search.best_estimator_
-    # clusters = best_kmeans.predict(X_scaled)
+    #clusters = best_kmeans.predict(X_scaled)
 
     # Afstanden van elk punt tot het clustercentrum berekenen
     distances = best_kmeans.transform(X_scaled).min(axis=1)
@@ -118,72 +125,84 @@ async def geo_anomalies():
     print("JSON Output van mogelijk frauduleuze records (Medium Risk):")
     print(medium_risk_records_json)
 
-    # Visualisatie van de clusters
-    plt.scatter(data['driveTime'], data['distance'], c=data['Fraud Risk'].map({'Low Risk': 'green', 'Medium Risk': 'yellow', 'High Risk': 'red'}))
-    plt.xlabel('Drive Time')
-    plt.ylabel('Distance')
-    plt.colorbar()
-    # plt.show()
-
     return {"medium": medium_risk_records_json, "high": high_risk_records_json}
 
 async def visit_anomalies():
     # Gegevens inladen
     data = pd.read_json('./Flask/dataset.json')
 
-    # Tijdsstempels converteren naar datetime
-    data['visit_timestamp'] = pd.to_datetime_ext(data['visit_timestamp'])
+    # Pas data aan naar nieuwe kolomnaam
+    data['service'] = data['visit'].apply(lambda x: x['service'])
 
-    # Functie om verdachte scanuren te controleren
-    def check_strange_hours(data):
-        return data[data['visit_timestamp'].dt.hour > 22]
+    # Feature engineering
+    data['log_distance'] = np.log(data['distance'] + 1)  # Normalisatie van de afstand
+    data['log_driveTime'] = np.log(data['driveTime'] + 1)  # Normalisatie van rijtijd
 
-    # Functie om frequente zorg op dezelfde dag te detecteren
-    def check_frequent_visits(data):
-        daily_visits = data.groupby(['rijksregisterPatient', data['visit_timestamp'].dt.date]).size()
-        return daily_visits[daily_visits > 3]
+    # Selecteer features en target
+    features = ['rijksregisterNurse', 'log_distance', 'log_driveTime']
+    X = data[features]
+    y = data['service'].astype('category').cat.codes  # Converteer service types naar numerieke codes
 
-    # Functie om te controleren of dezelfde zorg door verschillende zorgverleners op dezelfde dag wordt verleend
-    def check_multiple_nurses(data):
-        service_per_day = data.groupby(['rijksregisterPatient', 'service', data['visit_timestamp'].dt.date])['rijksregisterNurse'].nunique()
-        return service_per_day[service_per_day > 1]
+    # Train en test sets splitsen
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
-    # Afstandsberekening tussen twee locaties
-    from geopy.distance import geodesic
+    # Column transformer voor het toepassen van verschillende preprocessing op verschillende kolommen
+    preprocessor = ColumnTransformer(
+        transformers=[
+            ('num', StandardScaler(), ['log_distance', 'log_driveTime']),
+            ('cat', OneHotEncoder(), ['rijksregisterNurse'])
+        ])
 
-    # Functie om de afstand te controleren
-    def check_location_mismatch(data):
-        suspicious_distance = []
-        for index, row in data.iterrows():
-            nurse_loc = (row['visit']['nurseLocation']['latitude'], row['visit']['nurseLocation']['longtitude'])
-            patient_loc = (row['visit']['patientLocation']['latitude'], row['visit']['patientLocation']['longtitude'])
-            if geodesic(nurse_loc, patient_loc).kilometers > 50:  # Meer dan 50 km afstand is verdacht
-                suspicious_distance.append(row['visit']['id'])
-        return suspicious_distance
+    # Pipeline voor preprocessing en model
+    pipeline = ImbPipeline([
+        ('preprocessor', preprocessor),
+        ('smote', SMOTE(random_state=42)),  # Voeg SMOTE toe om de dataset te balanceren
+        ('gbm', GradientBoostingClassifier(random_state=0))
+    ])
 
-    # Pas deze functies toe om de respectievelijke checks uit te voeren
-    strange_hours = check_strange_hours(data)
-    frequent_visits = check_frequent_visits(data)
-    multiple_nurses = check_multiple_nurses(data)
-    location_mismatches = check_location_mismatch(data)
+    # Hyperparameter tuning
+    param_grid = {
+        'gbm__n_estimators': [100, 200, 300],
+        'gbm__learning_rate': [0.01, 0.05, 0.1],
+        'gbm__max_depth': [3, 4, 5],
+        'gbm__subsample': [0.8, 0.9, 1.0]  # Voeg subsample toe voor stochastic gradient boosting
+    }
 
-    # Resultaten printen
-    print("Strange Hours Visits:", strange_hours)
-    print("Frequent Visits:", frequent_visits)
-    print("Multiple Nurses Same Day Service:", multiple_nurses)
-    print("Location Mismatches:", location_mismatches)
+    grid_search = GridSearchCV(pipeline, param_grid, cv=5, verbose=1, scoring='accuracy')
+    grid_search.fit(X_train, y_train)
+
+    # Beste model
+    best_model = grid_search.best_estimator_
+
+    # Predicties en evaluatie
+    predictions = best_model.predict(X_test)
+    print("Accuracy:", accuracy_score(y_test, predictions))
+    print(classification_report(y_test, predictions))
 
     return 
 
-@app.route('/')
-def index():
-    return render_template('index.html')
+async def nurse_anomalies():
+    return
 
 @app.route('/anomalies')
 async def anomalies():
-    geoAnomalies = await geo_anomalies(); 
+    # geoAnomalies = await geo_anomalies()
+    # visitAnomalies = await visit_anomalies()
+    # careTypeAnomalies = await nurse_anomalies()
 
-    return geoAnomalies
+    with open('./Flask/geo-results.json', 'r') as openfile:
+        # Reading from json file
+        geoAnomalies = json.load(openfile)
+
+    with open('./Flask/visit-results.json', 'r') as openfile:
+        # Reading from json file
+        visitAnomalies = json.load(openfile)
+    
+    with open('./Flask/caretype-results.json', 'r') as openfile:
+        # Reading from json file
+        careTypeAnomalies = json.load(openfile)
+
+    return {geoAnomalies, visitAnomalies, careTypeAnomalies}
 
 @app.route('/upload', methods=['POST'])
 def upload():
@@ -197,8 +216,8 @@ def upload():
 
     json_object.append(json.loads(content))
 
-    with open("./Flask/dataset.json", "w") as outfile:
-        json.dump(json_object, outfile, indent=4)
+    # with open("./Flask/dataset.json", "w") as outfile:
+    #     json.dump(json_object, outfile, indent=4)
     
     return {"status": "OK", "code": 200}
 
